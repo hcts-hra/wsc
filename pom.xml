@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>tamboti</groupId>
 	<artifactId>wsc</artifactId>
-	<version>0.1</version>
+	<version>0.2</version>
 	<packaging>pom</packaging>
 
 	<url>http://kjc-sv016.kjc.uni-heidelberg.de:8080/exist/apps/wsc/modules/search/index.html</url>
