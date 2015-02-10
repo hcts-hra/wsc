@@ -44,6 +44,17 @@
 				<artifactId>kuberam-expath-plugin</artifactId>
 				<executions>
 					<execution>
+						<id>create-patched-build</id>
+						<phase>package</phase>
+						<goals>
+							<goal>make-xar</goal>
+						</goals>
+						<configuration>
+							<descriptor>assembly-patched.xml</descriptor>
+							<finalName>${project.build.finalName}-patched</finalName>
+						</configuration>
+					</execution>
+					<execution>
 						<id>create-build</id>
 						<phase>package</phase>
 						<goals>
