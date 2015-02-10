@@ -50,7 +50,7 @@
 							<goal>make-xar</goal>
 						</goals>
 						<configuration>
-							<descriptor>assembly-patched.xml</descriptor>
+							<descriptor>build/assembly-patched.xml</descriptor>
 							<finalName>${project.build.finalName}-patched</finalName>
 						</configuration>
 					</execution>
@@ -61,7 +61,7 @@
 							<goal>make-xar</goal>
 						</goals>
 						<configuration>
-							<descriptor>assembly.xml</descriptor>
+							<descriptor>build/assembly.xml</descriptor>
 							<finalName>${project.build.finalName}</finalName>
 						</configuration>
 					</execution>
