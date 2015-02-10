@@ -9,7 +9,7 @@
 	<license>GNU-LGPL</license>
 	<copyright>true</copyright>
 	<type>application</type>
-	<target>tamboti/themes/${project.artifactId}</target>
+	<target>tamboti/themes/wsc</target>
 	<permissions user="editor" password="editor" group="biblio.users" mode="0444" />
 	<status>stable</status>
 	<prepare>pre-install.xql</prepare>
@@ -27,6 +27,7 @@
 				<exclude>build/</exclude>
 				<exclude>target/</exclude>
 				<exclude>pom.xml</exclude>
+				<exclude>.classpath</exclude>
 			</excludes>
 		</fileSet>
 	</fileSets>
