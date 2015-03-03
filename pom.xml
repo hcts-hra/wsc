@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>tamboti</groupId>
 	<artifactId>wsc</artifactId>
-	<version>0.1</version>
+	<version>0.2</version>
 	<packaging>pom</packaging>
 
 	<url>http://kjc-sv016.kjc.uni-heidelberg.de:8080/exist/apps/wsc/modules/search/index.html</url>
@@ -44,13 +44,24 @@
 				<artifactId>kuberam-expath-plugin</artifactId>
 				<executions>
 					<execution>
+						<id>create-patched-build</id>
+						<phase>package</phase>
+						<goals>
+							<goal>make-xar</goal>
+						</goals>
+						<configuration>
+							<descriptor>build/assembly-patched.xml</descriptor>
+							<finalName>${project.build.finalName}-patched</finalName>
+						</configuration>
+					</execution>
+					<execution>
 						<id>create-build</id>
 						<phase>package</phase>
 						<goals>
 							<goal>make-xar</goal>
 						</goals>
 						<configuration>
-							<descriptor>assembly.xml</descriptor>
+							<descriptor>build/assembly.xml</descriptor>
 							<finalName>${project.build.finalName}</finalName>
 						</configuration>
 					</execution>
