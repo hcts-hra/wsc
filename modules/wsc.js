@@ -4,6 +4,6 @@ $(function() {
         var $this = $(this);
         $this.siblings().removeClass('active');
         $this.addClass('active');        
-        $('#content-placeholder').load($this.attr('id') + '.html #content-placeholder > *');  
+        $('#content-placeholder').load('../../themes/wsc/pages/' + $this.attr('id') + '.html #content-placeholder > *');  
     });
 });
