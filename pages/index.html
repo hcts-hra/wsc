@@ -1,98 +1,113 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title>Wissenschaftssprache Chinesisch / Modern Chinese Scientific Terminologies</title>
+    <head>
+        <title>Wissenschaftssprache Chinesisch / Modern Chinese Scientific Terminologies</title>
 <!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"/>-->
-<script src="$shared/resources/scripts/jquery/jquery-1.7.1.min.js" type="text/javascript" />
+        <script src="$shared/resources/scripts/jquery/jquery-1.7.1.min.js" type="text/javascript"/>
 <!--<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"/>-->
-<script src="$shared/resources/scripts/jquery/jquery-ui.min.js" type="text/javascript" />
-<script src="$shared/resources/scripts/jquery/jquery-utils.js" type="text/javascript" />
-<script type="text/javascript" src="resources/scripts/fancytree/jquery.fancytree.min.js"></script>
-<script type="text/javascript" src="$shared/resources/scripts/jquery/jquery.dataTables-1.8.1.min.js" />
-<script type="text/javascript" src="$shared/resources/scripts/jquery/jquery.cookie.js" />
-<script type="text/javascript" src="resources/scripts/jquery.scrollintoview.min.js" />
-<script type="text/javascript" src="resources/scripts/jquery-utils.js" />
-<script type="text/javascript" src="../session.js.xql" />
-<script type="text/javascript" src="resources/scripts/query.js" />
-<script type="text/javascript" src="resources/scripts/galleries.js" />
-<script type="text/javascript" src="resources/scripts/jquery.ieblocker.js" />
-<script type="text/javascript" src="resources/scripts/angular.min.js" />
-<script type="text/javascript" src="../upload/upload.js" />
-<script type="text/javascript" src="theme/modules/wsc.js" />
-<link rel="stylesheet" type="text/css" href="$shared/resources/scripts/jquery/css/smoothness/jquery.ui.all.css" />
-<link rel="stylesheet" type="text/css" href="resources/scripts/fancytree/skin-tamboti/ui.fancytree.css"></link>
-<link rel="stylesheet" type="text/css" href="theme/css/biblio.css" />
-<link rel="stylesheet" type="text/css" href="theme/css/theme.css" />
-<link rel="stylesheet" type="text/css" href="theme/css/upload.css" />
-<link rel="shortcut icon" href="theme/images/favicon.ico" />
-<link rel="unapi-server" type="application/xml" title="unAPI" href="unapi.xql" />
-<link rel="stylesheet" type="text/css" href="../../themes/default/css/upload_angular.css" />
-</head>
-<body ng-app="app" ng-controller="FileUploadCtrl">
-	<div class="templates:include?path=pages/dialogs.html" />
-	<div id="content1col">
-		<div id="page-head">
-			<a name="top" />
-			<div id="page-head-left">
-				<a href="/exist/apps/wsc/"> <img src="theme/images/wsc-logo-schriftzug4.png" title="WSC" alt="WSC"
-					style="border-style: none;" />
-				</a>
-			</div>
-			<div id="page-head-right">
-				<a href="http://www.asia-europe.uni-heidelberg.de/en/home.html" target="_blank"> <img
-					src="theme/images/logovjc2.gif" width="75" height="69" style="border-style: none" alt="" />
-				</a>
-			</div>
-			<div id="nav">
-				<a name="navigation" id="navigation" />
-				<div class="hlist">
-					<h4 class="hideme">Main Navigation</h4>
-					<ul>
-						<li id="index-menu-item" class="active"><a title="Home" href="index.html">Home</a></li>
-						<li id="aboutus"><a title="About Us" href="#">About Us</a></li>
-						<li id="databases"><a title="Databases" href="#">Databases</a>
-							<div id="subnavwsc" class="hlist">
-								<ul>
-									<li><a title="Databases" href="databases.html">Introduction</a></li>
-									<li id="bib"><a title="Bibliography" href="#">Bibliographical DB</a></li>
+        <script src="$shared/resources/scripts/jquery/jquery-ui.min.js" type="text/javascript"/>
+        <script src="$shared/resources/scripts/jquery/jquery-utils.js" type="text/javascript"/>
+        <script type="text/javascript" src="resources/scripts/fancytree/jquery.fancytree.min.js"></script>
+        <script type="text/javascript" src="$shared/resources/scripts/jquery/jquery.dataTables-1.8.1.min.js"/>
+        <script type="text/javascript" src="$shared/resources/scripts/jquery/jquery.cookie.js"/>
+        <script type="text/javascript" src="resources/scripts/jquery.scrollintoview.min.js"/>
+        <script type="text/javascript" src="resources/scripts/jquery-utils.js"/>
+        <script type="text/javascript" src="../session.js.xql"/>
+        <script type="text/javascript" src="core/apis.js"></script>
+        <script type="text/javascript" src="resources/scripts/query.js"/>
+        <script type="text/javascript" src="resources/scripts/galleries.js"/>
+        <script type="text/javascript" src="resources/scripts/jquery.ieblocker.js"/>
+        <script type="text/javascript" src="resources/scripts/angular.min.js"/>
+        <script type="text/javascript" src="../upload/upload.js"/>
+        <script type="text/javascript" src="../../themes/wsc/modules/wsc.js"/>
+        <link rel="stylesheet" type="text/css" href="$shared/resources/scripts/jquery/css/smoothness/jquery.ui.all.css"/>
+        <link rel="stylesheet" type="text/css" href="resources/scripts/fancytree/skin-tamboti/ui.fancytree.css"></link>
+        <link rel="stylesheet" type="text/css" href="theme/css/biblio.css"/>
+        <link rel="stylesheet" type="text/css" href="theme/css/theme.css"/>
+        <link rel="stylesheet" type="text/css" href="theme/css/upload.css"/>
+        <link rel="shortcut icon" href="theme/images/favicon.ico"/>
+        <link rel="unapi-server" type="application/xml" title="unAPI" href="unapi.xql"/>
+        <link rel="stylesheet" type="text/css" href="../../themes/default/css/upload_angular.css"/>
+    </head>
+    <body ng-app="app" ng-controller="FileUploadCtrl">
+        <div class="templates:include?path=pages/dialogs.html"/>
+        <div id="content1col">
+            <div id="page-head">
+                <a name="top"/>
+                <div id="page-head-left">
+                    <a href="/exist/apps/wsc/">
+                        <img src="../../themes/wsc/images/wsc-logo-schriftzug4.png" title="WSC" alt="WSC" style="border-style: none;"/>
+                    </a>
+                </div>
+                <div id="page-head-right">
+                    <a href="http://www.asia-europe.uni-heidelberg.de/en/home.html" target="_blank">
+                        <img src="../../themes/wsc/images/logovjc2.gif" width="75" height="69" style="border-style: none" alt=""/>
+                    </a>
+                </div>
+                <div id="nav">
+                    <a name="navigation" id="navigation"/>
+                    <div class="hlist">
+                        <h4 class="hideme">Main Navigation</h4>
+                        <ul>
+                            <li id="index-menu-item" class="active">
+                                <a title="Home" href="index.html">Home</a>
+                            </li>
+                            <li id="aboutus">
+                                <a title="About Us" href="#">About Us</a>
+                            </li>
+                            <li id="databases">
+                                <a title="Databases" href="#">Databases</a>
+                                <div id="subnavwsc" class="hlist">
+                                    <ul>
+                                        <li>
+                                            <a title="Databases" href="databases.html">Introduction</a>
+                                        </li>
+                                        <li id="bib">
+                                            <a title="Bibliography" href="#">Bibliographical DB</a>
+                                        </li>
 									<!--     <li><a title="Bibliographical Database" href="bibdb.html">Access Biblio DB</a></li>    -->
-									<li id="bio"><a title="Biographies" href="#">Biographical DB</a></li>
+                                        <li id="bio">
+                                            <a title="Biographies" href="#">Biographical DB</a>
+                                        </li>
 									<!--     <li><a title="Biographical Database" href="biodb.html">Bio DB</a></li>		-->
-									<li id="term"><a title="Termionologies" href="#">Terminological DB</a></li>
+                                        <li id="term">
+                                            <a title="Termionologies" href="#">Terminological DB</a>
+                                        </li>
 									<!--     <li><a title="Terminology Database" href="termdb.html">Term DB</a></li>    -->
-								</ul>
-							</div></li>
-						<li id="activities"><a title="Activities" href="#">Activities</a></li>
-						<li id="publications"><a title="Publications" href="#">Publications</a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-		<div id="content-placeholder">
-			<h1>Welcome to the WSC Database website!</h1>
-			<h2>HRA 5 Modern Chinese Scientific Terminologies</h2>
-			<img style="float: left; margin: 0 20px 0 0;" height="300px" src="theme/images/dict.gif" border="0" alt="" />
-			<h3>The Distribution of Western Knowledge in Late Imperial China</h3>
-			<p>
-				<strong>Coordination: </strong> <a
-					href="http://www.asia-europe.uni-heidelberg.de/en/people/person/persdetail/kurtz.html" target="_blank">Joachim
-					Kurtz</a>, <a href="http://www.asia-europe.uni-heidelberg.de/en/people/person/persdetail/oestergaard-petersen.html"
-					target="_blank">Jens Østergaard Petersen</a>, <a
-					href="http://www.asia-europe.uni-heidelberg.de/en/people/person/persdetail/mueller-wang.html" target="_blank">Kaja
-					Müller-Wang</a>, <a href="http://www.asia-europe.uni-heidelberg.de/en/people/all/person/persdetail/paterson.html"
-					target="_blank">Duncan Paterson</a>, <a
-					href="http://www.asia-europe.uni-heidelberg.de/en/people/person/persdetail/amelung.html" target="_blank">
+                                    </ul>
+                                </div>
+                            </li>
+                            <li id="activities">
+                                <a title="Activities" href="#">Activities</a>
+                            </li>
+                            <li id="publications">
+                                <a title="Publications" href="#">Publications</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div id="content-placeholder">
+                <h1>Welcome to the WSC Database website!</h1>
+                <h2>HRA 5 Modern Chinese Scientific Terminologies</h2>
+                <img style="float: left; margin: 0 20px 0 0;" height="300px" src="../../themes/wsc/images/dict.gif" border="0" alt=""/>
+                <h3>The Distribution of Western Knowledge in Late Imperial China</h3>
+                <p>
+                    <strong>Coordination: </strong>
+                    <a href="http://www.asia-europe.uni-heidelberg.de/en/people/person/persdetail/kurtz.html" target="_blank">Joachim
+					Kurtz</a>, <a href="http://www.asia-europe.uni-heidelberg.de/en/people/person/persdetail/oestergaard-petersen.html" target="_blank">Jens Østergaard Petersen</a>, <a href="http://www.asia-europe.uni-heidelberg.de/en/people/person/persdetail/mueller-wang.html" target="_blank">Kaja
+					Müller-Wang</a>, <a href="http://www.asia-europe.uni-heidelberg.de/en/people/all/person/persdetail/paterson.html" target="_blank">Duncan Paterson</a>, <a href="http://www.asia-europe.uni-heidelberg.de/en/people/person/persdetail/amelung.html" target="_blank">
 					Iwo Amelung</a>
-			</p>
-			<h3>Abstract</h3>
-			<img style="float: right; margin: 0 30px 30px 30px;" src="theme/images/gezhi.gif" border="0" alt="" />
-			<p>The WSC-Project (Wissenschaftssprache Chinesisch / Modern Chinese Scientific Terminologies) aims to understand
+                </p>
+                <h3>Abstract</h3>
+                <img style="float: right; margin: 0 30px 30px 30px;" src="../../themes/wsc/images/gezhi.gif" border="0" alt=""/>
+                <p>The WSC-Project (Wissenschaftssprache Chinesisch / Modern Chinese Scientific Terminologies) aims to understand
 				the distribution and transformation of Euro-American knowledge in late imperial China (ca. 1600–1911) through the
 				reconstruction of Chinese scientific terminologies coined, altered, disputed and successively refined since the
 				early nineteenth century. Due to the vast amount of relevant sources, the project will limit its scope for the time
 				being to the disciplines of philosophy, logic, physics, chemistry, geography (i.e. "knowledge on foreign
 				countries"), politics and international law. In addition, it will concentrate on the formative period of modern
 				Chinese scientific vocabulary between ca. 1840 and 1930.</p>
-			<p>In its current phase, the project focuses on the revision of a bibliographical database documenting
+                <p>In its current phase, the project focuses on the revision of a bibliographical database documenting
 				translations of Western science and thought into Chinese during the period of investigation. Other data like
 				biographical information on the authors and translators, or new terms developed and employed in these writings, are
 				stored in related databases linked to the bibliography, which will be prepared for online access in two planned
@@ -100,8 +115,8 @@
 				transparent and accessible by providing comprehensive information on the media, institutions, people, texts, terms,
 				sites and images involved in diverse instances of distribution, adaptation and appropriation of knowledge from
 				Euro-America and Japan in late Qing and early Republican China.&#160;</p>
-		</div>
-	</div>
+            </div>
+        </div>
 	<!--<div id="page-footer">Tamboti Metadata Framework, version 1.0, 2011-09-01. Licence: GNU-LGPL.</div>-->
-</body>
+    </body>
 </html>
