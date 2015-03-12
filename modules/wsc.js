@@ -1,9 +1,15 @@
+function loadContent(contentName) {
+    var menu = $("#nav .hlist");
+    var menuItems = $("li", menu);
+    menuItems.removeClass('active');
+    var menuItem = $("#" + contentName, menu);
+    menuItem.addClass('active');
+	$('#content-placeholder').load('../../themes/wsc/pages/' + contentName + '.html #content-placeholder > *');
+}
+
 $(function() {
     $("#nav .hlist li").on("click", function(event){
         event.stopPropagation();
-        var $this = $(this);
-        $this.siblings().removeClass('active');
-        $this.addClass('active');        
-        $('#content-placeholder').load('../../themes/wsc/pages/' + $this.attr('id') + '.html #content-placeholder > *');  
+        loadContent($(this).attr('id'))
     });
 });
