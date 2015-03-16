@@ -1,32 +1,36 @@
-<div xmlns="http://www.w3.org/1999/xhtml" id="content-placeholder"
-	class="templates:surround?with=pages/index.html&amp;at=content-placeholder">
-	<div class="biblio:query">
-		<div class="templates:include?path=pages/search-form.html" />
-		<div id="main-content">
-			<div id="results-head">
-				<span class="navbar"> <span class="records-shown"> <span class="pagination-first">|&lt;</span> <span
-						class="pagination-previous">&lt;</span> <span class="pagination-info" /> <span class="pagination-next">&gt;</span>
-						<span class="pagination-last">&gt;|</span>
-				</span> of <span class="biblio:result-count result-count" /> <span id="last-collection-queried" /> <a
-					class="pagination-toggle" href="#">List view</a> <!--<span class="pagination-mode">
+<div xmlns="http://www.w3.org/1999/xhtml" id="content-placeholder">
+    <div class="biblio:query">
+        <div data-template="templates:include?path=search-form.html"/>
+        <div id="main-content">
+            <div id="results-head">
+                <span class="navbar">
+                    <span class="records-shown">
+                        <span class="pagination-first">|&lt;</span>
+                        <span class="pagination-previous">&lt;</span>
+                        <span class="pagination-info"/>
+                        <span class="pagination-next">&gt;</span>
+                        <span class="pagination-last">&gt;|</span>
+                    </span> of <span class="biblio:result-count result-count"/>
+                    <span id="last-collection-queried"/>
+                    <a class="pagination-toggle" href="#">List view</a> <!--<span class="pagination-mode">
                         View as: 
                         <a href="" class="pagination-mode-list">List</a> |
                         <a href="" class="pagination-mode-gallery">Gallery</a> |
                         <a href="" class="pagination-mode-grid">Grid</a>
                     </span>-->
-				</span>
-				<div id="optimize-trigger" />
-				<div class="navbar" />
-			</div>
-			<div id="result-container">
-				<div class="templates:include?path=pages/filters.html" />
-				<div id="pagination">
-					<div id="results" />
-				</div>
-			</div>
-		</div>
-		<div class="back">
-			<a href="#top"> [BACK TO TOP] </a>
-		</div>
-	</div>
+                </span>
+                <div id="optimize-trigger"/>
+                <div class="navbar"/>
+            </div>
+            <div id="result-container">
+                <div class="templates:include?path=/apps/tamboti/themes/default/filters.html"/>
+                <div id="pagination">
+                    <div id="results"/>
+                </div>
+            </div>
+        </div>
+        <div class="back">
+            <a href="#top"> [BACK TO TOP] </a>
+        </div>
+    </div>
 </div>
