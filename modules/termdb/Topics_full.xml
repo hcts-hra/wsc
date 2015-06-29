@@ -1,0 +1,334 @@
+<?xml version="1.0"?>
+<subject>
+    <!-- 7 missing id need check with term_sample and online-->
+    <!-- have another go at the distinct-values from //termdb//*   -->
+        <topic>Acoustics</topic> <!--sh85125363-->
+        <topic>Aeronomy</topic> <!--sh85009275-->
+        <topic>Aesthetics</topic> <!--sh85001441-->
+        <topic>Agriculture</topic> <!--sh85002415-->
+        <topic>Agriculture and Food Production</topic> <!--sh85002415-->
+        <topic>Air Transportation</topic> <!--sh85001360-->
+        <topic>Aircraft</topic> <!--sh85049596-->
+        <topic>Airforce</topic>  <!--sh85002638-->
+        <topic>Algebra</topic>  <!--sh85003425-->
+        <topic>Analysis</topic> <!--sh85004780-->
+        <topic>Analytical Chemistry</topic>  <!--sh85023011-->
+        <topic>Anatomy</topic> <!--sh85004835-->
+        <topic>Anthropology</topic>  <!--sh85005581-->
+        <topic>Applied Geography</topic> <!--sh89006425-->
+        <topic>Applied Logic</topic>  <!--sh85111790-->
+        <topic>Applied logic</topic> <!--sh85111790-->
+        <topic>Archaelogy</topic> <!--sh85006507-->
+        <topic>Archaeology</topic> <!--sh85006507-->
+        <topic>Architecture, Urban Design</topic> <!--sh85026282-->
+        <topic>Argarwissenschaft</topic> <!--sh91006254-->
+        <topic>Army</topic> <!--sh85007241-->
+        <topic>Arts</topic> <!--sh85008324-->
+        <topic>Astrogeology</topic> <!--sh88000316-->
+        <topic>Astronomy</topic> <!--sh85009003-->
+        <topic>Atmospheric Sciences</topic> <!--sh85009289-->
+        <topic>Ausbildung</topic> <!--sh85093855-->
+        <topic>Ballistics</topic> <!--sh85011312-->
+        <topic>Basic Engineering Services</topic> <!--sh85120347-->
+        <topic>Basic Social Services</topic> <!--sh85124049-->
+        <topic>Beverage Production</topic> <!--sh85013498-->
+        <topic>Bibliography</topic> <!--sh85013838-->
+        <topic>Biochemistry</topic> <!--sh85014171-->
+        <topic>Biography</topic> <!--sh85014152-->
+        <topic>Biological Sciences</topic> <!--sh85014203-->
+        <topic>Biology</topic> <!--sh85014203-->
+        <topic>Botany</topic> <!--sh85015976-->
+        <topic>Calender</topic> <!--sh85018823-->
+        <topic>Cell Biology</topic> <!--sh85035240-->
+        <topic>Chemistry</topic> <!--sh85022986-->
+        <topic>Chinese Studies</topic> <!--sh85024195-->
+        <topic>Chronology</topic> <!--sh85025406-->
+        <topic>Civil Engineering Works</topic> <!--sh85026331-->
+        <topic>Civil Procedural Law</topic> <!--sh85026353-->
+        <topic>Climatology</topic> <!--sh85027044-->
+        <topic>Combinatorics and Number Theory</topic> <!--sh85003425-->
+        <topic>Communication and Information Theory</topic> <!--sh85066289-->
+        <topic>Comparatistics</topic> <!--sh85034273-->
+        <topic>Constitutional Law</topic> <!--sh85031329-->
+        <topic>Construction Industries</topic> <!--sh85031360-->
+        <topic>Construction Technology</topic> <!--sh97005373-->
+        <topic>Criminal Law</topic> <!--sh85034058-->
+        <topic>Crop Farming</topic> <!--sh91006254-->
+        <topic>Crop farming</topic> <!--sh91006254-->
+        <topic>Cultural Anthropology</topic> <!--sh85045198-->
+        <topic>Culture</topic> <!--sh85036316-->
+        <topic>Daily Life</topic> <!--sh85076844-->
+        <topic>Dance</topic> <!--sh85035659-->
+    <topic>Decoration, Functional Design</topic>
+        <topic>Defensive Weaponry</topic> <!--sh85007341-->
+        <topic>Demography</topic> <!--sh85036659-->
+        <topic>Dentistry</topic> <!--sh85036953-->
+        <topic>Diplomacy</topic> <!--sh85038179-->
+        <topic>Documents</topic> <!--sh85075742-->
+        <topic>Drawing, Painting, Printmaking, Photography</topic> <!--sh85007461-->
+        <topic>Earth Sciences</topic> <!--sh85040468-->
+    <topic>Economic Geology</topic>
+        <topic>Economic History</topic> <!--sh85040817-->
+        <topic>Economic Law</topic> <!--sh95010239-->
+        <topic>Economic Systems</topic> <!--sh85079443-->
+        <topic>Economic Theory</topic> <!--sh85040850-->
+        <topic>Economics</topic> <!--sh85040850-->
+        <topic>Economy</topic> <!--sh85040850-->
+        <topic>Education</topic> <!--sh85040989-->
+        <topic>Electricity</topic> <!--sh85042065-->
+    <topic>Electronic Components and Techniques</topic>
+        <topic>Encyclopedia</topic> <!--sh85042997-->
+        <topic>Endocrinology</topic> <!--sh85043068-->
+        <topic>Engineering</topic> <!--sh85043176-->
+        <topic>Engineering Geology</topic> <!--sh85043221-->
+        <topic>Environmental Geology</topic> <!--sh90002376-->
+        <topic>Epistemology</topic> <!--sh85072732-->
+        <topic>Ethics</topic> <!--sh85045096-->
+        <topic>Eugenics</topic> <!--sh85045538-->
+        <topic>Explosives</topic> <!--sh85046474-->
+        <topic>Family Law</topic> <!--sh85038927-->
+        <topic>Farm Management</topic> <!--sh85047223-->
+        <topic>Food Preservation</topic> <!--sh85050212-->
+    <topic>Food Processing</topic>
+        <topic>Food Sources and New Product Development</topic> <!--sh85050282-->
+        <topic>Formal Logic</topic> <!--sh85050793-->
+        <topic>Genealogy</topic> <!--sh85053742-->
+        <topic>General Building Construction</topic> <!--sh85017693-->
+        <topic>Geodesy</topic> <!--sh85053969-->
+        <topic>Geography</topic> <!--sh85053986-->
+        <topic>Geological Sciences</topic> <!--sh85040468-->
+        <topic>Geometry</topic> <!--sh85054133-->
+        <topic>Geomorphology</topic> <!--sh85054165-->
+        <topic>Geophysics</topic> <!--sh85054185-->
+        <topic>Glacial Geology</topic> <!--sh85055077-->
+        <topic>Glaciology</topic> <!--sh85055077-->
+        <topic>Government Finance</topic> <!--sh85048270-->
+        <topic>Gunpowder Weapons</topic> <!--sh85057937-->
+        <topic>Heat</topic> <!--sh85059758-->
+        <topic>Heraldry</topic> <!--sh85060322-->
+        <topic>Historical Anthropology</topic> <!--sh88002742-->
+        <topic>Historical Events</topic> <!--sh88001278-->
+        <topic>Historical Geography</topic> <!--sh85054019-->
+    <topic>Historical Geology</topic>
+        <topic>Historical Linguistics</topic> <!--sh85061192-->
+        <topic>Historiography</topic> <!--sh85061211-->
+        <topic>History</topic> <!--sh85061212-->
+        <topic>History of Art</topic> <!--sh85007488-->
+        <topic>History of Science</topic> <!--sh85118615-->
+        <topic>History of Technology</topic> <!--sh2009102782-->
+        <topic>Housework</topic> <!--sh97003594-->
+        <topic>Human Geography</topic> <!--sh85005570-->
+        <topic>Humanities</topic> <!--sh85062913-->
+        <topic>Hydrologic Sciences</topic> <!--sh85006246-->
+        <topic>Hydrology</topic> <!--sh85063458-->
+        <topic>Hygiene</topic> <!--sh85063519-->
+        <topic>Hygienics</topic> <!--sh85063519-->
+        <topic>Immunology</topic> <!--sh85064579-->
+        <topic>Industrial Chemistry</topic> <!--sh85023029-->
+        <topic>Industrial Research and Development</topic> <!--sh85113031-->
+        <topic>Industrial Safety</topic> <!--sh85065936-->
+        <topic>Industry</topic> <!--sh85065960-->
+        <topic>Information Processing and Communication</topic> <!--sh85133270-->
+        <topic>Information Processing and Systems</topic> <!--sh98003200-->
+        <topic>Information Recording Devices</topic> <!--sh85066163-->
+        <topic>Inorganic Chemistry</topic> <!--sh85023017-->
+        <topic>Intellectual History</topic> <!--sh85067164-->
+        <topic>Intelligence</topic> <!--sh85067173-->
+        <topic>International Law</topic> <!--sh85067417-->
+        <topic>International Relations</topic> <!--sh85067435-->
+        <topic>International Trade</topic> <!--sh87004890-->
+        <topic>Japan Civilization</topic> <!--sh85069361-->
+        <topic>Japan Civilization Western Influences</topic> <!--sh85069390-->
+        <topic>Japan Relations Europe</topic> <!--sh2008115657-->
+        <topic>Japanese National Characteristics</topic> <!--sh85089983-->
+        <topic>Journalism and Media</topic> <!--sh85070736-->
+        <topic>Judical Procedure</topic> <!--sh85107127-->
+        <topic>Judicial Procedure</topic> <!--sh85107127-->
+        <topic>Knowledge</topic> <!--sh85072732-->
+        <topic>Labour Movement</topic> <!--sh89000876-->
+        <topic>Law</topic> <!--sh85075119-->
+        <topic>Law of Torts</topic> <!--sh85136182-->
+        <topic>Library Science</topic> <!--sh85076723-->
+        <topic>Life Support Systems for Exploration</topic> <!--sh85062867-->
+        <topic>Limnology</topic> <!--sh85077053-->
+        <topic>Linguistic Anthropology</topic> <!--sh85005577-->
+        <topic>Linguistic Geography</topic> <!--sh85077216-->
+        <topic>Linguistics</topic> <!--sh85077222-->
+        <topic>Literary Criticism</topic> <!--sh85034149-->
+        <topic>Literature</topic> <!--sh85077507-->
+        <topic>Livestock Farming</topic> <!--sh85077784-->
+        <topic>Livestock farming</topic> <!--sh85077784-->
+        <topic>Logic</topic> <!--sh85078106-->
+        <topic>Logistics</topic> <!--sh85078128-->
+        <topic>Macroeconomics</topic> <!--sh85079443-->
+        <topic>Magnetism</topic> <!--sh85079759-->
+        <topic>Major Fabrication Industries</topic> <!--sh97001369-->
+        <topic>Major Manufacturing Industries</topic> <!--sh97001369-->
+        <topic>Major Process Industries</topic> <!--sh85080664-->
+        <topic>Material Culture</topic> <!--sh85082061-->
+        <topic>Mathematical and Statistical Linguistics</topic> <!--sh85082122-->
+        <topic>Mathematics</topic> <!--sh85082139-->
+        <topic>Mechanics</topic> <!--sh85082767-->
+        <topic>Medical Jurisprudence</topic> <!--sh85082955-->
+        <topic>Medicine</topic> <!--sh85083064-->
+        <topic>Merchandising and Marketing</topic> <!--sh85081333-->
+        <topic>Metalogic</topic> <!--sh85078115-->
+        <topic>Metaphysics</topic> <!--sh85084286-->
+        <topic>Meteoritics</topic> <!--sh85084363-->
+        <topic>Meteorology</topic> <!--sh85084334-->
+        <topic>Meterology</topic> <!--sh85084334-->
+        <topic>Microeconomics</topic> <!--sh85084819-->
+        <topic>Military</topic> <!--sh85085132-->
+        <topic>Military </topic> <!--sh85085132-->
+        <topic>Military History</topic> <!--sh00005863-->
+        <topic>Military Technology</topic> <!--sh85085132-->
+        <topic>Mineralogy</topic> <!--sh85085589-->
+        <topic>Mining</topic> <!--sh85085712-->
+        <topic>Missionary History</topic> <!--sh85086042-->
+        <topic>Molecular Biology</topic> <!--sh85086577-->
+        <topic>Motion Pictures</topic> <!--sh85088084-->
+        <topic>Music</topic> <!--sh85088762-->
+        <topic>Musicology</topic> <!--sh85089048-->
+        <topic>Natural Science</topic> <!--sh85118553-->
+        <topic>Navigation</topic> <!--sh85090425-->
+        <topic>Navy</topic>  <!--sh85090422-->
+        <topic>Neologisms</topic> <!--sh85148117-->
+        <topic>Neurology</topic> <!--sh85091139-->
+        <topic>News (Domestic)</topic> <!--sh85106500-->
+        <topic>News (World)</topic> <!--sh85050511-->
+        <topic>Nuclear and Atomic Physics</topic> <!--sh85093024-->
+        <topic>Obstetrics and Gynecology</topic> <!--sh85147301-->
+        <topic>Occupational Medicine</topic> <!--sh85083146-->
+        <topic>Oceanography</topic> <!--sh85093937-->
+        <topic>Offensive Weaponry</topic> <!--sh85007341-->
+        <topic>Office machines</topic> <!--sh85094180-->
+        <topic>Ophtamology</topic> <!--sh85095071-->
+        <topic>Optics</topic> <!--sh85095181-->
+        <topic>Organic Chemistry</topic> <!--sh85023022-->
+        <topic>Organismic Biology</topic> <!--sh2003007697-->
+        <topic>Organization of Education</topic> <!--sh85041091-->
+        <topic>Overseas Chinese</topic> <!--sh2005002341-->
+        <topic>Paleography</topic> <!--sh85097064-->
+        <topic>Paleontology</topic> <!--sh85097123-->
+        <topic>Pathology</topic> <!--sh85098685-->
+        <topic>Pedagogy</topic> <!--sh85040989-->
+        <topic>Petrology</topic> <!--sh85100472-->
+        <topic>Pharmacy</topic> <!--sh85100603-->
+        <topic>Philosophical Anthropology</topic> <!--sh85100845-->
+        <topic>Philosophical Psychology</topic> <!--sh86006204-->
+        <topic>Philosophy</topic> <!--sh85100849-->
+        <topic>Philosophy of Art</topic> <!--sh85007494-->
+        <topic>Philosophy of Education</topic> <!--sh85041014-->
+        <topic>Philosophy of History</topic> <!--sh85061223-->
+        <topic>Philosophy of Language</topic> <!--sh85074574-->
+        <topic>Philosophy of Law</topic> <!--sh85075139-->
+        <topic>Philosophy of Logic</topic> <!--sh85078106-->
+        <topic>Philosophy of Mathematics</topic> <!--sh85082153-->
+        <topic>Philosophy of Nature</topic> <!--sh85101004-->
+        <topic>Philosophy of Religion</topic> <!--sh85112554-->
+        <topic>Philosophy of Science</topic> <!--sh85118582-->
+        <topic>Photography</topic> <!--sh85101206-->
+        <topic>Physical Anthropology</topic> <!--sh85101512-->
+        <topic>Physical Chemistry</topic> <!--sh85023027-->
+        <topic>Physical Geography</topic> <!--sh85101552-->
+        <topic>Physical Sciences</topic> <!--sh89005705-->
+        <topic>Physics</topic> <!--sh85101653-->
+        <topic>Physiological Psychology</topic> <!--sh85108484-->
+        <topic>Physiology</topic> <!--sh85101679-->
+        <topic>Planetary and Lunar Sciences</topic> <!--sh85102652-->
+        <topic>Political History</topic> <!--sh85148216-->
+        <topic>Political Philosophy</topic> <!--sh88004669-->
+        <topic>Political Sciences</topic> <!--sh85104440-->
+        <topic>Political Systems</topic> <!--sh85104440-->
+        <topic>Politics</topic> <!--sh2002011436-->
+        <topic>Polymer</topic> <!--sh85104660-->
+        <topic>Population Biology</topic> <!--sh85104917-->
+        <topic>Population History</topic> <!--sh85104911-->
+        <topic>Prefabrication and Shop Fabrication</topic> <!--sh85080664-->
+        <topic>Press</topic> <!--sh85106500-->
+        <topic>Principles of Work and Production</topic> <!--sh90004091-->
+        <topic>Private Law</topic> <!--sh85026344-->
+        <topic>Property Law</topic> <!--sh85107496-->
+        <topic>Psychiatry</topic> <!--sh85108381-->
+        <topic>Psycholinguistics</topic> <!--sh85108432-->
+        <topic>Psychology</topic> <!--sh85108459-->
+        <topic>Public Administration</topic> <!--sh85108611-->
+        <topic>Public Health</topic> <!--sh85108638-->
+        <topic>Public Law</topic> <!--sh85108696-->
+        <topic>Public Opinion</topic> <!--sh85108736-->
+        <topic>Public Welfare Law</topic> <!--sh85108846-->
+        <topic>Quantum Mechanics</topic> <!--sh85109469-->
+        <topic>Radiology</topic> <!--sh85110774-->
+        <topic>Rail Technology</topic> <!--sh85110904-->
+        <topic>Rail Transportation</topic> <!--sh85110904-->
+        <topic>Rail transportation</topic> <!--sh85110904-->
+        <topic>Regional Geography</topic> <!--sh85077922-->
+        <topic>Religion</topic> <!--sh85112549-->
+        <topic>Religious Life and Institutions</topic> <!--sh85112589-->
+        <topic>Remote Sensing</topic> <!--sh85112798-->
+        <topic>Research Methods</topic> <!--sh85084414-->
+        <topic>Revolution</topic> <!--sh85113507-->
+        <topic>Roads and Highways</topic> <!--sh85114487-->
+        <topic>Science</topic> <!--sh85118553-->
+        <topic>Sciences in general</topic> <!--sh85118553-->
+        <topic>Sculpture</topic> <!--sh85119004-->
+        <topic>Sectoral Economics</topic> <!--sh2010012970-->
+        <topic>Semantics</topic> <!--sh85119870-->
+        <topic>Service Industries</topic> <!--sh85120347-->
+        <topic>Set Theory</topic> <!--sh85120387-->
+        <topic>Social Life</topic> <!--sh85080593-->
+        <topic>Social Psychology</topic> <!--sh85123994-->
+        <topic>Social Science</topic> <!--sh85124003-->
+        <topic>Social Sciences</topic> <!--sh85124003-->
+        <topic>Sociolinguistics</topic> <!--sh85124195-->
+        <topic>Sociology</topic> <!--sh85124200-->
+        <topic>Sound</topic> <!--sh85125363-->
+        <topic>Sound Recording Devices</topic> <!--sh85125391-->
+        <topic>Sports Science</topic> <!--sh86000064-->
+        <topic>States of Matters</topic> <!--sh85082246-->
+        <topic>Stationery Conveyance Systems</topic> <!--sh85031748-->
+        <topic>Statistics</topic> <!--sh85127580-->
+        <topic>Strategy</topic> <!--sh85128514-->
+        <topic>Stratigraphy</topic> <!--sh88001988-->
+        <topic>Structural Geology, Volcanology</topic> <!--sh85054117-->
+        <topic>Study of Comets and Minor Planets</topic> <!--sh85009003-->
+        <topic>Stylistics</topic> <!--sh85074540-->
+        <topic>Surface and Underground Exploration</topic> <!--sh85038366-->
+        <topic>Surgery</topic> <!--sh85130766-->
+        <topic>Systems of Communication</topic> <!--sh85133270-->
+        <topic>Tactics</topic> <!--sh85131869-->
+        <topic>Taxation Law</topic> <!--sh85132846-->
+        <topic>Technology</topic> <!--sh85133147-->
+        <topic>Technology </topic> <!--sh85133147-->
+        <topic>Technology of Earth and Space Exploration</topic> <!--sh85102659-->
+    <topic>Technology of Hunting and Fishing</topic> 
+        <topic>Technology of the Major Industries</topic> <!--sh85079362-->
+        <topic>Technology of the Urban Community</topic> <!--sh85026255-->
+        <topic>Terminological Standardisation</topic> <!--sh85127309-->
+        <topic>Terminological Standardization</topic> <!--sh85127309-->
+        <topic>Terminology</topic> <!--sh85134029-->
+        <topic>Textual Criticism</topic> <!--sh85034152-->
+        <topic>Theatre</topic> <!--sh85134522-->
+        <topic>Theory</topic> <!--sh85134713-->
+        <topic>Thermodynamics</topic> <!--sh85134783-->
+        <topic>Toxicology</topic> <!--sh85136331-->
+        <topic>Trade</topic> <!--sh85028901-->
+        <topic>Traffic Control</topic> <!--sh85136773-->
+        <topic>Translation</topic> <!--sh85136958-->
+        <topic>Translations</topic> <!--sh85136958-->
+        <topic>Transportation</topic> <!--sh85137027-->
+        <topic>Transportation Technology</topic> <!--sh85137027-->
+        <topic>Travelogues</topic> <!--sh90003630-->
+        <topic>Undersea Exploration</topic> <!--sh85139619-->
+        <topic>Understanding of Religion</topic> <!--sh85112735-->
+        <topic>Urology</topic> <!--sh85141451-->
+        <topic>Utilities Industries</topic> <!--sh85108825-->
+        <topic>Vehicles for Transport on Roads and Highways</topic>
+        <topic>War</topic> <!--sh85145114-->
+        <topic>Water Transportation</topic> <!--sh85121579-->
+        <topic>Water transportation</topic> <!--sh85121579-->
+        <topic>Weapon Platforms</topic> <!--sh85007341-->
+        <topic>Women’s Movement</topic> <!--sh85047741-->
+        <topic>Zoology</topic> <!--sh85149983-->
+        <topic>anthropology</topic> <!--sh85005581-->
+</subject>

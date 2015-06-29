@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.oxygenxml.com/ns/report">
+<!--    These incidents all had "otherRelation" which needed to be "hasOtherRelationTo"-->
+    <!-- <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-enumeration-valid: Value 'otherRelation' is not facet-valid with respect to
+            enumeration '[preceding, succeeding, original, host, constituent, series, otherVersion,
+            otherFormat, isReferencedBy, references, reviewOf, isCommentaryOn, hasCommentaryIn,
+            isTranslationOf, hasTranslationIn, hasOtherRelationTo]'. It must be a value from the
+            enumeration.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-116501b4-baee-4d9b-bd37-1436bf430e93.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-116501b4-baee-4d9b-bd37-1436bf430e93.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>63</line>
+                <column>131</column>
+            </start>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-2/#cvc-enumeration-valid</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-attribute.3: The value 'otherRelation' of attribute 'type' on element
+            'relatedItem' is not valid with respect to its type,
+            '#AnonType_typerelatedItemDefinition'.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-116501b4-baee-4d9b-bd37-1436bf430e93.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-116501b4-baee-4d9b-bd37-1436bf430e93.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>63</line>
+                <column>23</column>
+            </start>
+            <end>
+                <line>63</line>
+                <column>38</column>
+            </end>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-1/#cvc-attribute</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-enumeration-valid: Value 'otherRelation' is not facet-valid with respect to
+            enumeration '[preceding, succeeding, original, host, constituent, series, otherVersion,
+            otherFormat, isReferencedBy, references, reviewOf, isCommentaryOn, hasCommentaryIn,
+            isTranslationOf, hasTranslationIn, hasOtherRelationTo]'. It must be a value from the
+            enumeration.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-318c124a-4cc8-436d-8aa8-9ffe0bdd8308.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-318c124a-4cc8-436d-8aa8-9ffe0bdd8308.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>53</line>
+                <column>131</column>
+            </start>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-2/#cvc-enumeration-valid</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-attribute.3: The value 'otherRelation' of attribute 'type' on element
+            'relatedItem' is not valid with respect to its type,
+            '#AnonType_typerelatedItemDefinition'.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-318c124a-4cc8-436d-8aa8-9ffe0bdd8308.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-318c124a-4cc8-436d-8aa8-9ffe0bdd8308.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>53</line>
+                <column>23</column>
+            </start>
+            <end>
+                <line>53</line>
+                <column>38</column>
+            </end>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-1/#cvc-attribute</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-enumeration-valid: Value 'otherRelation' is not facet-valid with respect to
+            enumeration '[preceding, succeeding, original, host, constituent, series, otherVersion,
+            otherFormat, isReferencedBy, references, reviewOf, isCommentaryOn, hasCommentaryIn,
+            isTranslationOf, hasTranslationIn, hasOtherRelationTo]'. It must be a value from the
+            enumeration.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-47c47cea-0dcb-4ff6-9794-0372ba775c37.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-47c47cea-0dcb-4ff6-9794-0372ba775c37.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>76</line>
+                <column>131</column>
+            </start>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-2/#cvc-enumeration-valid</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-attribute.3: The value 'otherRelation' of attribute 'type' on element
+            'relatedItem' is not valid with respect to its type,
+            '#AnonType_typerelatedItemDefinition'.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-47c47cea-0dcb-4ff6-9794-0372ba775c37.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-47c47cea-0dcb-4ff6-9794-0372ba775c37.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>76</line>
+                <column>23</column>
+            </start>
+            <end>
+                <line>76</line>
+                <column>38</column>
+            </end>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-1/#cvc-attribute</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-enumeration-valid: Value 'otherRelation' is not facet-valid with respect to
+            enumeration '[preceding, succeeding, original, host, constituent, series, otherVersion,
+            otherFormat, isReferencedBy, references, reviewOf, isCommentaryOn, hasCommentaryIn,
+            isTranslationOf, hasTranslationIn, hasOtherRelationTo]'. It must be a value from the
+            enumeration.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-4855b8f8-6af7-4780-bd42-0b6adff7982c.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-4855b8f8-6af7-4780-bd42-0b6adff7982c.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>58</line>
+                <column>131</column>
+            </start>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-2/#cvc-enumeration-valid</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-attribute.3: The value 'otherRelation' of attribute 'type' on element
+            'relatedItem' is not valid with respect to its type,
+            '#AnonType_typerelatedItemDefinition'.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-4855b8f8-6af7-4780-bd42-0b6adff7982c.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-4855b8f8-6af7-4780-bd42-0b6adff7982c.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>58</line>
+                <column>23</column>
+            </start>
+            <end>
+                <line>58</line>
+                <column>38</column>
+            </end>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-1/#cvc-attribute</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-enumeration-valid: Value 'otherRelation' is not facet-valid with respect to
+            enumeration '[preceding, succeeding, original, host, constituent, series, otherVersion,
+            otherFormat, isReferencedBy, references, reviewOf, isCommentaryOn, hasCommentaryIn,
+            isTranslationOf, hasTranslationIn, hasOtherRelationTo]'. It must be a value from the
+            enumeration.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-55a9e01e-21cd-41f9-9c50-2931286f5b8f.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-55a9e01e-21cd-41f9-9c50-2931286f5b8f.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>58</line>
+                <column>131</column>
+            </start>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-2/#cvc-enumeration-valid</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-attribute.3: The value 'otherRelation' of attribute 'type' on element
+            'relatedItem' is not valid with respect to its type,
+            '#AnonType_typerelatedItemDefinition'.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-55a9e01e-21cd-41f9-9c50-2931286f5b8f.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-55a9e01e-21cd-41f9-9c50-2931286f5b8f.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>58</line>
+                <column>23</column>
+            </start>
+            <end>
+                <line>58</line>
+                <column>38</column>
+            </end>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-1/#cvc-attribute</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-enumeration-valid: Value 'otherRelation' is not facet-valid with respect to
+            enumeration '[preceding, succeeding, original, host, constituent, series, otherVersion,
+            otherFormat, isReferencedBy, references, reviewOf, isCommentaryOn, hasCommentaryIn,
+            isTranslationOf, hasTranslationIn, hasOtherRelationTo]'. It must be a value from the
+            enumeration.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-6569683a-ce61-4ac1-bc7d-a7ba7e332041.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-6569683a-ce61-4ac1-bc7d-a7ba7e332041.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>52</line>
+                <column>131</column>
+            </start>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-2/#cvc-enumeration-valid</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-attribute.3: The value 'otherRelation' of attribute 'type' on element
+            'relatedItem' is not valid with respect to its type,
+            '#AnonType_typerelatedItemDefinition'.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-6569683a-ce61-4ac1-bc7d-a7ba7e332041.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-6569683a-ce61-4ac1-bc7d-a7ba7e332041.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>52</line>
+                <column>23</column>
+            </start>
+            <end>
+                <line>52</line>
+                <column>38</column>
+            </end>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-1/#cvc-attribute</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-enumeration-valid: Value 'otherRelation' is not facet-valid with respect to
+            enumeration '[preceding, succeeding, original, host, constituent, series, otherVersion,
+            otherFormat, isReferencedBy, references, reviewOf, isCommentaryOn, hasCommentaryIn,
+            isTranslationOf, hasTranslationIn, hasOtherRelationTo]'. It must be a value from the
+            enumeration.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-67f5f04a-897e-4d93-adb2-153769ce7566.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-67f5f04a-897e-4d93-adb2-153769ce7566.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>39</line>
+                <column>131</column>
+            </start>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-2/#cvc-enumeration-valid</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-attribute.3: The value 'otherRelation' of attribute 'type' on element
+            'relatedItem' is not valid with respect to its type,
+            '#AnonType_typerelatedItemDefinition'.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-67f5f04a-897e-4d93-adb2-153769ce7566.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-67f5f04a-897e-4d93-adb2-153769ce7566.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>39</line>
+                <column>23</column>
+            </start>
+            <end>
+                <line>39</line>
+                <column>38</column>
+            </end>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-1/#cvc-attribute</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-enumeration-valid: Value 'otherRelation' is not facet-valid with respect to
+            enumeration '[preceding, succeeding, original, host, constituent, series, otherVersion,
+            otherFormat, isReferencedBy, references, reviewOf, isCommentaryOn, hasCommentaryIn,
+            isTranslationOf, hasTranslationIn, hasOtherRelationTo]'. It must be a value from the
+            enumeration.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-8575421b-5306-458a-80e0-29717198e8cc.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-8575421b-5306-458a-80e0-29717198e8cc.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>53</line>
+                <column>131</column>
+            </start>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-2/#cvc-enumeration-valid</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-attribute.3: The value 'otherRelation' of attribute 'type' on element
+            'relatedItem' is not valid with respect to its type,
+            '#AnonType_typerelatedItemDefinition'.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-8575421b-5306-458a-80e0-29717198e8cc.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-8575421b-5306-458a-80e0-29717198e8cc.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>53</line>
+                <column>23</column>
+            </start>
+            <end>
+                <line>53</line>
+                <column>38</column>
+            </end>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-1/#cvc-attribute</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-enumeration-valid: Value 'otherRelation' is not facet-valid with respect to
+            enumeration '[preceding, succeeding, original, host, constituent, series, otherVersion,
+            otherFormat, isReferencedBy, references, reviewOf, isCommentaryOn, hasCommentaryIn,
+            isTranslationOf, hasTranslationIn, hasOtherRelationTo]'. It must be a value from the
+            enumeration.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-8a19643b-cb8f-4bfe-9648-c08ae40e4e8d.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-8a19643b-cb8f-4bfe-9648-c08ae40e4e8d.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>59</line>
+                <column>131</column>
+            </start>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-2/#cvc-enumeration-valid</additionalInfo>
+    </incident>-->
+    <!--<incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-enumeration-valid: Value 'otherRelation' is not facet-valid with respect to
+            enumeration '[preceding, succeeding, original, host, constituent, series, otherVersion,
+            otherFormat, isReferencedBy, references, reviewOf, isCommentaryOn, hasCommentaryIn,
+            isTranslationOf, hasTranslationIn, hasOtherRelationTo]'. It must be a value from the
+            enumeration.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af6747df-ad77-45d2-9957-49a9c3996030.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af6747df-ad77-45d2-9957-49a9c3996030.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>51</line>
+                <column>131</column>
+            </start>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-2/#cvc-enumeration-valid</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-attribute.3: The value 'otherRelation' of attribute 'type' on element
+            'relatedItem' is not valid with respect to its type,
+            '#AnonType_typerelatedItemDefinition'.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af6747df-ad77-45d2-9957-49a9c3996030.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af6747df-ad77-45d2-9957-49a9c3996030.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>51</line>
+                <column>23</column>
+            </start>
+            <end>
+                <line>51</line>
+                <column>38</column>
+            </end>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-1/#cvc-attribute</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-enumeration-valid: Value 'otherRelation' is not facet-valid with respect to
+            enumeration '[preceding, succeeding, original, host, constituent, series, otherVersion,
+            otherFormat, isReferencedBy, references, reviewOf, isCommentaryOn, hasCommentaryIn,
+            isTranslationOf, hasTranslationIn, hasOtherRelationTo]'. It must be a value from the
+            enumeration.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-e518a49d-bd4d-4ee2-b595-0328eac6d153.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-e518a49d-bd4d-4ee2-b595-0328eac6d153.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>66</line>
+                <column>131</column>
+            </start>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-2/#cvc-enumeration-valid</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-attribute.3: The value 'otherRelation' of attribute 'type' on element
+            'relatedItem' is not valid with respect to its type,
+            '#AnonType_typerelatedItemDefinition'.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-e518a49d-bd4d-4ee2-b595-0328eac6d153.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-e518a49d-bd4d-4ee2-b595-0328eac6d153.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>66</line>
+                <column>23</column>
+            </start>
+            <end>
+                <line>66</line>
+                <column>38</column>
+            </end>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-1/#cvc-attribute</additionalInfo>
+    </incident>-->
+    <!--Here is where it gets interessting 8 incidents all on the same file-->
+    <incident>
+<!--        See #44 this record has some funky extensions and locations elements not currently on the live server, where did these come from I removed the empty attributes that were throwing errors-->
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-attribute.3: The value 'otherRelation' of attribute 'type' on element
+            'relatedItem' is not valid with respect to its type,
+            '#AnonType_typerelatedItemDefinition'.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-8a19643b-cb8f-4bfe-9648-c08ae40e4e8d.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-8a19643b-cb8f-4bfe-9648-c08ae40e4e8d.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>59</line>
+                <column>23</column>
+            </start>
+            <end>
+                <line>59</line>
+                <column>38</column>
+            </end>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-1/#cvc-attribute</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-enumeration-valid: Value '' is not facet-valid with respect to enumeration
+            '[preview, raw object, object in context]'. It must be a value from the
+            enumeration.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af5ba7f5-94f5-4d00-9c05-7eef6077f532.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af5ba7f5-94f5-4d00-9c05-7eef6077f532.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>89</line>
+                <column>58</column>
+            </start>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-2/#cvc-enumeration-valid</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-attribute.3: The value '' of attribute 'access' on element 'mods:url' is
+            not valid with respect to its type, '#AnonType_accessurlDefinition'.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af5ba7f5-94f5-4d00-9c05-7eef6077f532.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af5ba7f5-94f5-4d00-9c05-7eef6077f532.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>89</line>
+                <column>46</column>
+            </start>
+            <end>
+                <line>89</line>
+                <column>48</column>
+            </end>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-1/#cvc-attribute</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-enumeration-valid: Value '' is not facet-valid with respect to enumeration
+            '[primary display, primary]'. It must be a value from the enumeration.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af5ba7f5-94f5-4d00-9c05-7eef6077f532.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af5ba7f5-94f5-4d00-9c05-7eef6077f532.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>89</line>
+                <column>58</column>
+            </start>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-2/#cvc-enumeration-valid</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-attribute.3: The value '' of attribute 'usage' on element 'mods:url' is not
+            valid with respect to its type, '#AnonType_usageurlDefinition'.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af5ba7f5-94f5-4d00-9c05-7eef6077f532.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af5ba7f5-94f5-4d00-9c05-7eef6077f532.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>89</line>
+                <column>55</column>
+            </start>
+            <end>
+                <line>89</line>
+                <column>57</column>
+            </end>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-1/#cvc-attribute</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-enumeration-valid: Value '' is not facet-valid with respect to enumeration
+            '[1, 2, 3]'. It must be a value from the enumeration.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af5ba7f5-94f5-4d00-9c05-7eef6077f532.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af5ba7f5-94f5-4d00-9c05-7eef6077f532.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>97</line>
+                <column>61</column>
+            </start>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-2/#cvc-enumeration-valid</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-attribute.3: The value '' of attribute 'unitType' on element
+            'mods:enumerationAndChronology' is not valid with respect to its type,
+            '#AnonType_unitTypeenumerationAndChronologyDefinition'.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af5ba7f5-94f5-4d00-9c05-7eef6077f532.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af5ba7f5-94f5-4d00-9c05-7eef6077f532.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>97</line>
+                <column>57</column>
+            </start>
+            <end>
+                <line>97</line>
+                <column>59</column>
+            </end>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-1/#cvc-attribute</additionalInfo>
+    </incident>
+    <incident>
+        <engine>Xerces</engine>
+        <severity>error</severity>
+        <description>cvc-complex-type.2.3: Element 'mods:copyInformation' cannot have character
+            [children], because the type's content type is element-only.</description>
+        <systemID>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af5ba7f5-94f5-4d00-9c05-7eef6077f532.xml</systemID>
+        <operationDescription>
+            <mainValidationFile>/Users/halalpha/Documents/gits/wsc-data/WSC/bibdb/monographs/uuid-af5ba7f5-94f5-4d00-9c05-7eef6077f532.xml</mainValidationFile>
+            <schemas>
+                <schema>http://cluster-schemas.uni-hd.de/modsCluster.xsd</schema>
+            </schemas>
+        </operationDescription>
+        <location>
+            <start>
+                <line>92</line>
+                <column>42</column>
+            </start>
+            <end>
+                <line>92</line>
+                <column>43</column>
+            </end>
+        </location>
+        <additionalInfo>http://www.w3.org/TR/xmlschema-1/#cvc-complex-type</additionalInfo>
+    </incident>
+</report>
