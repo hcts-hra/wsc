@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <entry xml:id="Wor25000">
+                <form>
+                    <orth type="zh-hant">纖維</orth>
+                    <pron notation="zh-alalc">xian wei</pron>
+                    <pron notation="zh-GBT161592012">xiānwéi</pron>
+                </form>
+                <sense n="Sam30218">
+                    <cit type="translation" xml:lang="de">
+                        <quote>(Faser)</quote>
+                    </cit>
+                    <cit type="translation" xml:lang="en">
+                        <quote>(fibre)</quote>
+                    </cit>
+                    <usg type="dom">
+                        <gloss target="PS1">Medicine</gloss>
+                    </usg>
+                    <xr type="source">
+                        <lbl>source</lbl>
+                        <bibl n="Bib1620">
+                            <date>1903</date>
+                            <ref target="uuid:206a5e40-b72d-485c-907b-efeeb3048744"/>
+                            <citedRange unit="pp">139</citedRange>
+                        </bibl>
+                    </xr>
+                </sense>
+                <sense n="Sam62367">
+                    <cit type="translation" xml:lang="en">
+                        <quote>fibre</quote>
+                    </cit>
+                    <usg type="dom">
+                        <gloss target="PS1">Physical Sciences<gloss target="PS2">Physics</gloss></gloss>
+                        <gloss target="PS1">Physical Sciences<gloss target="PS2">Chemistry</gloss></gloss>
+                    </usg>
+                    <xr type="source">
+                        <lbl>source</lbl>
+                        <bibl n="Bib6102">
+                            <date>1932</date>
+                            <ref target="uuid:453b1aca-c3c3-4cdb-b4dd-244855a37a92"/>
+                            <citedRange unit="pp">53</citedRange>
+                        </bibl>
+                    </xr>
+                </sense>
+                <sense n="Sam74209">
+                    <cit type="translation" xml:lang="en">
+                        <quote>cellulose</quote>
+                    </cit>
+                    <usg type="hint">
+                        <gloss target="H1">部定</gloss>
+                    </usg>
+                    <usg type="dom">
+                        <gloss target="PS1">Biological Sciences<gloss target="PS2">Organismic
+                            Biology</gloss></gloss>
+                    </usg>
+                    <xr type="source">
+                        <lbl>source</lbl>
+                        <bibl n="Bib946">
+                            <date>1916</date>
+                            <ref target="uuid:d479cc43-fd7a-4fc0-b4a3-e50fe7256180"/>
+                            <citedRange unit="pp">203</citedRange>
+                        </bibl>
+                    </xr>
+                </sense>
+            </entry>
+        </body>
+    </text>
+</TEI>
