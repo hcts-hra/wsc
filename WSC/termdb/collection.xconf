@@ -1,0 +1,19 @@
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:mods="http://www.loc.gov/mods/v3" xmlns:tei="http://www.tei-c.org/ns/1.0">
+        <!--TEI for terms-->
+        <range>
+            <!--main entry components-->
+            <create qname="tei:form" type="xs:string"/>
+            <create qname="tei:sense" type="xs:string"/>
+            <create qname="tei:entry" type="xs:string"/>
+            <create qname="tei:orth" type="xs:string"/>
+            <create qname="tei:pron" type="xs:string"/>
+            <!--aux-->
+            <create qname="tei:usg" type="xs:string"/>
+            <create qname="tei:gloss" type="xs:string"/>
+            <!--IDs-->
+            <create qname="@target" type="xs:string"/>
+            <create qname="@n" type="xs:string"/>
+        </range>
+    </index>
+</collection>
