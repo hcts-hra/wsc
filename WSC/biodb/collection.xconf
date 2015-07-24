@@ -1,0 +1,20 @@
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:mods="http://www.loc.gov/mods/v3" xmlns:tei="http://www.tei-c.org/ns/1.0">
+        <!--TEI for wsc_persons-->
+        <lucene>
+            <text qname="tei:note"/>
+        </lucene>
+        <range>
+            <!--names-->
+            <create qname="tei:person" type="xs:string"/>
+            <create qname="tei:persName" type="xs:string"/>
+            <create qname="tei:orgName" type="xs:string"/>
+            <create qname="tei:placeName" type="xs:string"/>
+            <!--IDs-->
+            <create qname="tei:idno" type="xs:string"/>
+            <create qname="@n" type="xs:string"/>
+            <!--dates-->
+            <create qname="tei:date" type="xs:string"/>
+        </range>
+    </index>
+</collection>
