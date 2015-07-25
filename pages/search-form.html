@@ -1,116 +1,52 @@
-<div xmlns="http://www.w3.org/1999/xhtml" id="query-panel">
-    <script type="text/javascript">
-        $(function() {
-            var selectedTabId = $("#query-history ul").data("selected-tab-id"); 
-            selectedTabId = (selectedTabId != "") ? selectedTabId : "simple-search-tab";
-            $( "#query-tabs" ).tabs({
-                select: searchTabSelected,
-                selected: $("#" + selectedTabId).index() - 1
-            });
-
-			$("#search-help").load("../../includes/search-help.xq");
-
-            $("#simple-search-form input[name = 'input1'], #advanced-search-form input[name = 'input1']").autocomplete({
-                source: function(request, response) {
-                    var data = { term: request.term };
-                    autocompleteCallback($("#simple-search-form input[name = 'input1']"), data);
-                    $.ajax({
-                        url: "autocomplete.xql",
-                        dataType: "json",
-       					data: data,
-                        success: function(data) {
-                            response(data);
-                        }});
-                },
-                minLength: 3,
-                delay: 700
-            });
-            
-            $("#advanced-search input[name = 'input1']").autocomplete({
-                source: function(request, response) {
-                    var data = { term: request.term };
-                    autocompleteCallback($("#advanced-search input[name = 'input1']"), data);
-                    $.ajax({
-                        url: "autocomplete.xql",
-                        dataType: "json",
-       					data: data,
-                        success: function(data) {
-                            response(data);
-                        }});
-                },
-                minLength: 3,
-                delay: 700
-            });            
-            
-            $('.search-form').repeat('#add-field', {
-                deleteTrigger: '',
-                onReady: repeatCallback}
-            );
-        });
-    </script>
-    <div id="query-tabs">
-        <ul>
-            <li>
-                <a href="#simple-search-tab">Simple Search</a>
-            </li>
-            <li>
-                <a href="#advanced-search-form">Advanced Search</a>
-            </li>
-            <li>
-                <a href="#query-history">Query History</a>
-            </li>
-            <li>
-                <a href="#personal-list">My List</a>
-            </li>
-            <li>
-                <a href="#search-help">Search Help</a>
-            </li>
-        </ul>
-        <div id="simple-search-tab">
+<div xmlns:jquery="http://exist-db.org/xquery/jquery" id="query-panel">
+    <jquery:tabset id="query-tabs" on-select="searchTabSelected">
+        <jquery:tab id="simple" label="Simple Search">
             <form id="simple-search-form" class="search-form" action="?" name="simple-search" method="POST">
                 <table>
                     <tr>
                         <td class="label">Search for </td>
                         <td colspan="2">
-                            <input name="input1"/>
+                            <jquery:input name="input1">
+                                <jquery:autocomplete url="autocomplete.xql" width="300" multiple="false" matchContains="false" paramsCallback="autocompleteCallback"/>
+                            </jquery:input>
                         </td>
                     </tr>
                     <tr>
                         <td class="label">Sort results by </td>
                         <td class="dropdown">
-                            <select name="sort">
-                                <option value="Score" selected="selected">Score</option>
-                                <option value="Author">Author</option>
-                                <option value="Title">Title</option>
-                                <option value="Date Issued">Date Issued</option>
-                            </select>
-                            <button name="action" id="simple-search-form-submit" type="submit">Search</button>
+                            <jquery:select name="sort">
+                                <jquery:option value="Score"/>
+                                <jquery:option value="Author"/>
+                                <jquery:option value="Title"/>
+                                <jquery:option value="Date Issued"/>
+                            </jquery:select>
+                            <button name="action" id="form-submit" type="submit">Search</button>
                             <input type="hidden" name="field1" value="All"/>
                         </td>
                     </tr>
                 </table>
-                <input type="hidden" name="query-tabs" value="simple-search-tab"/>
+                <input type="hidden" name="query-tabs" value="simple"/>
                 <input type="hidden" name="collection-tree" value="hidden"/>
-                <input type="hidden" name="collection" value=""/>
             </form>
-        </div>
-        <div id="advanced-search-form">
+        </jquery:tab>
+        <jquery:tab id="advanced-search-form" label="Advanced Search">
+            <jquery:form-repeat trigger="#add-field" delete="" form=".search-form" on-ready="repeatCallback"/>
             <form id="advanced-search" class="search-form" action="?" name="advanced-search" method="POST">
                 <table>
                     <tr class="biblio:form-from-query"/>
                     <tr>
                         <td class="label"> Sort results by </td>
                         <td class="dropdown">
-                            <select name="sort">
-                                <option value="Score" selected="selected">Score</option>
-                                <option value="Author">Author</option>
-                                <option value="Title">Title</option>
-                                <option value="Date Issued">Date Issued</option>
-                            </select>&#160;
-                            <select name="sort-direction">
-                                <option value="descending" selected="selected">descending</option>
-                                <option value="ascending">ascending</option>
-                            </select>
+                            <jquery:select name="sort">
+                                <jquery:option value="Score"/>
+                                <jquery:option value="Author"/>
+                                <jquery:option value="Title"/>
+                                <jquery:option value="Date Issued"/>
+                            </jquery:select>&#160;
+                            <jquery:select name="sort-direction">
+                                <jquery:option value="descending"/>
+                                <jquery:option value="ascending"/>
+                            </jquery:select>
                         </td>
                         <td/>
                     </tr>
@@ -118,23 +54,29 @@
                         <td/>
                         <td class="add-field" align="center" colspan="2">
                             <button class="button" id="add-field">
-                                <span>+</span> Add Search Field</button>
-                            <button id="clear-search-fields" class="button" name="clear" value="clear" type="button">Clear All</button>
+                                <span>+</span> Add Search
+                                Field</button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td/>
+                        <td colspan="2">
+                            <button id="clear-all" class="button" name="clear" value="clear" type="submit">Clear All</button>
                             <div class="advanced-search">
-                                <button class="advanced-search" name="action" id="advanced-search-form-submit" type="submit">Search</button>
+                                <button class="advanced-search" name="action" id="form-submit" type="submit">Search</button>
                             </div>
                         </td>
+                        <td/>
                     </tr>
                 </table>
                 <input type="hidden" name="query-tabs" value="advanced-search-form"/>
                 <input type="hidden" name="collection-tree" value="hidden"/>
-                <input type="hidden" name="collection" value=""/>
             </form>
-        </div>
-        <div id="query-history">
-            <ul class="biblio:query-history"></ul>
-        </div>
-        <div id="personal-list">
+        </jquery:tab>
+        <jquery:tab id="query-history" label="Query History">
+            <ul class="biblio:query-history"/>
+        </jquery:tab>
+        <jquery:tab id="personal-list" label="My List">
             <p>You have <span id="personal-list-size"/> in your list.</p>
             <form class="search-form" action="?" name="lists" method="POST">
                 <p>
@@ -143,11 +85,61 @@
                     <button class="button" name="mylist" type="submit" value="display">Display</button>
                 </p>
             </form>
-            <form action="user.xql" method="POST">
+            <p>
+                <form action="user.xql" method="POST">
+                    <button class="button" id="export" name="export" type="submit" value="export">Export</button> your list items.
+                </form>
+            </p>
+        </jquery:tab>
+        <jquery:tab id="search-help" label="Search Help">
+            <div xmlns:xi="http://www.w3.org/2001/XInclude">
+                <h4>Search syntax</h4>
                 <p>
-                    <button class="button" id="export" name="export" type="submit" value="export">Export</button> your list items. </p>
-            </form>
-        </div>
-        <div id="search-help"></div>
-    </div>    
+        Tamboti performs a search with the exact term you enter. A search for "Chin" does not retrieve all words beginning with "Chin"
+        ("China", "Chinese" …), but only the word "Chin" itself.</p>
+                <p>
+        You can use <em>wildcards</em> to perform broader searches. "?" can be used as a wildcard for a single
+        character and "*" for zero, one or more characters: "China" is thus found with "Ch?na" and
+        "C*a", and "China" and "Chine" are found with "Chin?", just as "China", "Chine" and
+        "Chinese" are all found with "Chin*". Note that "*" and "?" cannot occur in the
+        beginning of a word.</p>
+                <p>
+                    <em>Fuzzy searches</em> can be performed by putting "~" at the end of a word. To find "Chine", enter "China~". You can quantify the fuzziness, by appending
+        a number between 0.0 and 1.0, "complete fuzziness" (finding everything) being 0.0 and
+        complete identity being "1.0". 
+        If you append a "~" with no number, the default value 0.5 is applied.</p>
+                <p>
+                    <em>Phrases</em> can be searched for by putting them in quotation marks. Use "straight"
+        double quotation marks only.</p>
+                <p>
+        Tamboti searches for the exact word order you enter. If you enter "Reform and Progress", you will
+        only find records in which the three words occur in that exact sequence. Tamboti does not display records containing, for example, "Progress and Reform".</p>
+                <p>
+        Note that Chinese, Japanese and Korean characters are indexed as separate words, so a search
+        for "日本" (without quotation marks) will find records with the two characters in the opposite
+        order, that is, it will find records with "本日" as well. 
+        However, if you enclose "日本" in quotation marks, you
+        only retrieve records with the two characters in that specific sequence.</p>
+                <p>
+        You can use the <em>boolean operators</em> "AND" and "OR". If you search for "China AND
+        Japan", you will find only records containing both terms. If you search for "China OR Japan",
+        you will find records in which either one or both the two terms occur. A search with "AND"
+        normally results in fewer records than a search with "OR". "NOT" can also be used. If you
+        search for "China NOT Japan", you will only find records that have "China" but not "Japan".
+        </p>
+                <p>
+        You can also make boolean searches using Advanced Search.</p>
+                <p>
+        You can use more advanced search functions by using parentheses: "(China OR Japan) NOT
+        Korea" will find records in which the words "China" or "Japan" occur, but only those in
+        which "Korea" does not occur.</p>
+                <p>
+        "AND", "OR" and "NOT" must be written with uppercase letters. Otherwise, searches are made using
+        lower-case letters only, so writing "China" with initial lower-case "C" (as "china") has the exact same
+        effect as using an initial upper-case "C". 
+        This means that there is no way you can search for e.g. "Bush" without finding "bush" as well.
+    </p>
+            </div>
+        </jquery:tab>
+    </jquery:tabset>
 </div>
