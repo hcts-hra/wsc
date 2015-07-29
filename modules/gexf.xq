@@ -5,8 +5,7 @@ declare namespace viz="http://www.gexf.net/1.2draft/viz";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare namespace mods="http://www.loc.gov/mods/v3";
 
-
-declare default element namespace "http://www.gexf.net/1.2draft";
+(:declare default element namespace "http://www.gexf.net/1.2draft";:)
 
 (:these should be changed to '/db/apps/WSC/biodb | bibdb/' once WSC is fully appified:)
 declare variable $bio := collection('/db/resources/commons/WSC/biodb');
@@ -18,7 +17,8 @@ declare variable $creator := "Duncan Paterson";
 
 declare function local:bipart($n1 as node()*, $n2 as node()*, $edges as node()*) as item()* {
 
-(:this function returns an undirected bipartite graph. It uses shape attributes for the different types of nodes n1 and n2,  edges are drawn based on the assumption that edges appear as child elements of the parent node. :)
+(:this function returns an undirected bipartite graph. It uses shape attributes for the different types of nodes n1 and n2, edges are drawn based on the assumption that edges appear as child elements of the parent node.
+    the color scheme is colorblind friendly:)
 
 
 return
@@ -33,12 +33,12 @@ return
                 <node id="{$n1/../}" label="{$n1/../}">
                     <viz:color r="216" g="179" b="101" a="0.0"/> 
                     <viz:shape value="square">
-                </node> (:id should be index postition in file for faster processing of ints:)
+                </node> (:id should be index postition in file for faster processing of ints, use sequence or map in 3.1?:)
                 <node id="{$n2/../}" label="{$n2/../}">
                     <viz:color r="90" g="180" b="172" a="0.0"/>
                     <viz:shape value="triangle">
-                </node>
-                }
+                </node>}
+                
             {for $e in $edges
             return 
                 <edge id="{$e/../}" source="" target=""/> (:needs to be contructed recursively and take the values from nodes function earlier? maybe dump the whole index location thing:)
@@ -47,6 +47,6 @@ return
     </gexf>
 };
 
-return local:bipart($bio/tei:TEI/tei:text/tei:body/tei:listPerson/tei:person, )
-['rgb(216,179,101)','rgb(245,245,245)','rgb(90,180,172)']
+return local:bipart($bio/tei:TEI/tei:text/tei:body/tei:listPerson/tei:person, $bio/tei:TEI/tei:text/tei:body/tei:listPerson/tei:person//tei:bibl/@type = 'participatedWorks')
+
 
