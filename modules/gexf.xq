@@ -10,7 +10,7 @@ declare default element namespace "http://www.gexf.net/1.2draft";
 
 
 (:these should be changed to '/db/apps/WSC/biodb | bibdb/' once WSC is fully appified:)
-declare variable $bio := collection('/db/resources/commons/WSC/biodb');
+declare variable $bio := doc('/db/resources/commons/WSC/biodb/wsc_persons.xml');
 declare variable $bib := collection('/db/resources/commons/WSC/bibdb');
 (:adjust as necessary:)
 declare variable $creator := "Duncan Paterson";
@@ -19,7 +19,7 @@ declare variable $work := $bio/tei:TEI/tei:text/tei:body/tei:listPerson/tei:pers
 
 (:!!!don't forget to explicitely stop sigma's rendering process on the page where graphs are to be displayed!!!:)
 
-declare function local:bipart($n1 as node()*, $n2 as node()*, $edges as node()*) as item()* {
+declare function local:bipart($n1 as node()*, $n2 as node()*) as item()* {
 
 (:this function returns an undirected bipartite graph. It uses shape attributes for the different types of nodes $persons and $work, edges are drawn between $works that appear as child element of $persons.
     The color scheme is colorblind friendly:)
@@ -29,43 +29,77 @@ declare function local:bipart($n1 as node()*, $n2 as node()*, $edges as node()*)
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd"
     version="1.2">
-    <meta lastmodifieddate="{fn:current-dateTime()}">
+    <meta lastmodifieddate="{fn:current-date()}">
         <creator>{$creator}</creator>
         <description>Full Person-Title graph of WSC</description>
     </meta>
     <graph defaultedgetype="undirected">
         <nodes> 
-            { let $person := $bio/tei:TEI/tei:text/tei:body/tei:listPerson/tei:person
-            for $n1 in $person 
+            {
+            for $a in $n1 
             (:grab persons and displays their first recorded name:)
             return 
-                <node id="{data($n1/@xml:id)}"
-                    label="{$n1/tei:persName/tei:persName[1]/text()}">
-                    <viz:color r="216" g="179" b="101" a="0.0"/>
+                <node id="{data($a/@xml:id)}"
+                    label="{$a/tei:persName/tei:persName[1]/text()}">
+                    <viz:color r="216" g="179" b="101" a="1.0"/>
                     <viz:shape value="square"/>
                 </node>}
             
-            { let $work := $bio/tei:TEI/tei:text/tei:body/tei:listPerson/tei:person//tei:listBibl[@type ='participatedWorks']
-            for $n2 in $work
-            (:grab works and display their chinese title, unfortunatly not all works have an idno element hence change to at $pos statement:)
+            { 
+            for $b at $pos in distinct-values($n2//tei:title)
+            (:unfortunatly not all works have an idno element hence the $pos statement substituting for idno:)
+            (:furthermore 
+                count(//listBibl[@type="participatedWorks"]) - count(//listBibl[@type="participatedWorks"]/bibl//title[@xml:lang="zh-Hant"]) 
+            returns 673 items without a chinese title. So lets grab unique works by title:)
             return
-                <node id="{$n2//tei:idno/text()}" label="{$n2/tei:bibl/tei:title/tei:title[2]/text()}">
-                    <viz:color r="90" g="180" b="172" a="0.0"/>
+                <node id="{element counter {$pos}}" label="{$b/tei:bibl/tei:title/tei:title[2]/text()}">
+                    <viz:color r="90" g="180" b="172" a="1.0"/>
                     <viz:shape value="triangle"/>
                 </node>} 
         </nodes>
         <edges> 
-            {for $e in $work,
-                $i in (0 to count($work))
+            {for $b at $pos in $n2
+            (:there are as many edges as there are works, hence the overlap with the target's node ids shouldn't matter.  The sources UUIDs should be well unique :)
             return 
-                <edge id="{$i}" source="{$e/../tei:person@xml:id/text()}" target="{$e/tei:idno/text()}"/>}
+                <edge id="{element counter {$pos}}" source="{$b/ancestor::tei:person/@xml:id}" target="{element counter {$pos}}"/>}
         </edges>
     </graph>
 </gexf>
 };
 
-let $edges := $work
 
-return local:bipart($person, $work, $edges)
-(:    <edge id="blah" source="{$e[parent::tei:person]}" target="{$e//tei:idno/text()}"/>:)
 
+xmldb:store ('/db/apps/WSC/graphs/', 'full_bio2work.gexf', local:bipart($person, $work))
+
+(:let $data :=:)
+(::)
+(:<list>:)
+(:    <a id="1">:)
+(:        <ab>:)
+(:            <b>blah</b>:)
+(:        </ab>:)
+(:    </a>:)
+(:    <a id="2">:)
+(:        <b>blah</b>:)
+(:        <b>blahh</b>:)
+(:    </a>:)
+(:    <a id="3">:)
+(:        <b>blagh</b>:)
+(:        <b>blah</b>:)
+(:    </a>    :)
+(:</list>:)
+(::)
+(::)
+(:return:)
+(:    <graph>:)
+(:        <nodes>:)
+(:            { for $n at $pos in distinct-values($data//b):)
+(:            return:)
+(:                <node id="{$pos}">{$n}</node>}:)
+(:        </nodes>:)
+(:        <edges>:)
+(:            {for $n in $data//b:)
+(:            return:)
+(:                <edges source="{$n/ancestor::a/@id}" target="{$n}"/>}:)
+(:        </edges>:)
+(:    </graph> :)
