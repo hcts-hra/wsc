@@ -2,7 +2,11 @@ xquery version "3.0";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 (:declare default element namespace "http://www.tei-c.org/ns/1.0";:)
 
-declare variable $bio := doc('file:/Users/duncanpaterson/Documents/Github/wsc-data/WSC/biodb/wsc_persons.xml');
+(:doc('file:/C:/Users/duncan.paterson/Documents/GitHub/wsc-data/WSC/biodb/wsc_persons.xml')     office:)
+(:doc('file:/Users/duncanpaterson/Documents/Github/wsc-data/WSC/biodb/wsc_persons.xml')         laptop:)
+(:doc('file:/Users/halalpha/Documents/gits/wsc-data/WSC/biodb/wsc_persons.xml')                 home:) 
+
+declare variable $bio := doc('file:/C:/Users/duncan.paterson/Documents/GitHub/wsc-data/WSC/biodb/wsc_persons.xml');
 
 for $n in $bio
 return
