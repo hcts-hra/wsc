@@ -1652,6 +1652,12 @@ let $att :=
            </location>
         </row>
         <row>
+            <id>bib10709</id>
+            <location>
+                <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib10709.pdf</url>
+            </location>
+        </row>
+        <row>
            <id>bib10849</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib10849/</url>
@@ -1674,13 +1680,7 @@ let $att :=
 (:fun fact: not all WSC mods records have an indentifier, sooooo we'll add it here for those that also need attachments   #48
 rows which are inide comments point to missing FM records # 50:)
 
-(:version1.1  bib10586 is still missing
- <row>
-    <id>bib10586</id>
-        <location>
-            <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib10586.pdf</url>
-        </location>
-</row>:)
+(:version1.1  bib10586 doesn't exist, the attachment belongs to bib10709:)
  
 
 
