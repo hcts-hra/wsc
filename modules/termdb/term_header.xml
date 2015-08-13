@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>WSC termdb data in TEI</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Cluster of Excellence Asia and Europe in a Global Context</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>extract of term data from WSC</p>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <editorialDecl>
+           <p>Translation and tranliteration for each entry come from the print sources. If the sources ommit either one, project members supplied them inside brackets "()".</p>
+           <p>Comments on ambigous tranliterations appear inside a note element.</p>
+           <p>"□" as placeholder for illegible or unkown characters is a direct transcription from the source database.</p>
+           <p>some entries have falsly been declared as being in german in the source database. These errors are still present.</p>
+        </editorialDecl>
+     </encodingDesc>
+     <revisionDesc>
+        <change when="2015-06-28" who="DP">markup</change>
+        <change when="2015-06-10" who="KMW">inital export</change>
+     </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>
