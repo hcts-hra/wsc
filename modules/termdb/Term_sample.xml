@@ -326,8 +326,8 @@
                         <gloss target="#USE #new"/>
                     </usg>
                     <usg type="dom">
-                        <gloss target="#LCSH #sh00006614"/>
-                        <gloss target="#LCSH #sh99005065 #sh85118582"/>
+                        <gloss type="#LCSH" target="#sh00006614"/> <!--now with better xml/tei-->
+                        <gloss type="#LCSH" target="#sh99005065 #sh85118582"/>
                     </usg>                   
                     <xr type="source">
                         <lbl>source</lbl>

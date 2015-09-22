@@ -74,7 +74,9 @@
                             <surname>Austen</surname></persName>
                     </persName>
                     <sex value="0">n</sex>
-                   
+                    <note type="placeOfOrigin">
+                        <placeName>USA</placeName>
+                    </note>
                     <listBibl type="participatedWorks">   
                         <bibl n="Bib445">   <!--@n not necessary but consistent with termdb-->
                             <ref target="uuid:8ff26fd5-9b9e-49ac-a716-8e79325a56db"/> <!-- !!!! NOTE the ":" since this points to an external file!!!! --> 
@@ -110,9 +112,9 @@
                     <death><!--empty  ->  delete  -->
                         <date/><!--empty  ->  delete  -->
                     </death><!--empty  ->  delete  -->
-                    <note type="placeOfOrigin"><!--empty  ->  delete  -->
-                        <placeName/><!--empty  ->  delete  -->
-                    </note><!--empty  ->  delete  -->
+                    <note type="placeOfOrigin">
+                        <placeName>USA</placeName>
+                    </note>
                     <socecStatus/><!--empty  ->  delete  -->
                     <listEvent><!--empty  ->  delete  -->
                         <event><!--empty  ->  delete  -->

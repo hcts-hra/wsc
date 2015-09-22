@@ -1,6 +1,5 @@
 xquery version "3.0";
 
-(:module namespace gitsync = "http://syriaca.org/ns/gitsync";:)
 
 (:~ 
  : XQuery endpoint to respond to Github webhook requests. Query responds only to push requests.  
@@ -25,6 +24,14 @@ import module namespace crypto="http://expath.org/ns/crypto";
 import module namespace http="http://expath.org/ns/http-client";
 
 declare option exist:serialize "method=xml media-type=text/xml indent=yes";
+
+let $gitToken:= 'YOUR TOKEN'
+let $send :=
+    <http:request href="https://api.github.com" method="GET">
+        <http:header name="Authorization" value="{concat('token ',$gitToken)}"/>
+    </http:request>
+return http:send-request($send) 
+
 
 (:~  
  : Recursively creates new collections if necessary  
@@ -55,9 +62,9 @@ let $file-info :=
     let $parse-payload := xqjson:parse-json($payload)
     return $parse-payload 
 let $file-data := $file-info//*:pair[@name="content"]
-let $collection := xs:anyURI('/db/apps/srophe') 
+let $collection := xs:anyURI('/db/apps/WSC') 
 let $file-name := $file-info//*:pair[@name="name"]/text()
-let $resource-path := substring-before(replace($modified,'srophe-app/',''),$file-name)
+let $resource-path := substring-before(replace($modified,'WSC-app/',''),$file-name)
 let $collection-uri := concat($collection,'/',$resource-path)
 return
     try {
@@ -90,9 +97,9 @@ let $file-info :=
     let $parse-payload := xqjson:parse-json($payload)
     return $parse-payload 
 let $file-data := $file-info//*:pair[@name="content"]
-let $collection := xs:anyURI('/db/apps/srophe') 
+let $collection := xs:anyURI('/db/apps/WSC') 
 let $file-name := $file-info//*:pair[@name="name"]/text()
-let $resource-path := substring-before(replace($modified,'srophe-app/',''),$file-name)
+let $resource-path := substring-before(replace($modified,'WSC-app/',''),$file-name)
 let $collection-uri := concat($collection,'/',$resource-path)
 return 
     try {
@@ -103,7 +110,7 @@ return
                     (
                        xmldb:store($collection-uri, xmldb:encode-uri($file-name), xs:base64Binary($file-data)),
                        sm:chmod(xs:anyURI(concat($collection-uri,$file-name)), 'rwxrwxr-x'),
-                       sm:chgrp(xs:anyURI(concat($collection-uri,$file-name)), 'srophe')
+                       sm:chgrp(xs:anyURI(concat($collection-uri,$file-name)), 'WSC')
                     )
                     }
                     </message>
@@ -116,7 +123,7 @@ return
                       local:create-collections($collection-uri),
                       xmldb:store($collection-uri, xmldb:encode-uri($file-name), xs:base64Binary($file-data)),
                       sm:chmod(xs:anyURI(concat($collection-uri,$file-name)), 'rwxrwxr-x'),
-                      sm:chgrp(xs:anyURI(concat($collection-uri,$file-name)), 'srophe')
+                      sm:chgrp(xs:anyURI(concat($collection-uri,$file-name)), 'WSC')
                    )}
                    </message>
                 </response>
@@ -136,9 +143,9 @@ return
 declare function local:do-delete($commits as node()*, $contents-url as xs:string?){
 for $modified in $commits/descendant::*/*:pair[@name="removed"]/*:item/text()
 let $file-path := concat($contents-url, $modified)
-let $collection := xs:anyURI('/db/apps/srophe') 
+let $collection := xs:anyURI('/db/apps/WSC') 
 let $file-name := tokenize($modified,'/')[last()]
-let $resource-path := substring-before(replace($modified,'srophe-app/',''),$file-name)
+let $resource-path := substring-before(replace($modified,'WSC-app/',''),$file-name)
 let $collection-uri := replace(concat($collection,'/',$resource-path),'/$','')
 return 
     try {
