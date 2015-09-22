@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<json type="object">
+    <pair name="url" type="string">https://api.github.com/repos/duncdrum/wsc-data/releases/1472189</pair>
+    <pair name="assets_url" type="string">https://api.github.com/repos/duncdrum/wsc-data/releases/1472189/assets</pair>
+    <pair name="upload_url" type="string">https://uploads.github.com/repos/duncdrum/wsc-data/releases/1472189/assets{?name,label}</pair>
+    <pair name="html_url" type="string">https://github.com/duncdrum/wsc-data/releases/tag/v1.0</pair>
+    <pair name="id" type="number">1472189</pair>
+    <pair name="tag_name" type="string">v1.0</pair>
+    <pair name="target_commitish" type="string">master</pair>
+    <pair name="name" type="string">FM be gone</pair>
+    <pair name="draft" type="boolean">false</pair>
+    <pair name="author" type="object">
+        <pair name="login" type="string">duncdrum</pair>
+        <pair name="id" type="number">6205362</pair>
+        <pair name="avatar_url" type="string">https://avatars.githubusercontent.com/u/6205362?v=3</pair>
+        <pair name="gravatar_id" type="string"/>
+        <pair name="url" type="string">https://api.github.com/users/duncdrum</pair>
+        <pair name="html_url" type="string">https://github.com/duncdrum</pair>
+        <pair name="followers_url" type="string">https://api.github.com/users/duncdrum/followers</pair>
+        <pair name="following_url" type="string">https://api.github.com/users/duncdrum/following{/other_user}</pair>
+        <pair name="gists_url" type="string">https://api.github.com/users/duncdrum/gists{/gist_id}</pair>
+        <pair name="starred_url" type="string">https://api.github.com/users/duncdrum/starred{/owner}{/repo}</pair>
+        <pair name="subscriptions_url" type="string">https://api.github.com/users/duncdrum/subscriptions</pair>
+        <pair name="organizations_url" type="string">https://api.github.com/users/duncdrum/orgs</pair>
+        <pair name="repos_url" type="string">https://api.github.com/users/duncdrum/repos</pair>
+        <pair name="events_url" type="string">https://api.github.com/users/duncdrum/events{/privacy}</pair>
+        <pair name="received_events_url" type="string">https://api.github.com/users/duncdrum/received_events</pair>
+        <pair name="type" type="string">User</pair>
+        <pair name="site_admin" type="boolean">false</pair>
+    </pair>
+    <pair name="prerelease" type="boolean">false</pair>
+    <pair name="created_at" type="string">2015-06-28T13:20:36Z</pair>
+    <pair name="published_at" type="string">2015-06-29T09:50:11Z</pair>
+    <pair name="assets" type="array"/>
+    <pair name="tarball_url" type="string">https://api.github.com/repos/duncdrum/wsc-data/tarball/v1.0</pair>
+    <pair name="zipball_url" type="string">https://api.github.com/repos/duncdrum/wsc-data/zipball/v1.0</pair>
+    <pair name="body" type="string">#### Release Notes ##### All * Library of Congress subject headings replaced micopedia keywords in all parts of the DB. * Introduced Cache folder for LCSH skos:rdf ##### bibdb * All Bibdb records are now valid mods 3.5. * added active links to attachments * many minor corrections #### biodb * Full export of Person records. * Improved and annotated notes on person records #### termdb * Full export of word and sample data. * replacing “□" with actual unicode characters. #### Known issues * ca 400 mods records are missing from FM source, 30 of these have corresponding attachments. * relatedItems still contains faulty information for some Serials. * 580 “□” remain in termdb * some language declarations in termdb is faulty. * tei:header for termdb und biodb are not in their final form. </pair>
+</json>
+
+https://github.com/duncdrum/wsc-data/archive/v1.0.zip
+
+https://api.github.com/repos/duncdrum/wsc-data/zipball/v1.0.zip

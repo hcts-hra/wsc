@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person xml:id="uuid-98df54df-9421-403f-8c33-497cf2ab8f1f" ana="historical">
+    <persName type="unspecified" n="Bio2">
+        <persName xml:lang="zh-Hant">奧斯彭</persName>
+        <persName xml:lang="zh-alalc97">Aosipeng</persName>
+        <persName xml:lang="en"/>
+    </persName>
+    <sex value="0">n</sex>
+    <birth>
+        <date/>
+    </birth>
+    <death>
+        <date/>
+    </death>
+    <note type="placeOfOrigin">
+        <placeName>USA</placeName>
+    </note>
+    <socecStatus/>
+    <listEvent>
+        <event>
+            <p/>
+        </event>
+    </listEvent>
+    <note>
+        <p>maybe Henry Fairfield Osborn, 1857-1935, scientist (natural sciences, biology/zoology,
+            vertebrate paleontology, pure sciences)</p>
+        <p>professor at Princeton University, Columbia University, American Museum of Natural
+            History (AMNH), see http://people.wku.edu/charles.smith/chronob/OSBO1857.htm</p>
+        <p>biblio of Osborn: http://www.archive.org/stream/cu31924029640426; seconday literature
+            Sterling, Biographical dictionary of American and Canadian naturalists and
+            environmentalists, p. 592-596</p>
+    </note>
+    <listBibl type="referenceWorks">
+        <bibl>
+            <idno type="wsc">uuid-18e35dd4-ee2f-494d-8374-dc5bb42fcc03</idno>
+            <note/>
+            <biblScope unit="pp">12344</biblScope>
+        </bibl>
+        <bibl>
+            <idno type="wsc">uuid-61c33a02-d762-4807-8187-e3ef4f7ad040</idno>
+            <note/>
+            <biblScope unit="pp"/>
+        </bibl>
+    </listBibl>
+    <listBibl type="participatedWorks">
+        <bibl>
+            <idno>uuid-61c33a02-d762-4807-8187-e3ef4f7ad040</idno>
+            <title>
+                <title xml:lang="zh-alalc97">Kuangxue kaozhi</title>
+                <title xml:lang="zh-Hant">礦學考質</title>
+            </title>
+            <author>Bio2</author>
+        </bibl>
+        <bibl>
+            <idno type="wsc">uuid-646fecd8-d40e-4a93-b8cf-030da3662144</idno>
+            <title>
+                <title xml:lang="zh-alalc97">Kuangxue kaozhi</title>
+                <title xml:lang="zh-Hant">礦學考質</title>
+            </title>
+            <author>uuid-98df54df-9421-403f-8c33-497cf2ab8f1f</author>
+            <editor role="translator">uuid-21f7d442-33e7-4359-801c-132a52fbf1fd</editor>
+            <editor role="translator">uuid-4a6dcd54-25b5-4827-a4d1-3cef09e18699</editor>
+        </bibl>
+    </listBibl>
+</person>
