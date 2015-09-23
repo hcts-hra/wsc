@@ -6,26 +6,15 @@ declare default element namespace "http://www.tei-c.org/ns/1.0";
 
 
 
-declare variable $old := doc("wsc_person.xml")//tei:body;
+declare variable $old := doc("wsc_persons.xml")//tei:body;
 declare variable $new := doc("bio-all-150810.xml")//tei:body;
+declare variable $temp := doc("person_new.xml");
 
 
-(: functions for the latest bio export   :)
-(: !!! fix needs to run before patch  !!! :)
-(: TODO: merge duplicate bibl entries :)
+(: functions for the latest bio export    :)
 
-
-declare function local:patch_export($nodes as node()*) as item()* {
-
-(:    copies marked-up note fields from the old to new files    :)
-
-for $n in $nodes//tei:note,
-    $a in $old//tei:note
-    return
-        if (functx:path-to-node-with-pos($n) eq functx:path-to-node-with-pos($a))
-        then (update replace $n with $a)
-        else ()
-};
+(: TODO: there is still a problem with duplicate bibl entries eg.
+   uuid-61c33a02 and uuid-646fecd8 both refer to "礦學考質" :)
 
 
 declare function local:fix_export($nodes as node()*) as item()* {
@@ -33,7 +22,9 @@ declare function local:fix_export($nodes as node()*) as item()* {
 (:    Deletes Empty elements :)
 (:    Constructs proper references    :)
 (:    Deletes superflous children of listBibl    :)
-(:    if (string($n) = '' and string($n/@*) = '') to not delete elements without content values but with attribute values     :)
+(:    use  "    if (string($n) = '' and string($n/@*) = '')    "     to not delete elements without content values but with attribute values     :)
+(:    copies marked-up note fields from the old to new files    :)
+
 
 for $n in $nodes
 return
@@ -50,15 +41,22 @@ return
         case element(tei:author)
             return
                 if(starts-with($n/string(), "Bio"))
-                then(update value $n with <ref target="{string(//persName[@n eq string($n)][1]/../@xml:id)}"/>)
+                then(update value $n with <ref target="#{string(//persName[@n eq string($n)][1]/../@xml:id)}"/>)
                 else(update value $n with <ref target="#{$n/string()}"/>)
         case element(tei:editor)
             return
                 if(starts-with($n/string(), "Bio"))
-                then(update value $n with <ref target="{string(//persName[@n eq string($n)][1]/../@xml:id)}"/>)
+                then(update value $n with <ref target="#{string(//persName[@n eq string($n)][1]/../@xml:id)}"/>)
                 else(update value $n with <ref target="#{$n/string()}"/>)
+        case element(tei:note)
+            return
+                for $a in $old//tei:note
+                where functx:path-to-node-with-pos($n) eq functx:path-to-node-with-pos($a)
+                return update replace $n with $a
         default return local:fix_export($n/node())
         )
 };
+
+
 
 local:fix_export($new//*)
