@@ -58,9 +58,10 @@ return
                 else(update value $n with <ref target="#{$n/string()}"/>)
         case element(tei:note)
             return
-                for $a in $old//tei:note
+                let $patch := for $a in $old//tei:note
                 where functx:path-to-node-with-pos($n) eq functx:path-to-node-with-pos($a)
-                return update replace $n with $a
+                return $a           
+            return update replace $n with $patch
         default return local:fix_export($n/node())
         )
 };
