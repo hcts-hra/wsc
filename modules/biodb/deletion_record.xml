@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <deletions>
     <error>
-<!--   id is referenced 550 times in biodb, not in the other collections 
+<!--   id is referenced 550 times in biodb, and 25 times in bibdb collections 
         1) for mods see Github #70 
-        replace all mentions of deng  with 
-        <name>
-            <etal lang="chi" script="Hant">等</etal>
-        </name>
         
-        or of et al with
-        
-        <name>
-            <etal/>
-        </name>
         
         2) for biodb replace all mentions of deng/et al with 
         2.1 replace ref with 'et al' in bibl/author | editor where appropriate

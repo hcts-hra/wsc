@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<deletions>
+    <error>
+<!--replace all mentions of:-->
+<name type="personal" xlink:href="uuid-9344e775-1a00-46bf-aa15-11c508914819">
+    <namePart lang="chi" transliteration="chinese/ala-lc">deng</namePart>
+    <namePart lang="chi" script="Hant">等</namePart>
+    <namePart>et al.</namePart>
+    
+<!--    with: 24-->
+    <name type="personal">
+        <etal lang="chi" script="Hant">等</etal>
+        
+        
+<!--        or and 1 -->
+        
+        <name type="personal">
+            <etal/>
+        </name>
+        
+    </error>
+    <error>
+<!--see github #75-->
+        <!--4642-->
+        <namePart/>
+        
+        <!--2882-->
+        <extent unit="page">
+            <start/>
+            <end/>
+        </extent>
+        
+        <!--580-->
+        <frequency/>
+    </error>
+</deletions>
