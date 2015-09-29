@@ -1,0 +1,3734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+    <missing_total>929</missing_total>
+    <missing_not_etal>904</missing_not_etal>
+    <list>
+        <item>
+            <record_id>uuid-23251d98-2992-42ef-bce9-59be494ba593</record_id>
+            <name_string>National Bureau of Compilation and Translation</name_string>
+        </item>
+        <item>
+            <record_id>uuid-20bb4976-2d30-437e-aa4b-06759816b3aa</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-20471988-2af2-421b-8751-f255c5567dda</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ff7371bf-c1a0-4cfc-a913-e22715cd6fc2</record_id>
+            <name_string>Xueshu yanjiu hui 學術研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-fefdd355-2fde-476a-80ce-e43ecbe0e507</record_id>
+            <name_string>Weixinpai 維新派</name_string>
+        </item>
+        <item>
+            <record_id>uuid-fec9041b-3658-4f90-ab25-0b8dd72125b8</record_id>
+            <name_string>Zhili xuewuchu 直隸學務處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-fe649241-c1e0-446a-85c4-daf29593ad08</record_id>
+            <name_string>Lixian pai 立憲派</name_string>
+        </item>
+        <item>
+            <record_id>uuid-fe44e08d-136f-4bdc-8ba8-e8198b63e3fb</record_id>
+            <name_string>Yunnan xingzheng gongshu shiye si 雲南行政公署實業司</name_string>
+        </item>
+        <item>
+            <record_id>uuid-fd99d53d-bb02-467a-a7e9-0a75543dbc5b</record_id>
+            <name_string>Institut de la langue francaise. Centre National de la recherche
+                scientifique</name_string>
+        </item>
+        <item>
+            <record_id>uuid-fd38a3b3-df1f-445e-94cf-4941dcf2fbeb</record_id>
+            <name_string>Shandong xingzheng gongshu shiye si shiye bao 山東行政公署實業司實業報</name_string>
+        </item>
+        <item>
+            <record_id>uuid-fd229f39-9939-4c27-82e5-bb637b7eed6f</record_id>
+            <name_string>Zhongguo nübao guan 中國女報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-fa0bb821-063d-4585-9154-07dc74b13a41</record_id>
+            <name_string>Shuangxing zazhishe 雙星雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f936f60f-b382-4439-bc53-22f530df2126</record_id>
+            <name_string>Xiasheng zazhishe 夏聲雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f931284b-c6f3-43d2-9226-71008c176fe1</record_id>
+            <name_string>Beiyang guanbao zongju 北洋官報總局</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f86b2daf-5a82-4e87-9429-68981126ac6b</record_id>
+            <name_string>Anhui suhuabao bianjishe 安徽俗話報編譯社�HrK91</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f56e644f-331b-4d95-b741-7d689649d904</record_id>
+            <name_string>Minguo jingji zazhishe 民國經濟雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f50fa535-d5dc-4f92-92ae-9722363ff95d</record_id>
+            <name_string>Nübao she 女報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f46dc997-cb2f-41af-86aa-5a4bf1fbac26</record_id>
+            <name_string>Shenzhou nübao she 神州女報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f4630e6d-16e7-402d-a2dd-d5b6cd453e4d</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f21a237d-0d83-4f73-a4ee-6db9642e452f</record_id>
+            <name_string>Zhongguo xuebao she 中國學報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f1767cc1-9b0e-4021-a808-02e1dfad45cf</record_id>
+            <name_string>Shangxue hui 商學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f07184e9-0841-4034-8221-abd2232de6b0</record_id>
+            <name_string>Haijun bianyishe 海軍編譯社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f0127f73-7ffe-4067-85d0-e4a302f20bec</record_id>
+            <name_string>Wanguo nüzi canzheng hui Zhongguo bu 萬國女子參政會中國部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-efd4f9f9-fed2-4e03-ade2-8591582bf21a</record_id>
+            <name_string>Jiaoyubu guoyu tuixing weiyuanhui 教育部國語推行委員會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ee8b731f-4e55-46e6-a52f-2b05df3e168d</record_id>
+            <name_string>Laodong zazhishe 勞動雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ede4ada5-b4bd-435f-a483-e1f94b1c80d6</record_id>
+            <name_string>Lequn zazhishe 樂群雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ec3c7b3d-4fec-413c-b157-2693317b974c</record_id>
+            <name_string>Youchuan bu tushu tongyi ju guanbao chu 郵傳部圖書通譯局官報處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ec33643f-06f3-49ad-b393-8493ab6d2691</record_id>
+            <name_string>Zhejiang sheng nonghui 浙江省農會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ec117ccd-2a1e-44fc-a1e7-4c718c1ecef4</record_id>
+            <name_string>Minbei shengjing gonghui 閩北聖經公會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ec0f2e11-c5f9-4f48-9ef2-ca935a5a2073</record_id>
+            <name_string>Zhongwai bianyi she 中外編譯社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ea77b605-7582-46f2-adf4-2b529c71d65a</record_id>
+            <name_string>Wuwu zhoubao she 戊午周報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e916f947-b8c9-4c0e-9075-2809809dd7db</record_id>
+            <name_string>Xiaoshuo shibao she 小說時報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e9140d9f-af93-4da6-95bc-afe2118a1769</record_id>
+            <name_string>Xuehaitang 學海堂</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e9002825-a5b8-4f10-a464-e76418c7316c</record_id>
+            <name_string>Hubei lüjing xuehui 湖北旅京學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e59acef7-9a3b-40e1-9e04-bdb1c2a8f96f</record_id>
+            <name_string>Jiangnan shangwu huju 江南商務滬局</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e44b4993-16c4-447b-904d-7447f58ae112</record_id>
+            <name_string>Daxia congkanshe 大夏叢刊社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e27bc31f-eb27-4d0b-ba9a-82d0074fd1b9</record_id>
+            <name_string>Shehui zhuyi yanjiu hui 社會主義研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e272eb6b-034b-439f-99ff-0bf84af4a753</record_id>
+            <name_string>Guangdong sheng xuesheng lianhe hui 廣東省學生聯合會�HrK140</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e1f58c3b-00d8-4009-b484-44f72492010d</record_id>
+            <name_string>Wenshi she 文史社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e1543d19-d66c-4cfb-b745-a389e230d3ae</record_id>
+            <name_string>Huanqiu Zhongguo xuesheng hui 寰球中國學生會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e092c0b1-f873-4fe8-b206-82f5131d2a12</record_id>
+            <name_string>Guoxue shangdui hui 國學商兌會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-df1a0161-a0b5-47ab-b985-0d30f8395dae</record_id>
+            <name_string>Zhongguo guofang hui 中國國防會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-de68866d-1bdf-46b9-9521-8ecd39c18b40</record_id>
+            <name_string>Sichuan zazhishe 四川雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-dd8f8939-65d5-4f66-99d5-81981adceaee</record_id>
+            <name_string>Yingshang gonghui 英商公會�HrK326</name_string>
+        </item>
+        <item>
+            <record_id>uuid-dd87136f-4100-41a0-89e8-7771b73bdf41</record_id>
+            <name_string>Nüzi zazhishe 女子雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-dd775483-2379-4a1d-9544-e4ac16ebc5f7</record_id>
+            <name_string>Nüzi baihua baoshe 女子白話報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-dc9ae601-a106-44fe-8b65-87803ae104ff</record_id>
+            <name_string>Hankou shangwuju 漢口商務局</name_string>
+        </item>
+        <item>
+            <record_id>uuid-dc77a6bf-32d2-43b3-a4e1-0ecfe058a404</record_id>
+            <name_string>Zhongguo xin nüjie zazhishe 中國新女界雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-dc443dd3-6fde-4070-961c-e8cd10023d19</record_id>
+            <name_string>Sichuan jiaoyu zazhishe 四川教育雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-da5268f7-ae0a-41ba-b4f5-75def0622a84</record_id>
+            <name_string>Dongfang faxuehui 東方法學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d89a30d3-d613-48e4-8de4-a63d4da9833c</record_id>
+            <name_string>Jiangsu tongxianghui</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d85c5861-05d1-498b-bc1f-38506654daee</record_id>
+            <name_string>Huzhou baihua baoshe 湖州白話報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d80d280b-0202-4707-aba5-ad80ec1ce8f7</record_id>
+            <name_string>Jiaotong yuekan bianji chu 交通月刊編輯處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d747b61d-f1b7-4604-974e-04ac147ee706</record_id>
+            <name_string>Shanghai waijiao baoguan 上海外交報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d6ebdddb-3b20-4647-918f-b5e9f004dd67</record_id>
+            <name_string>Yunnan zazhishe 雲南雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d69335dd-214b-41dc-9886-dfc5525a2051</record_id>
+            <name_string>Shaonian Zhongguo xuehui 少年中國學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d6913b55-4521-4f94-8884-eb39b400ffed</record_id>
+            <name_string>Banco di Roma</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d653b311-6719-4b02-983d-7133774e8c0c</record_id>
+            <name_string>Beijing tushuguan 北京圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d576d55d-2d53-4a80-b5f0-98e06ee97cdb</record_id>
+            <name_string>Xinju zazhi she 新劇雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d3d514c9-c3a0-430a-8617-423ad0e5d17b</record_id>
+            <name_string>Yubao she 豫報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d3cdf7fb-ef34-4bcb-8c8d-810179189cba</record_id>
+            <name_string>Ou haichao zhoukan she 甌海潮周刊社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d3188119-0025-4e7b-8e81-83de179f7841</record_id>
+            <name_string>Shanxi tongxiang huiyuan 山西同鄉會員</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d2860777-cc82-4263-85e7-9b6aca9df569</record_id>
+            <name_string>Mengzang weiyuanhui 蒙藏委員會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d212c37f-4e96-47f7-935e-ed5c2917a1a4</record_id>
+            <name_string>Zhejiang sheng jiaoyu hui 浙江省教育會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d1535021-ec65-4c26-9688-8c0f323b123c</record_id>
+            <name_string>Lize guan 麗澤館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d0c98111-4a97-48d1-b407-512f1c383c11</record_id>
+            <name_string>Lunheng zazhishe 論衡雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d0a48c79-6734-4522-a42d-6cea213615e3</record_id>
+            <name_string>Duli Zhoubao she 獨立周報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d07c05b3-05e3-4705-afcb-587554952b0e</record_id>
+            <name_string>Zhishuo bianjishe 直說編輯社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-cec29a1b-f607-45f0-a60f-65762772352b</record_id>
+            <name_string>Shanxi shiye baoshe 山西實業報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-cd8d88e9-a70f-4065-a324-0bdb5473c4a8</record_id>
+            <name_string>Nan she 南社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c6b7be79-8584-4569-bab9-b28b49ecb73a</record_id>
+            <name_string>Dongya yishuhui 東亞譯書會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c656f97b-c1c8-4974-a519-32bf5b0a1b39</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c656f97b-c1c8-4974-a519-32bf5b0a1b39</record_id>
+            <name_string>Lixin kuaijishi shiwusuo 立信會計師事務所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c525aa7d-a8b4-4968-b272-7d77afd6efac</record_id>
+            <name_string>Henan Haichuangsi Nanwu gongxue 河南海幢寺南武公學</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c4ca53b3-355b-4ad8-b010-ce0dd8fd8982</record_id>
+            <name_string>Difang baoshe 地方報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c462a483-cb8b-4c4f-9517-fe4487a7a977</record_id>
+            <name_string>Guizhou shiye si 貴州實業司</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c417abe1-f05b-485a-adbe-f860336943b0</record_id>
+            <name_string>Qingong jianxue hui 勤工儉學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c34d6ff9-79ea-471d-8362-24761c5bdb2b</record_id>
+            <name_string>Jincheng zazhishe 晉乘雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c3302487-aa43-464a-b276-0a9a7f6fcdb8</record_id>
+            <name_string>Zhongguo liumei xuesheng hui 中國留美學生會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c3010ddd-c277-4a65-9000-d710f7394b78</record_id>
+            <name_string>Zhejiang xuewu gongsuo 浙江學務公所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c296541b-bc2f-45db-a51c-27c3498e8e5b</record_id>
+            <name_string>Huaqiao lianhehui 華僑聯合會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c19b73cb-9775-40ea-a408-0d7ad4bf0924</record_id>
+            <name_string>Hubei difang zizhi yanjiu hui 湖北地方自治研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c06dfc3b-1e1c-492e-bf37-aaa8814b90f1</record_id>
+            <name_string>Zhongguo keji shiliao bianji weiyuanhui 中國科技史料編輯委員會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c0486045-aba8-4a2b-9464-9831c00ac704</record_id>
+            <name_string>Tongmenghui 同盟會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c0363f7b-6add-4353-a0e3-e85f52a90071</record_id>
+            <name_string>Shangxue xiehui 商學協會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c0011bf9-548b-444d-8eff-726a0bc03e0a</record_id>
+            <name_string>Nanyang qiri baoguan 南洋七日報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bf442187-bcbb-49fe-b3a8-a869405c1be9</record_id>
+            <name_string>Shangwu guanbao ju 商務官報局</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bf30e3b7-7a97-4de3-8416-c83b77af9661</record_id>
+            <name_string>Xingzhonghui 興中會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bda2dc95-a7e2-41a4-8fdf-60a305fb4269</record_id>
+            <name_string>Guomindang Shanghai jiaotong bu 國民黨上海交通部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bd0096f5-4dcf-48c2-98a7-3fa1e8102a0e</record_id>
+            <name_string>Xiaoxian shushi 消閑書室</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bc3d2d49-af14-4b67-8913-c93d18abb374</record_id>
+            <name_string>Sichuan guoxue yuan 四川國學院</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bbe17047-4209-42a3-baf1-f74b6f36cb09</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b924f6f1-99a4-4043-b60c-64a87f5ad07f</record_id>
+            <name_string>Changshou nüzi shijieshe 長熟女子世界社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b7eb8a89-5e97-4e55-9e43-cd31b945eb52</record_id>
+            <name_string>Zhonghua xuesheng jie she 中華學生界社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b705e6a1-ec34-4cf9-a1d9-d940a9405d39</record_id>
+            <name_string>Shangzhi xueshe 尚志學社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b6394785-4aa5-41c4-8e51-4fddf692cfbe</record_id>
+            <name_string>Weixinpai 維新派</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b4f23c8f-532b-422c-8ade-c2e75c45a0ee</record_id>
+            <name_string>Zhonghua zazhishe 中華雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b3501adf-9a45-4663-9ae2-cac7fce8ce5d</record_id>
+            <name_string>Xianglu jigu hui 湘路集股會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b2e48c3d-5d71-45c2-bcf7-adf04d3ca436</record_id>
+            <name_string>Zhongguo Tongmenghui Yue zhibu 中國同盟會粵支部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b2dd045b-83a3-45b6-af65-896552a229f2</record_id>
+            <name_string>Weixinpai 維新派</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b2386081-d8e1-4f49-89c9-a88fdb801861</record_id>
+            <name_string>Nongshang bu 農商部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b0e64d55-c3d0-4928-b9d8-2a913699001a</record_id>
+            <name_string>Beijing daxue liu Ri xuesheng bianyi she 北京大學留日學生編譯社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b052875d-dd07-423a-aeac-b82645f43023</record_id>
+            <name_string>Gongyan zazhishe 公言雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b0255221-0694-46f6-ac78-edc7247cabf1</record_id>
+            <name_string>Fengyu lou 風雨樓</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b0037721-fcc5-4e8a-9909-2de4739b8b32</record_id>
+            <name_string>Dunhuaitang 敦怀堂</name_string>
+        </item>
+        <item>
+            <record_id>uuid-afb40737-3c72-4984-8eca-18c7116336a9</record_id>
+            <name_string>Wude she 武德社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-afae7e83-fe76-40e1-8660-2bb2fbf31d61</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-af48d343-e115-460e-bee6-e0dc574ebabf</record_id>
+            <name_string>Hunan shiye xiehui 湖南實業協會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-af043827-b234-4740-8a4c-4195e8153ff0</record_id>
+            <name_string>Tongde zazhishe 同德雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-aeb68bf5-4f4e-42dd-a694-ae7124addc40</record_id>
+            <name_string>Fazheng tongzhi yanjiu hui 法政同志研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-adfbf8ab-2efe-4276-b8e8-2e36388b7147</record_id>
+            <name_string>Qinlong baoshe 秦隴報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-adc32c3d-4ed0-476f-9ed7-9ae4d8f11b04</record_id>
+            <name_string>Lingnan nongxue hui 岭南農學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ac71391d-8388-4661-959f-2d1644168fd1</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ac6a62d5-bd83-4875-a013-fdfd9d8f82a3</record_id>
+            <name_string>Guanlong zazhishe 關隴雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ab00d1bf-0027-4b6c-96c9-16ed2df85583</record_id>
+            <name_string>Gailian zhuyi zhengzhi tuanti 改良主義政治團體</name_string>
+        </item>
+        <item>
+            <record_id>uuid-aa337889-1a40-451e-844f-ae113abc9119</record_id>
+            <name_string>Jiaoyu zazhishe 教育雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a95bcc73-b88a-42e8-a446-aff177529ae2</record_id>
+            <name_string>Yiweihui 乙未會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a9484ba5-36ce-4644-90e7-a673c64d77f0</record_id>
+            <name_string>Zhonghua zhiye jiaoyu she 中華職業教育社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a935fbf7-a63e-48d3-acb8-d08315600780</record_id>
+            <name_string>Nanxuehui 南學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a8e8ba53-30b3-4a28-99b6-8ab79e862ca7</record_id>
+            <name_string>Hubei xuebaoguan 湖北學報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a8cc3861-e44a-4e7c-86b1-483b0c80f3e0</record_id>
+            <name_string>Zhonghua zazhishe 中華雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a87bd3fb-ee3a-4150-a757-3c6ac35d65fd</record_id>
+            <name_string>Lujun xiehui 陸軍協會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a83dd701-7c31-4868-8e3f-f86a9e5ded84</record_id>
+            <name_string>Xin shenzhou zazhishe 新神州雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a7d27b21-9f85-436d-a7ca-e922ceca7b37</record_id>
+            <name_string>Ju Zheng</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a7ae9aed-e86b-45d6-b93b-ec5453b1bdb1</record_id>
+            <name_string>Beijing daxue liu Ri xuesheng bianyi she 北京大學留日學生編譯社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a710011d-bd6d-4892-bb4d-0ff691a43e46</record_id>
+            <name_string>Chengzhong zhong xuexiao chengzhong xiaoyouhui 澄衷中學校澄衷校友會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a6f4986b-fc08-406e-b7ef-155f58b83dde</record_id>
+            <name_string>Fazheng zazhishe 法政雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a6236be5-05d9-497a-8b2e-e28d8bd77330</record_id>
+            <name_string>Jiangxi zazhishe 江西雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a53e9d27-6aa9-40aa-9d49-77ddd4de12c5</record_id>
+            <name_string>Linshi zhengfu gongbao ju 臨時政府公報局</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a43b8331-b908-417c-b9d2-88de8b0d28ae</record_id>
+            <name_string>Yuexi zazhishe 粵西雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a28a5f53-e7b3-42b9-943e-4d84b9939648</record_id>
+            <name_string>Gongmin zazhishe 公民雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a27a1939-dafb-4fab-abdd-8d9b7f0e01a2</record_id>
+            <name_string>Zhejiang nongyou hui 浙江農友會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a17f86c7-e722-4f53-99b1-a87a1942614b</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a0da0b27-d9d3-4559-83da-4cbc6344f26b</record_id>
+            <name_string>Wanguo shangye yuebaoshe 萬國商業月報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a0738207-bdd0-4d44-ba29-7fe677cc0fa0</record_id>
+            <name_string>Shanghai shuye shanghui 上海書業商會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a0401fe5-f64a-4d7e-a4ae-a45bb4a04072</record_id>
+            <name_string>Xiao Lüsong huaqiao zhongxi xuexiao 小呂宋華僑中西學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9fe83097-d198-42c2-97c7-2f286a32103d</record_id>
+            <name_string>Shanghai tuhua meishu xuexiao 上海圖畫美術學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9fb3fb4b-a3f6-40a7-b2ec-cb29fba698c1</record_id>
+            <name_string>Jinghua baoguan 京話報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9ef1c171-1e77-4f14-bd3d-88096ae46349</record_id>
+            <name_string>Zhonghua jiaoyu jie she 中華教育界社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9ecd7a19-7592-40bd-bd32-29ca5b93606e</record_id>
+            <name_string>Funü zazhishe 婦女雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9de25e41-b6c5-41f0-b1ab-af06b3df3f44</record_id>
+            <name_string>Xinshijishe 新世紀社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9dc2042d-ff11-474a-8b4a-37bc42acbc14</record_id>
+            <name_string>Zhina fanyi huishe 支那繙譯會社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9a7e0879-c8a5-4a59-8a43-88405af15a79</record_id>
+            <name_string>Taipingyang zazhishe 太平洋雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9a715e05-aa1a-4aed-a45a-41eca482bd88</record_id>
+            <name_string>Fazheng xue jiaotong she 法政學交通社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9a5d8dcd-8052-4dd4-a5e0-6943e6c5dd2a</record_id>
+            <name_string>Dalu zazhi 大陸雜誌</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9a25bee1-5bc1-4365-8014-d767f4bb207c</record_id>
+            <name_string>Zhongguo dixue hui 中國地學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9976b1f1-b9bb-4f8e-9bc6-92e836f38852</record_id>
+            <name_string>Weixinpai 維新派</name_string>
+        </item>
+        <item>
+            <record_id>uuid-96750c89-fceb-45ca-a3f8-c4bd394482e9</record_id>
+            <name_string>Zhongguo tielu yanjiu hui 中國鐵路研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9603e313-9575-455c-a311-5e330ca2e198</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-95b38557-f70b-480d-8a5f-fe2ff4d63832</record_id>
+            <name_string>Fujian fazheng xuetang 福建法政學堂</name_string>
+        </item>
+        <item>
+            <record_id>uuid-942d3be7-c9d2-4a65-9ab1-69c7c1312317</record_id>
+            <name_string>Haijun zazhishe 海軍雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-94239c21-3d17-4676-856f-001047246a66</record_id>
+            <name_string>Jiangning shiye zazhishe 江寧實業雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-929b6145-f64c-4c28-b090-866af2dc8c72</record_id>
+            <name_string>Zhonghua xiaoshuo jie she 中華小說界社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-909c0abb-2608-4aaf-bbca-d8601288d0a5</record_id>
+            <name_string>Fujian nonggongshang ju 福建農工商局</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8fd31079-7533-44f4-8ab3-b3288c164542</record_id>
+            <name_string>Weixinpai 維新派</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8fa3a415-6505-46e7-a2bd-1ac7b1545e14</record_id>
+            <name_string>Shanghai xuesheng yanjiu hui 上海學生研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8f75ef93-8c14-4666-a5fa-fce09f0e68e5</record_id>
+            <name_string>Zhonghua xinbao guan 中華新報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8f468963-b327-4629-a929-27869903d4cd</record_id>
+            <name_string>Hubei shifansheng 湖北師範生</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8d6b9b31-4731-4990-a637-c7087aa28c11</record_id>
+            <name_string>Yunnan jiaoyu yayhishe 雲南教育雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8cd4f693-d4d0-4646-a44c-333f0ad5dab0</record_id>
+            <name_string>Shishe 實社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8cc450d9-3f88-446f-b431-901860442fe6</record_id>
+            <name_string>Zhonghua minguo tiedao xiehui 中華民國鐵道協會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8c2aed11-a0ca-43e3-b33e-5a4aee4ed0a4</record_id>
+            <name_string>Yuebao she shiwu suo 越報社事務所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8b77cc05-5bac-45b1-9eb5-e18dcba36bb1</record_id>
+            <name_string>Shuowang baoshe 朔望報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8b4a7ccf-71a2-4a25-8d07-0ea56e24779c</record_id>
+            <name_string>Xin guomin zazhishe 新國民雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8b3b4729-d0a7-443f-859c-25f856ebe16c</record_id>
+            <name_string>Shishi xinbao guan 時事新報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8a4aa7ef-f67d-47f6-ad81-e199d6a9e18e</record_id>
+            <name_string>Wujun baihua baoshe 吳郡白話報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-89566c0f-b2e4-4a8b-ae8c-8e73e57d21b3</record_id>
+            <name_string>Nongsangxue zazhishe 農桑學雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-892a00f7-babb-481a-821e-1dcf98e0d466</record_id>
+            <name_string>Fengtian quanye gongsuo 奉天勸業公所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-884e1913-c112-41bb-9146-d0f1a0314b94</record_id>
+            <name_string>Nonglin bu 農林部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-86f802ad-5e59-4336-af81-4072fc16adbb</record_id>
+            <name_string>Shaoxing xian jiaoyu hui 紹興縣教育會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-86e12283-62a9-402f-9098-19cfebf41fe8</record_id>
+            <name_string>Weiyan zazhishe 微言雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-86d511b5-0b6c-4ade-9894-99dac89ae65e</record_id>
+            <name_string>Nüxue hui zazhi bianji suo 女學會雜誌編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-862c35d5-88ba-4160-b9fb-63dce5172294</record_id>
+            <name_string>Xuesheng zazhishe 學生雜誌</name_string>
+        </item>
+        <item>
+            <record_id>uuid-85c83dfb-3df7-4fa0-9977-7ac76703ef81</record_id>
+            <name_string>Heilong jiang shiye baoguan 黑龍江實業報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-835d3b61-1223-4e0b-94a9-6f5167fdd12e</record_id>
+            <name_string>Xiaoshuo lin zong bianji suo 小說林總編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-83129b5f-a564-4522-bb7f-a77d38684f17</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-82623431-0d37-4d33-9cf6-1cd18bdde098</record_id>
+            <name_string>Zhongguo baihua bao 中國白話報</name_string>
+        </item>
+        <item>
+            <record_id>uuid-815b183b-a801-4161-87f0-ea4111bdc5ea</record_id>
+            <name_string>The History of Science Society of Japan</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8131a8f5-4feb-4b38-827f-c6b95a9ff802</record_id>
+            <name_string>Xiaxing zazhishe 夏星雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8002a99b-0097-44fe-a624-e8c562712d61</record_id>
+            <name_string>Anhui sheng jiaoyu hui 安徽省教育會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7df4dda4-34c4-469f-bb79-6b06ce6dc59d</record_id>
+            <name_string>Anhui jiaoyu yuekan bianyi chu 安徽教育月刊編輯處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7c3d0748-9804-4728-ab1e-721220cd10d4</record_id>
+            <name_string>Jiangsu sheng nonghui 江蘇省農會�HrK178</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7c281ea6-5774-4bd3-8f26-f6fe61d3cabd</record_id>
+            <name_string>Da Zhonghua zazhishe 大中華雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7b162774-60dd-46f6-bbfe-c755601e4d09</record_id>
+            <name_string>Guocui xuebaoguan 國學報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7af09ea2-5f00-4427-a031-8ecfa99d72d9</record_id>
+            <name_string>Shenghuo zazhishe 生活雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7a77be62-3f73-41e9-beb0-68dd3c7e2f7d</record_id>
+            <name_string>Yilin bianyichu 譯林編譯處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-79127e70-55e4-46f3-8e44-05584707a0c8</record_id>
+            <name_string>Caizheng jingji yanjiu hui 財政經濟研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-78b1cd18-5841-4da1-b8f3-9b3d5bf4633d</record_id>
+            <name_string>Qingying yishu 慶應義塾</name_string>
+        </item>
+        <item>
+            <record_id>uuid-78234456-a91d-4b20-932f-e462c21b125c</record_id>
+            <name_string>Sichuan guoxue yuan 四川國學院</name_string>
+        </item>
+        <item>
+            <record_id>uuid-776e60ac-c3e5-43da-bae3-512f39091497</record_id>
+            <name_string>Wenxue yanjiu hui 文學研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-74ba7f78-408d-46c6-a8c4-7dca207feb73</record_id>
+            <name_string>Sichuan xuewu gongsuo 四川學務公所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-74821e0a-d4b7-4e96-ab0a-9f76b3eef815</record_id>
+            <name_string>Shangxiantang 尚賢堂</name_string>
+        </item>
+        <item>
+            <record_id>uuid-746fff10-1f14-47fa-8751-744ffc1030eb</record_id>
+            <name_string>Nankai sichao baoshe 南開思潮報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-721467da-c45b-4d0f-afc5-82a91167906a</record_id>
+            <name_string>Shenzhou congbao she 神州叢報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-718e65b4-21ab-458d-9ace-10585bef3faf</record_id>
+            <name_string>Xin shuowang baoguan 新朔望報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-718bd834-21e7-4888-92c9-6cddf14ee0b1</record_id>
+            <name_string>Dongting bao zazhi she 洞庭波雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6fba1fa6-5ce2-4621-a341-dab84dc83601</record_id>
+            <name_string>Meizhou xuebaoshe 美州學報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6ebcc9cc-6bb7-460e-8baf-8c4dc52f5294</record_id>
+            <name_string>Gechang xinyue she 歌場新月社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6eb4ae90-6023-4fc1-8999-0e127aef72ad</record_id>
+            <name_string>Xinshijishe 新世紀社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6dba71d0-1171-42cc-9381-0af2fd0edd6b</record_id>
+            <name_string>Zhengwu yanjiu she 政務研究社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6d7b1c1c-4472-4869-abbd-cec9a9301870</record_id>
+            <name_string>Beiyang fazheng xuehui 北洋法政學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6cdaf116-4096-45cb-aa76-d98f5084829e</record_id>
+            <name_string>Xin shijie xuebaoguan 新世界學報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6bbac236-859d-4830-8133-46742d804e72</record_id>
+            <name_string>Anhui shiye si 安徽實業司</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6b85b70a-9671-4953-a286-90378a92eae4</record_id>
+            <name_string>Lingnan baihua zazhishe 岭南白話雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-69b16fb8-c997-4045-ac43-dc0042f509f4</record_id>
+            <name_string>Guomin zazhishe 國民雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-68844a96-0cad-4caf-a1f2-e393cd8ee31b</record_id>
+            <name_string>Jiangnan shangwu ju 江南商務局</name_string>
+        </item>
+        <item>
+            <record_id>uuid-68306cb4-e1de-4e07-b3ae-465e7d30f95a</record_id>
+            <name_string>Qubao she 牖報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-680358c2-3f7b-4a79-b6a8-5049b665c64c</record_id>
+            <name_string>Liu Ri xuesheng zonghui wenshi weiyuanhui 留日學生總會文事委員會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-67c48aca-4f91-407e-a2a0-374b081eb6b7</record_id>
+            <name_string>Guoli Fazheng xuexiao fazheng xuebao she 國立法政學校法政學報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-675c016a-2a24-4b1b-9317-2bf60cffe8d6</record_id>
+            <name_string>Zhongguo yinhang zong guanli chu 中國銀行總管理處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-65a66790-653d-4dd9-8860-68a860483084</record_id>
+            <name_string>Zhejiang bingshi zazhishe 浙江兵事雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-656a850e-00f6-4e5c-8803-ba692f690e5e</record_id>
+            <name_string>Zhejiang Weixinpai 浙江維新派</name_string>
+        </item>
+        <item>
+            <record_id>uuid-64a13168-7477-402c-afc5-3d47dd59582e</record_id>
+            <name_string>Anhui baihua baoshe 安徽白話報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-63fafb82-de94-480a-82c6-a05c5857c2f9</record_id>
+            <name_string>Guobao zazhi she 國報雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-63affe58-4079-415e-af26-fb1d0f1b58c4</record_id>
+            <name_string>Guangdong shiye tuan</name_string>
+        </item>
+        <item>
+            <record_id>uuid-61cc6678-6366-4761-8195-13f94da254fc</record_id>
+            <name_string>Qingnian zazhishe 青年雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-609335ec-d22a-4ac3-b1f2-58a312996902</record_id>
+            <name_string>Huanqiu Zhongguo xuesheng baoguan 寰球中國學生報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5fcc14c8-c371-4aec-8f64-5aedbe5c2ae3</record_id>
+            <name_string>Kuangye zazhishe 礦業雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5f98a218-7cb5-45ad-b18b-258d75976f99</record_id>
+            <name_string>Yayan zazhizhe 雅言雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5e31da60-46d6-4660-90b5-3d4d09c5934d</record_id>
+            <name_string>Jinbu dang 進步黨</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5d9b22e2-92ed-4331-8773-6f9f1a2fa8fc</record_id>
+            <name_string>Fubao she 復報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5ba33756-a694-43c1-9202-1803f1711eb0</record_id>
+            <name_string>Guangcang xuehui 廣倉學會�HrK138</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5adfc64c-f2e8-4391-b83a-3187fad3a454</record_id>
+            <name_string>Zhongguo shixuehui 中國史學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5a33b0f4-fc86-478e-b4f8-aed3499461a0</record_id>
+            <name_string>Dazhan shibao she 大戰事報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-59f0951c-69df-4d65-a0b7-de2a2ebe6990</record_id>
+            <name_string>Gonghe zazhishe 共和雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-59a6f6c2-2da1-48bb-8d02-ce86efca3d79</record_id>
+            <name_string>Zhejiang nonggong yanjiu hui 浙江農工研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-57ed9efa-9a34-4dfe-a29d-cdd2ac782aa0</record_id>
+            <name_string>Zhonghua funü jie she 中華婦女界社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5764c5ac-18f1-4856-8023-3ca7303750af</record_id>
+            <name_string>Bingchen zazhishe 丙辰雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5722d2d6-1e3f-4db7-a95d-c5350e68554d</record_id>
+            <name_string>Liu Mei gongdu hui 留美工讀會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-571aa30e-106e-4a01-9a28-dcbae69f06d7</record_id>
+            <name_string>Bingshi zazhishe 兵事雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-56fa5786-691f-4f09-9129-700cec375ffc</record_id>
+            <name_string>Shiye congbao she 實業叢報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-56826a26-2ff3-47d6-baf5-dcd00039ce66</record_id>
+            <name_string>Shufeng baoshe 蜀風報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-56343970-d2ba-48f0-bca1-42a99fed5613</record_id>
+            <name_string>Huanqiu she 環球社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-55713ddc-9b3c-46e0-9df4-aeacc84da888</record_id>
+            <name_string>Ningbo baihua baoguan 寧波白話報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-556e3d6c-0d27-4b6e-943f-d8d2d14c3e95</record_id>
+            <name_string>Datong bao bianji suo 大同報編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-54871380-bc44-4b3a-b6b9-af9f2a74c197</record_id>
+            <name_string>Xincheng duanfeng tuan 新城端風團</name_string>
+        </item>
+        <item>
+            <record_id>uuid-547a4ece-ef08-49e4-8d0b-8ad7af9cf324</record_id>
+            <name_string>Gongmin zhoukan she 公民周刊社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-53d258f2-2f7e-4acd-95f1-d9bfac85925f</record_id>
+            <name_string>Zhongguo shangye zazhishe 中國商業雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-529cccd0-4962-4d7c-ab2f-304831c9f7b1</record_id>
+            <name_string>Beiyang guanbao zongju 北洋官報總局</name_string>
+        </item>
+        <item>
+            <record_id>uuid-520763b0-d9c5-4dee-942a-ed3e8f8ffd47</record_id>
+            <name_string>Shanxi zazhishe 陝西雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-51000c2a-6bfd-470d-a304-7e1dda7cd93a</record_id>
+            <name_string>Nongxuehui 農學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4fada564-e6f4-4f08-8d6e-b7096895b90b</record_id>
+            <name_string>Beijing tushuguan putong gujizu 北京圖書館普通古籍組</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4f47d442-fbf7-4ed6-b981-a03a5264c1fd</record_id>
+            <name_string>Qinghua xuexiao 清華學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4ee8258a-923c-4265-b84f-c58cad0349f0</record_id>
+            <name_string>Zhongguo shangye yanjiu hui bianji bu 中國商業研究會編輯部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4ad177de-cb27-4cfe-80c4-9ee61a1cc539</record_id>
+            <name_string>Da gonglun zazhishe 大公論雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-499a40d8-468a-4beb-92f1-1df0edbe79ac</record_id>
+            <name_string>Dalu guobao she 大陸國報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-49793646-6c3d-4f26-865e-47adbe1be680</record_id>
+            <name_string>Xin xiaoshuo she 新小說社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-48d0b79a-6a06-40b0-b07b-0e1b82c533fc</record_id>
+            <name_string>Datong xueshe 大同學社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-48ab493e-dfa4-48ad-a111-4b66ae684ae1</record_id>
+            <name_string>Wuwu zazhishe 戊午雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-47f44b70-e10c-450e-9d76-43ec9e5d5bd7</record_id>
+            <name_string>Liumei xuesheng hui 留美學生會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-47be0b9a-53a4-4c20-85a3-d5ababc4b64d</record_id>
+            <name_string>Rui’an liji yiyuan xuetang 瑞安利濟學堂</name_string>
+        </item>
+        <item>
+            <record_id>uuid-472271dc-d1ba-44db-ac58-063a70f2f7e9</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-46eb30a4-1c6a-416b-97f8-62bd8bb31c98</record_id>
+            <name_string>Yubei lixian gonghui 預備立憲公會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-44a38eae-6a78-435c-8479-d120b0b1b97f</record_id>
+            <name_string>Yangzijiang congbaoshe 揚子江叢報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-445ba332-2c1a-46a8-881b-94cda7a109c4</record_id>
+            <name_string>Zhili quanye gongsuo shiye zazhi 直隸勸業公昔實業雜誌</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4344167a-0b5c-4065-867a-c57714a5c88e</record_id>
+            <name_string>Liuri Hubei jiaoyu hui 留日湖北教育會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-426f783c-0aa4-41b7-8d86-ed4b04d83f8f</record_id>
+            <name_string>Zhonghua minguo guoyu yanjiuhui 中華民國國語研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-415cd32e-7242-4f3c-8e6c-62454f832fce</record_id>
+            <name_string>Beijing jingji xiehui 北京經濟協會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-410e62a2-d0f1-42f2-972b-deeac786e803</record_id>
+            <name_string>Baoding fu gaodeng nongye xuetang</name_string>
+        </item>
+        <item>
+            <record_id>uuid-40ed0b84-2b64-4abf-9e06-0905fb996514</record_id>
+            <name_string>Xin baihua baoshe 新白話報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3f12d398-3789-450e-a5e7-a18a9508e415</record_id>
+            <name_string>Falü shubao she 法律書報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3edd2cfc-84cf-4e8d-8792-2140a1c890a3</record_id>
+            <name_string>Beijing daxue Xinchaoshe 北京大學新潮社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3e8ed76c-0d98-4cd2-b167-ec489f839f4b</record_id>
+            <name_string>Shenzhou nüjie xieji she 神州女界協濟社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3e1bec76-dfb1-41ea-b531-60cd8572b77f</record_id>
+            <name_string>Hangzhou shangye gonghui 杭州商業公會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3e007ea2-45a8-4b24-9c1c-50ac3ee324e5</record_id>
+            <name_string>Chongqing shangwu gonghui 重慶商務總會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3d537ca2-c64a-4bd7-b9b2-4682e923d6db</record_id>
+            <name_string>Qunyi zazhishe 群益雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-397b1a60-7f0c-4cd7-8771-5f7026727d8b</record_id>
+            <name_string>Kindai Chūgoku Kenkyū I-inkai 近代中国研究委員会</name_string>
+        </item>
+        <item>
+            <record_id>uuid-37d56c8a-872e-4429-8fe2-98ff972a0635</record_id>
+            <name_string>Shenzhou xuehui 神州學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-37544f1a-ffae-4751-932b-4a76b799029a</record_id>
+            <name_string>Guomindang Yue zhibu 國民黨粵支部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-36d66d6e-3de4-4468-99e9-eb273f8116ca</record_id>
+            <name_string>Hunan difang zizhi chouban chu 湖南地方自治籌辦處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3232586a-54c7-4601-8edb-058ec8f4dec1</record_id>
+            <name_string>Jiaoyu zazhishe 教育雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3184b068-bfcd-4974-be6a-49e914f41c12</record_id>
+            <name_string>Xiju congbao she 戲劇叢報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-306ff496-57cf-41c3-a7e4-c31c815eb19c</record_id>
+            <name_string>Qingguo liuxuesheng huiguan 清國留學生會館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-30429098-520a-4487-9668-7e976a411f6b</record_id>
+            <name_string>Hunan jiaoyu zazhi 湖南教育雜誌</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2e8778d8-850d-4988-a5b7-1ba39ed2d1b3</record_id>
+            <name_string>Changming lijiao she 昌明禮教社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2e6e6e9c-08ac-46d8-94b9-217212238870</record_id>
+            <name_string>Guoqun zhuyi tongsu jiangyan she 國群鑄一通俗講演社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2e503762-b39e-47ca-85a2-d3cc0c9a86c4</record_id>
+            <name_string>Shanghai Kaiming shudian 上海開明書店</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2d5d8cac-c234-40fc-8ad5-66683677a226</record_id>
+            <name_string>Nanyang Heshu xuewu zonghui 南洋荷屬學務總會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2d3b878c-1dd0-4563-9898-a0ba7f0d84e5</record_id>
+            <name_string>Guohui congbao she 國會叢報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2b6c12a4-d689-4883-b23a-4f7bf3348739</record_id>
+            <name_string>Zongjing shehui 宗經社會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2b4fc96c-00ae-4b7b-80f5-e7ac0b844a86</record_id>
+            <name_string>Jueminshe 覺民社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2a8360fa-58fe-4dd0-bd0c-109fa57441f1</record_id>
+            <name_string>Qingnian jinbu zazhishe 青年進步雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2a2ca15c-bbb9-4f7c-928d-a82cb55e1107</record_id>
+            <name_string>Zhonghua shiye jie she 中華實業界社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-29a4e5e8-2815-4617-b63d-6f2feb15fb70</record_id>
+            <name_string>Xingqi huibao she 星期匯報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-298c60be-069d-4e69-8d9c-3cdeb7910e35</record_id>
+            <name_string>Dongjing Zhongguo shiye zazhishe 東京中國實業雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2963edc8-8f43-4e3a-875b-bb49d3216a27</record_id>
+            <name_string>Yunnan zazhishe 雲南雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2907b2ae-0e24-4cb7-9ec4-4bbe74016494</record_id>
+            <name_string>Xujiahui Fudan gongxue 徐家匯復旦公學</name_string>
+        </item>
+        <item>
+            <record_id>uuid-28a948f2-786c-494a-96c4-ccf2f5486705</record_id>
+            <name_string>Hubei jiaoyu hui 湖北教育會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-28532be2-4f9b-4b53-9259-d4bd2eb96069</record_id>
+            <name_string>Weixinpai 維新派</name_string>
+        </item>
+        <item>
+            <record_id>uuid-275b7490-c0d9-44a8-8ec2-990d4a45059a</record_id>
+            <name_string>Qinghua xuexiao 清華學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-26b25afa-f265-4823-8c58-deffacb6dc41</record_id>
+            <name_string>Shaoxing jiaoyu hui 紹興教育會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-26845746-19aa-4c92-a145-55c3916cb2bc</record_id>
+            <name_string>Chuxue hui 楚學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-249a432c-273e-4f50-9b35-b4a0eaab8cb4</record_id>
+            <name_string>Shuxuehui 蜀學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2498c7f4-34c5-47fe-9e56-73464996ddfd</record_id>
+            <name_string>Shijie guan zazhishe 世界觀雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2402682a-ffcd-4c85-a249-6c270a5e8aef</record_id>
+            <name_string>Beiyang wubei yanjiusuo 北洋武備研究社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-23fc09dc-d200-457a-8e74-4a67c7fe6f1e</record_id>
+            <name_string>Yue she 越社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-21a10920-e4c4-4fe5-a1bb-c2a7d2927102</record_id>
+            <name_string>Zhongyang shangxue hui 中央商學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1f6492b2-1d50-4a64-802c-b72381a3257f</record_id>
+            <name_string>Jiangsu sheng jiaoyu hui 江蘇省教育會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1e2b6a7e-e44b-424e-9233-c9cda8790c1b</record_id>
+            <name_string>Zhongguo yuwen xueshe 中國語文學社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1e002436-c280-4b1b-88df-c14b3c804aba</record_id>
+            <name_string>Aiguo xueshe 愛國學社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1d3980e0-c413-46b8-b068-ef4773320ed1</record_id>
+            <name_string>Sichuan Weixinpai 四川維新派</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1bbb82e0-396d-48bb-9dcd-46db149b9a05</record_id>
+            <name_string>Tun she 暾社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1b0a84de-7d02-488f-bd46-11bd4c200e67</record_id>
+            <name_string>Dianhua baoshe 滇話報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1ab38fb0-8e4c-4c55-87c2-6788ceacd924</record_id>
+            <name_string>Guofeng baoguan 國風報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-196c1318-49a3-4167-a647-ccf897ecabe6</record_id>
+            <name_string>Xiandai Hanyu guifan wenti xueshu huiyi mishuchu
+                現代漢語規範問題學術會議秘書處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-191e2b98-2042-4fdd-b473-f0f39b01a420</record_id>
+            <name_string>Xin Zhonghua zazhishe 新中華雜誌</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1817b1ec-37e8-4aeb-8a14-15d17f59bbac</record_id>
+            <name_string>Nanyang quanye hui shiwu suo 南洋勸業會事務所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-17ba1820-c142-4325-a590-e09435190396</record_id>
+            <name_string>Zhonghua minguo jingji xue hui 中華民國經濟學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-17a30474-87dd-4cbf-8cd1-9ccbba4096fa</record_id>
+            <name_string>Yadong congbao she 亞東叢報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-178bf28c-0b1b-4092-b440-8cdb6118f096</record_id>
+            <name_string>Zhongguo baihua baoshe 中國白話報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-168f909e-41bf-4864-9484-7b3dfd3d6dc6</record_id>
+            <name_string>Xianzheng yanjiu hui 憲政研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-16824fb8-41e9-4a7a-8442-2e9036cb2fb2</record_id>
+            <name_string>Jingye xuehui 竟業學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1647c952-04db-4eaf-8aa9-ff9b3a0eaf94</record_id>
+            <name_string>Xinyue she 新月社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-163e9366-c3be-4544-989c-acb89cd343ed</record_id>
+            <name_string>Zhonghua shehui kexue xueshe 中華社會科學學社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-163c0672-c4d7-4d21-a9bc-45cb41444664</record_id>
+            <name_string>Jinbu zazhishe 進步雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-15cd66a6-6df5-4ad5-9f97-d92ffd6e56fb</record_id>
+            <name_string>Shiye huibao she 實業匯報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-157b82bc-0359-4878-8517-bca4bac86f6e</record_id>
+            <name_string>Ma Lixun jiaoyu xiehui 馬禮遜教育協會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1555aaac-3c29-403c-abc2-2545c41bbe8d</record_id>
+            <name_string>Nanyang shangbao bianji chu 南洋商報編輯處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-14aa1b36-8341-40da-94b3-bda33183b965</record_id>
+            <name_string>Junguo xueshe 軍國學社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-12f0ad9e-9c0d-4949-9119-c94c1746fe25</record_id>
+            <name_string>Juansheng she 鵑聲社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-12482024-1bfb-494e-bc65-21c9bfe8a8e0</record_id>
+            <name_string>Zhongwai xiaoshuo lin she 中外小說林社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1198a090-1823-4873-8ff4-0be79416dee5</record_id>
+            <name_string>Guangyi congbaoguan 廣益叢報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-11403e16-2049-448b-b11b-9a7f9c05a6b6</record_id>
+            <name_string>Qiangxuehui Shanghai fenhui 強學會上海分會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-11399ad4-98f5-4874-ba87-e4b76c95a1db</record_id>
+            <name_string>Dongjing youxue yibianshe 東京游學譯編社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-10851210-7a52-4c49-80a6-2c50cc16f41a</record_id>
+            <name_string>Nüjiedeng xuebao she 女界燈學報社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0d4ef6bc-5a6c-47f9-9b62-4972cdaecd62</record_id>
+            <name_string>International Society for the Study of European Ideas</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0c9adf30-8f81-429b-867e-e3cce3bdec10</record_id>
+            <name_string>Zhili shangpin chenlie suo 直隸商品陳列所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0b591c78-b849-4d5d-a99e-dc2eec041542</record_id>
+            <name_string>Xunlian zongjianbu junxue bianyichu 訓練總監部 軍學編譯處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0b37e40a-2cfe-467e-b07a-c7530e31ec78</record_id>
+            <name_string>Sichuan yixue hui 四川譯學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-098900ce-55c7-45a6-ad18-1b4584a15898</record_id>
+            <name_string>Ruo she □社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-06d9a14a-7958-44ca-a23d-490a953ea71c</record_id>
+            <name_string>Meizhou pinglun she 每周評論社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-06bfa278-7b99-46a4-9a71-4f79df4d8dd3</record_id>
+            <name_string>Zhongguo kexueshe 中國科學社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-068480e0-aa85-4680-b62a-98f2083dc72b</record_id>
+            <name_string>Zheshi xiaoyouhui 浙師校友會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-061f6124-eb6c-44f7-b1b0-87a10eac7b30</record_id>
+            <name_string>Zhejiang tongxianghui 浙江同鄉會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-05d99fc4-96e9-4001-ac5f-7fe292d73dde</record_id>
+            <name_string>Shangxiantang 尚賢堂</name_string>
+        </item>
+        <item>
+            <record_id>uuid-04e21d54-5712-4ede-8fe8-4b3258628b01</record_id>
+            <name_string>Guangdong sheng difang nonglin shiyan chang</name_string>
+        </item>
+        <item>
+            <record_id>uuid-04435b86-6423-4eea-aa10-a13e3622a9a2</record_id>
+            <name_string>Xin shije zazhishe 新世界雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-031ec350-fed3-46d2-930f-44c9807b9a19</record_id>
+            <name_string>Jinan xuexiao 暨南學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-01827ada-6fe6-4ca5-9b05-26bf3f77d99f</record_id>
+            <name_string>Chunliu zazhi shiwu suo 春柳雜誌事務所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0130f9ca-6739-438c-9377-e517a12799d8</record_id>
+            <name_string>Hangzhou baihua baoguan 杭州白話報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-004cf474-3954-4acc-a2b1-e9973673501d</record_id>
+            <name_string>Xinqingnianshe 新青年社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1fe85186-95e6-4d75-b5f0-2a59423191bb</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1ed5f278-5a03-48ac-b34b-4dbe458e211d</record_id>
+            <name_string>Jiaoyu zazhishe 教育雜志社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1eb0133a-125c-453d-8e6c-d38efc23c61e</record_id>
+            <name_string>Guoli bianyiguan 國立編譯館 National bureau for translation</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1ea7badc-90a5-4a68-8b7f-6b024f4f9ce7</record_id>
+            <name_string>Centre of Non-Western Studies</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1e74200e-6c53-4dea-ae26-e69ce46d2b12</record_id>
+            <name_string>Mengxue shushu 蒙學書塾</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1e530c12-86d8-40e2-a066-381af437ea11</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1e123a3e-1618-48f9-b212-3521d216e90a</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1d9cb356-862e-4920-a8a0-a7af7ab50c62</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-1d5b136a-35bb-4551-afe2-096148361631</record_id>
+            <name_string>Shanghai xinxue huishe 上海新學會社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1cc4e3c4-d3e6-4ca7-bdbc-41bd90a98c3a</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1c3f83de-0ac6-427b-bae7-2d1b64bff876</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1be12198-fd67-4644-9a79-e393aa98a884</record_id>
+            <name_string>Anhui faxueshe 安徽法學社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1a811c5c-ff5b-4594-88bb-4c03b48f6b5b</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1a4851d0-c246-45ad-8dfe-60b6f6efbbe2</record_id>
+            <name_string>Renwen chubanshe bianyisuo 人文出版社編譯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1a355534-8230-45ee-be7f-18f35ef499a3</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-18c0e83a-4dbb-4356-bb26-746da9cd5264</record_id>
+            <name_string>Jiaoyubu guoyu tuixing weiyuanhui 教育部國語推行委員會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-18bf7434-2c37-481d-9906-56c601871283</record_id>
+            <name_string>Hongwenguan zong bianjisuo 宏文館總編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-189827b6-ad2e-4b7f-a4c1-763144ce1977</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-17d5ffbe-dd6b-40ab-8d9d-d0200db47c85</record_id>
+            <name_string>Kexue yiqiguan bianjibu 科學儀器館編輯部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-17a0a51e-506e-466f-956f-750eee5cf657</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-178238d4-7732-41ea-9072-c694e18f3766</record_id>
+            <name_string>Chengcheng xuexiao 成城學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-176c7a38-d742-4003-9d1d-9203b892fdc0</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-16f919a0-69b6-4b8e-b9cd-c821271091cf</record_id>
+            <name_string>Guoli bianyiguan 國立編譯館 National bureau for translation</name_string>
+        </item>
+        <item>
+            <record_id>uuid-16b881ca-36a7-4b5e-8d03-781d904b4d1b</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1688c1fa-8ad2-4f0b-b3c2-67b61be7ecf2</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1660455a-075c-46fa-9934-2b218d1f869c</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1617e610-a1c0-4968-b433-da5796efbfbc</record_id>
+            <name_string>Xin Zhongguo cishu bianyishe 新中國辭書編譯社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-15d80638-4b2d-4330-9af7-0e9d888225b1</record_id>
+            <name_string>Xunlian zongjianbu junxue bianyichu 訓練總監部 軍學編譯處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-142405b2-e2eb-4e14-984e-e7fd546e930e</record_id>
+            <name_string>Guoxue fulunshe 國學扶輪社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1409d0c6-8045-4456-9269-a83d7913dcaa</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-1263fa62-5e49-4e4b-b015-775fdc6c467e</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-116cd2ec-2f7c-4849-a7f8-4822b61edbc8</record_id>
+            <name_string>Dongfang faxuehui 東方法學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-109712aa-fef5-4a23-99f8-dc8a84cf7c60</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0fea6fc8-528d-4523-a47b-16e9fb0e4c98</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-0fb6aee0-6f76-4822-bbf6-d5fb0bd86343</record_id>
+            <name_string>Riben Lujun jingli xuexiao 日本陸軍經理學校 unbek</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0f9dfbf6-db06-4b6e-a526-23cb15ae2f80</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0f5762aa-62ad-427c-a786-ff934bfcaf79</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0e684fba-8323-4c52-8533-047ad53e4017</record_id>
+            <name_string>Lixin kuaijishi shiwusuo 立信會計師事務所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0daf6d74-596d-4046-989a-bd6914b84c7b</record_id>
+            <name_string>Xinzhi shuju bianjiju 新智書局編輯局</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0d0cad9e-49b9-4b79-9647-2cb81708ba25</record_id>
+            <name_string>Fanyi tongxun bianjibu 翻譯通訊編輯部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0c9c7668-da45-49d2-a4fe-fc7cc4b555cb</record_id>
+            <name_string>Yingguo zhizaochang 英國治造廠</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0c76834c-14f7-4cc3-97fb-b427ab0ddfff</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-0c76834c-14f7-4cc3-97fb-b427ab0ddfff</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0c02221c-41c1-4eda-b2d4-99ef5189234f</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0bdd9152-6892-4bae-a425-ce85ea2cdfc9</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0aaa2ffe-7008-41c5-922b-d36e796f4341</record_id>
+            <name_string>Beijing tushuguan 北京圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0a4a5430-2a60-466c-9efa-46f2729e4550</record_id>
+            <name_string>Xincishu bianyishe 新辭書編譯社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0a187fd8-59fd-4e68-a417-4b41a19146d6</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-0a0c52e8-0e0e-4014-ba30-63a6a91c35f1</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0957ea06-fd16-4f98-92d7-88c3679ad5ec</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-08d5ccda-5089-4363-b063-8e72c2b39872</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-085bbad0-8169-41c4-b015-145d442b4b8a</record_id>
+            <name_string>Hanyu dacidian bianji weiyuanhui 漢語大詞典編輯委員會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-080df4ca-f039-495b-85e8-1347e7d96e06</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-07fe55d0-6796-4ff4-87b1-c6ae8a1802f5</record_id>
+            <name_string>Zhili xuexiaosi bianyiju 直隸學校司編譯處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-07ec0e0e-394c-46e8-bbee-9ed0ab86134a</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-07c464ae-9df2-4f96-ae8c-b64ed911f001</record_id>
+            <name_string>Xuebu bianding mingciguan 學部編訂名詞館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-078a4262-9e60-4f14-a97b-6f323dd5eafa</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-076a6f8a-5f47-4de9-b21f-024e26c2420b</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0678aae0-49f5-4506-86e4-5f15da849e40</record_id>
+            <name_string>Shanghai Renyanshe 上海人演社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0649a304-a7d3-4839-9054-5ef4dd66ea37</record_id>
+            <name_string>China Medical Missionary Association</name_string>
+        </item>
+        <item>
+            <record_id>uuid-05c44ef6-70bb-41c3-b39e-5faf125b12a2</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-05654004-3fab-4b1b-ba04-e859d5f60207</record_id>
+            <name_string>Bingchuan bu 兵船部 Englische Militärakademie</name_string>
+        </item>
+        <item>
+            <record_id>uuid-04c28b88-ac3b-4c05-aea7-fe1ff337854b</record_id>
+            <name_string>Jiaotongbu shending tielu mingci hui 交通部審定鐵路名詞會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-046754e4-bc80-4c05-a141-3369126d9b52</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-04665162-1328-4f08-96f2-909dc093bf53</record_id>
+            <name_string>Beijing yuyan xueyuan 北京語言學院 Beijing Language Institute</name_string>
+        </item>
+        <item>
+            <record_id>uuid-03ec3124-7e41-4a65-a5e0-c34516a44746</record_id>
+            <name_string>Zhongguo gongcheng xuehui 中國工程學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-03ca3ff4-65eb-4308-8d91-2d67aed38e19</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-03ca3ff4-65eb-4308-8d91-2d67aed38e19</record_id>
+            <name_string>Riben lujun canmou benbu 日本陸軍參謀本部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-03ba05da-1d28-4254-bff3-7cdfb842476e</record_id>
+            <name_string>Riben lujunsheng 日本陸軍省</name_string>
+        </item>
+        <item>
+            <record_id>uuid-03b7c21e-4068-486b-bbca-42592b3d7621</record_id>
+            <name_string>Riben zhengfu 日本政府</name_string>
+        </item>
+        <item>
+            <record_id>uuid-039e5830-7ce8-4633-a953-a3386767c344</record_id>
+            <name_string>Xiandai Hanyu guifan wenti xueshu huiyi mishuchu
+                現代漢語規範問題學術會議秘書處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-02fb1078-43bb-46ba-83ad-ac308c332d42</record_id>
+            <name_string>Zijing shushi 資敬書室</name_string>
+        </item>
+        <item>
+            <record_id>uuid-024e1d54-4ace-44eb-99db-19ae58f31701</record_id>
+            <name_string>Shanghai shi baokan tushuguan 上海市報刊圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-020d32e6-74da-41a0-90a0-4eaba09f32f6</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-019d26e8-da23-418c-ae96-67b193999576</record_id>
+            <name_string>Guoli bianyiguan 國立編譯館 National bureau for translation</name_string>
+        </item>
+        <item>
+            <record_id>uuid-014f5776-1d8d-43a5-9cc5-2bc09beff1c0</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-00d40b16-87fe-4edc-a78f-b6a491f06e4d</record_id>
+            <name_string>Zhongshan daxue lishixi 中山大學歷史係</name_string>
+        </item>
+        <item>
+            <record_id>uuid-0068a9f0-5081-4e3b-b0a7-a644d99a11aa</record_id>
+            <name_string>Guoli bianyiguan 國立編譯館 National bureau for translation</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ffa4ed1d-59f9-4435-a217-ff7b9b6cfc44</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ff694f99-2aec-4891-af33-f377ed999d25</record_id>
+            <name_string>Shaoxing Beixiang yishu 紹興北鄉義塾</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ff40d783-1e15-4a1f-aae2-5d94b66a8c87</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ff21bbab-5abc-4bb3-834d-331d2f256e4a</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-febfbdff-5b1b-46dc-9e51-c8b586443c1a</record_id>
+            <name_string>Riben shiguan xuexiao 日本士官學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-fe3c1deb-fbef-4f23-93ae-eb6da0a06b6a</record_id>
+            <name_string>Xiandai zhishi bianyishe 現代知識編譯社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-fe325d41-7614-4ece-be01-e0073e1f28a1</record_id>
+            <name_string>Quanguo jingji weiyuanhui shuilichu 全國經濟委員會水力處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-fdfc7ea3-81b4-48a2-9308-40783e5fc0e5</record_id>
+            <name_string>Fanyi tongxun bianjibu 翻譯通訊編輯部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-fc6f294f-f77b-4b6d-9a04-b04cfaa79bb9</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-fc3689ef-8adc-40a9-9b63-5b3b17c89f6e</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-fbb78425-e1bf-4c1d-a4cb-3204b82ee23a</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-fad11c6b-1d07-413f-9bcb-be343787e6fd</record_id>
+            <name_string>Zhongguo Zhong Ri guanxishi yanjiuhui 中國中日關係史研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-facef969-eec9-4209-b267-83e237869e0c</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-fa0bf649-52f1-4f6b-9c51-204b13c97910</record_id>
+            <name_string>Admiralität, kaiserliche</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f94e4a41-8d1b-4de8-871a-8f46311f7112</record_id>
+            <name_string>Dongjing riri xinwenshe 東京日日新聞社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f9499a27-f06b-492e-ad41-10108ada34ed</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f932dc17-91fb-4f98-b50b-eea2da0e6db6</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f83d2677-af6f-4ca4-91d1-c45e547ca27f</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f79fb721-0287-4b1a-a428-828191332696</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f78973b1-49d8-4501-b5c4-bf6dcc88fe55</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f777f063-b455-4b2c-bab6-17b7d07615c7</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f6fb6215-0614-4f3c-8cb5-281f961500d1</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f5fd554d-7559-4963-a2d2-4497cfd15997</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f5def1e3-574d-4638-8230-fdcd0de364b9</record_id>
+            <name_string>Waijiao xuehui 外交學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f593175f-266a-4752-8375-0bffd9ac383b</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f54ac549-f4c8-4b20-9336-a84058f72c29</record_id>
+            <name_string>Putong jiaoyu yanjiuhui 普通教育研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f5201b13-9cc5-407d-93b8-7db149ecd61f</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f47bec89-c635-4b9e-a4af-e924abbbcae8</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f4575e33-3a73-466a-9542-3f18d40fa45e</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f3259335-7aa2-4472-baa4-44afd4237d99</record_id>
+            <name_string>Shanxi daxuetang 山西大學堂</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f085206d-88e2-498c-b256-76c02eedf1f3</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-f084f519-0e1f-43e3-aa3f-cefc41df15dc</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-efb29c71-4dda-444a-9ea9-399d638e4223</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ef4f4093-c0bd-4eaa-bb7b-43272e999c0a</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-eed8c26b-b68d-4900-bc6e-d73b36d3a9e5</record_id>
+            <name_string>Zhongguo Zhong Ri guanxishi yanjiuhui 中國中日關係史研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-eed3eca3-2fe7-456f-b5dd-6a5185108b11</record_id>
+            <name_string>Dongfang faxuehui 東方法學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ee530ef3-af33-4cb5-8064-46c08dcaa84f</record_id>
+            <name_string>Xunlian zongjianbu junxue bianyichu 訓練總監部 軍學編譯處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-edba41dd-8d8f-4b9e-ad39-806a793b9280</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ecabd96b-481d-406c-912b-9394ea82f9aa</record_id>
+            <name_string>Lujun shiguan xuexiao 陸軍士官學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ec240a2f-a7fc-4d3c-90a0-0e301f2c0852</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-eb7b8363-4333-47a8-8d28-160bdbbb817d</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ead9f385-77eb-4dc0-a9bf-54036ddcf705</record_id>
+            <name_string>Putongxue shushi 普通學書室</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ea8b485b-dbb5-4cfa-9625-72ec4e0ff49b</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ea3e2a27-4ba0-42c3-9654-10cd5dd16845</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e957decd-0b90-4a7d-af9b-414cb95c0c06</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e94a9a57-4ae4-408c-8575-3e130e1a1659</record_id>
+            <name_string>Bingchuan bu 兵船部 Englische Militärakademie</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e92a4c21-1b92-4f17-8a98-010c56d5e35a</record_id>
+            <name_string>Zhongguo jiaoyuhui 中國教育會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e8b4091f-5ca7-4773-909b-8c8a850a38ff</record_id>
+            <name_string>Chūgoku gogaku kenkyūkai 中国語学研究会</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e8a91c69-1c3c-4a4e-84da-3c2bbf18bb93</record_id>
+            <name_string>Kokuritsu kokugo kenkyūjo 国立国語研究所 National Institute for Japanese Language
+                and Linguistic</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e8a05545-2707-4f09-8505-d865ea27d51b</record_id>
+            <name_string>Beijing tushuguan 北京圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e894afbf-f287-45d1-88d8-fce9198e02a6</record_id>
+            <name_string>Zhonghua gongchengshi hui 中華工程師會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e83e0037-feef-4b2d-9430-4aa40c8139e9</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e8385295-e867-4080-8ab8-5de77389e4f8</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e77c78d7-ea4b-4a54-afbb-b17ed93efce3</record_id>
+            <name_string>Guangdong gaodeng shifan xuexiao xuesheng maoyibu
+                廣東高等師范學校學生貿易部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e7328c2d-d720-4612-b514-b334a32d1271</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e7196c41-c585-484c-b319-b48b6a9cd717</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e5fc97fb-75bb-4143-bf72-00f7473845e5</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e5f8ae73-e8d6-42e1-9e6f-82afd6ba4685</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e5d9fe0f-de5f-4b79-8f25-a108054760a8</record_id>
+            <name_string>Riben zhengfu 日本政府</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e441e755-1bcc-490f-be5d-1793f4c4342c</record_id>
+            <name_string>Shandong zhizao lihua qixie suo 山東製造理化器械所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e3565b61-a7c5-46bd-a596-1739a5cdbb34</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e2a251bd-646e-485b-838a-660d22ce23b3</record_id>
+            <name_string>Dongfang faxuehui 東方法學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e1e76125-2014-4598-b454-50c90e790330</record_id>
+            <name_string>Guoxue fulunshe 國學扶輪社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e19bdea1-6f7e-49c6-a27e-ad0cabc8f950</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e18522eb-6976-4938-985d-9d8310c61fdd</record_id>
+            <name_string>Beijing waiguoyu xueyuan yingyuxi “Han ying cidian” bianxiezu
+                北京外國語學院英語係《漢英詞典》編寫組</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e10429cd-8a9f-4305-bfe7-94a4d8269caa</record_id>
+            <name_string>Shanghai xinwen baoguan 上海新聞報館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e0eae6a5-2ac5-458c-93e3-34423dac27be</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e0d06c2f-83ce-4508-9fba-0e600c36b610</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e0b638b1-3a26-4934-b49f-8c3a1ad9fb5c</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e09f71bf-ca1c-4b25-8402-4163156bbbc2</record_id>
+            <name_string>Kindai Chūgoku Kenkyū I-inkai 近代中国研究委員会</name_string>
+        </item>
+        <item>
+            <record_id>uuid-e04876a7-6027-4de7-9197-81a729f01ce2</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-dfec4c9d-6914-4248-aace-cc7b8f16d9ec</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-df223ffb-d779-4f36-8073-c52138be900e</record_id>
+            <name_string>Jiaoyu zazhishe 教育雜志社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-dd64a2a7-0aea-4dc8-8430-27a46575ba43</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-dc0f8fb1-2638-4698-bda4-e934ce53d524</record_id>
+            <name_string>Fanyi tongxun bianjibu 翻譯通訊編輯部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-dbaa7b89-9715-4f82-899c-c6336d16913f</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-dade58f3-265a-4243-b09e-255bacbebe5f</record_id>
+            <name_string>Fanyi tongxun bianjibu 翻譯通訊編輯部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-da5b3fd3-eb1d-432f-8408-ca273f57ed5a</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-da33ce45-f096-4c05-8f44-eaa4f9a5bcff</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d9f00737-79be-4ac5-af99-6dd311f012a9</record_id>
+            <name_string>Sichuan guoxue yuan 四川國學院</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d89e4621-9148-4ff6-b567-f6acd4f07c3b</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d83d4113-b424-45d0-96b7-b44485153ecc</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d7b5be4b-bef0-4c8f-b652-a014d1c90574</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d78cd205-0a79-4bf2-88f6-dfeb6acb7311</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d782457d-87de-4fd3-8e74-3f3c82897f5b</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d76aa8d1-6cf1-4e7e-801b-fd748481664a</record_id>
+            <name_string>Dongfang faxuehui 東方法學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d7303d3d-cfea-4526-9603-1adb3c9ed3e3</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d72f8fa3-cd24-410f-a365-efcb2a81cd7f</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d70ae407-d2fd-44df-91aa-f1c8805c58a5</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d6fb67c1-6004-4e9b-8f2d-ab2ed986e589</record_id>
+            <name_string>Mengzang weiyuanhui 蒙藏委員會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d6d8b05f-1377-4525-a8fe-2c0e25f0fca5</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d63356fd-f560-41c9-985b-e1f78ea1c3ea</record_id>
+            <name_string>Riben Lujun jingli xuexiao 日本陸軍經理學校 unbek</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d520a41f-cd73-48ab-9c4e-e9d88c29062b</record_id>
+            <name_string>Guoli bianyiguan 國立編譯館 National bureau for translation</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d46fce07-879a-4303-968a-c85e36133c1c</record_id>
+            <name_string>Guoli bianyiguan 國立編譯館 National bureau for translation</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d46e8eb9-d850-4f99-aa1a-468d73ead6e9</record_id>
+            <name_string>Lujun shiguan xuexiao 陸軍士官學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d4211441-b7ee-4d75-8804-1f73e501aa2e</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d3f1ef65-9cb4-41ab-b4bc-fadd72a7c967</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d39ff815-ea71-4c50-b701-f9fa53e0218c</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d31b16f7-30b4-48f1-9cf9-4b4d55d08247</record_id>
+            <name_string>Guoli bianyiguan 國立編譯館 National bureau for translation</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d304269b-c430-44df-a284-902b6af7fa77</record_id>
+            <name_string>Zhonghua shuju (Shanghai) 中華書局(上海)</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d2e50e03-735e-4496-a3f5-df7024ee29f8</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d275f427-5dac-4a7b-8938-594d7e051ce8</record_id>
+            <name_string>Dongfang faxuehui 東方法學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d1c0f9f9-c50e-4498-8c9d-ee8d586cfe1a</record_id>
+            <name_string>Katholische Mission Süd-Shantung</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d12feec1-1e34-4f52-ae36-b6499621a8d9</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d0c8917f-0a4a-46bb-8ca0-e9dbb9685021</record_id>
+            <name_string>Riben Guomin tongmenghui 日本國民同盟會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-d07085eb-9cfe-40ec-8fe4-52dce369c513</record_id>
+            <name_string>Zhongguo gongcheng xuehui 中國工程學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-cfae255d-93a2-47bf-826e-19995b6dba54</record_id>
+            <name_string>Nanjing gaodeng shifan xuexiao jiaoyuke jiazi ji
+                南京高等師范學校教育科甲子級</name_string>
+        </item>
+        <item>
+            <record_id>uuid-cf645fd7-c957-43a1-b382-482dbab23ebd</record_id>
+            <name_string>Fujian renmin chubanshe 褔建人民出版社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-cf502ba9-c865-43ae-99eb-d3286a4b91cf</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ce8d6dc5-b655-41e6-966f-508b6fe05972</record_id>
+            <name_string>Dongjing gaodeng shifan xuexiao 東京高等師範學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-cd5171fb-293a-44e9-a061-4e0fed45b54c</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-cd5171fb-293a-44e9-a061-4e0fed45b54c</record_id>
+            <name_string>Shijie cidian bianyishe 世界辭典編譯社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-cd386053-0615-4b52-b057-762438913662</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ccf26379-7c59-4c06-8cee-42c3f44f580b</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-cce4fd2b-58d6-4ddc-b346-d8e036ac065f</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ccb88087-52c3-4d6b-ae69-01d088cd35d1</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-cbbc8fef-ab45-4167-aecc-33099ceddf2e</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-cb99f1ab-04b4-4027-a68f-f24ddd268769</record_id>
+            <name_string>Jingshi daxuetang 京師大學堂</name_string>
+        </item>
+        <item>
+            <record_id>uuid-cabd04b5-6733-40c3-896a-501a78a7da53</record_id>
+            <name_string>Dongjing riri xinwenshe 東京日日新聞社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ca1fb305-c135-4793-975e-5fce7c20b021</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c9771779-5389-468c-a633-4a5e10ee23bc</record_id>
+            <name_string>Lujun jiaodao tuan 陸軍教導團</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c948fe63-1093-41d0-8f0d-2b577fa674bd</record_id>
+            <name_string>Dongfang faxuehui 東方法學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c8725279-b1df-4f27-82b1-728e27d27d04</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c8531df7-a893-40df-b5ed-2990fc6603f5</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c8531df7-a893-40df-b5ed-2990fc6603f5</record_id>
+            <name_string>Riben lujun canmou benbu 日本陸軍參謀本部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c7b2c4fd-34d7-4741-a083-aaf33aacdf2c</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c759de29-24b9-4ddb-bb53-d860fa7e3d25</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c729afc9-95e8-4f31-8311-570ad893fcf4</record_id>
+            <name_string>Riben zhengfu 日本政府</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c6e62b5f-06e6-462d-aae1-150c02cc58cb</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c6b422a7-5464-433c-a8dd-8eb48d3639f9</record_id>
+            <name_string>Sanyi she 三益社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c65cfdeb-e834-4200-87ba-94c1decdc895</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-c5e9e2bb-c800-448a-8835-00eeaac805af</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c5b38427-e29f-41f6-9ce2-2e8af6202486</record_id>
+            <name_string>Dalu zazhi 大陸雜誌</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c5b10e4b-613d-4209-a28f-4afaad0a6f76</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c582c59f-96c5-4844-8390-bd39a64130ba</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-c53b6ee1-226a-49cd-8288-11d4a9f31898</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c503ba5b-1496-4376-bb6f-634f84f721b6</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c4477dad-d8ac-4e61-afc0-4a76a9f2dff9</record_id>
+            <name_string>Jiancheng quannongju 監城權農局</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c4308011-0da3-4698-9ce2-f90351ce6814</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c42bda17-6a22-4479-b448-1680d3198812</record_id>
+            <name_string>Jiangxi keliguan 江西課吏館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c3960885-95a3-4d1f-912a-15aba08a71d5</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c36ef0cd-ab5c-4dd3-adb7-bea0db4d42cd</record_id>
+            <name_string>Beijing tushuguan 北京圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c335b17d-ed22-45c9-91e9-d11d02c9c7f3</record_id>
+            <name_string>Committee on Medical Missionary Association</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c30e3e07-9af7-48c1-8050-370425cdc226</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c24b2401-26b2-4831-a999-9b77436f063e</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c22e175f-921f-4685-9e6c-0895768ab807</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c218d95d-d25a-481e-a4f3-2f1580a48a34</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c20d3c77-db20-4184-8ec9-ddc43dd957d3</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c1fa9c0f-5eed-4bd2-a60d-f0004bed133a</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c15eca4b-c639-496f-93d9-2dfc6d8269db</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c0b7b215-c265-4558-acda-c531f0b224e3</record_id>
+            <name_string>Zhongguo shixuehui 中國史學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-c000cb93-0df2-4c2a-b682-34291c448d17</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bf9a8e03-63eb-44d9-a4b6-1037aac10b67</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bf8f6421-e4da-4a57-8651-20e059fffecd</record_id>
+            <name_string>Fanyi tongxun bianjibu 翻譯通訊編輯部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bf2fa415-e261-4d26-b271-f4e3b1620a14</record_id>
+            <name_string>Kindai Chūgoku Kenkyū I-inkai 近代中国研究委員会</name_string>
+        </item>
+        <item>
+            <record_id>uuid-be7f6bbb-87db-446b-afe3-2e65d9994c91</record_id>
+            <name_string>Fanyi tongxun bianjibu 翻譯通訊編輯部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-be7e0eab-eba8-4aa7-af78-f5ee2fd556d5</record_id>
+            <name_string>Quanguo jingji weiyuanhui shuilichu 全國經濟委員會水力處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-be05ef93-b136-408b-a455-6aab8a807a54</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bd5eab11-cdb3-42ac-849b-9618cb1f4858</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bd3f05f9-5119-49f6-a293-945548ff2596</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bcf7ed69-5ca7-41e4-86dc-4834213101c8</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bcf0a503-174b-494a-b45c-08fbc09a75ef</record_id>
+            <name_string>Zhonghua minguo guoyu yanjiuhui 中華民國國語研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bcccfeb9-5669-4087-9287-dc49c2e03a78</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bc92ec39-83d6-4bc6-8779-a962f43b0790</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bc84deb9-ddbd-44f7-9995-a8cb0de2f3b8</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bc84deb9-ddbd-44f7-9995-a8cb0de2f3b8</record_id>
+            <name_string>Riben zhengfu 日本政府</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bbafc4bb-a9b5-48ed-9e52-e2e3633325a7</record_id>
+            <name_string>Shanghai tushuguan 上海圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bb99c593-ed56-4e6a-a3c7-a4a681ee1d1f</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bb7a1389-efb3-445f-9fdd-bd5cadd91d9b</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-bb4c2bc5-0be5-4cb0-a874-7deb92c5edaf</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-baea27f7-b999-4fc2-bee5-2035bd6f493e</record_id>
+            <name_string>Dongfang faxuehui 東方法學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ba374715-309f-4b2d-bcff-8086d44f02a8</record_id>
+            <name_string>Quanguo yinhang gonghui di wujie lianhe huiyi 全國銀行公會第五屆聯合會議</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b9bca473-b472-4a9c-bc09-8819079f54eb</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b9a17619-5147-42ca-b290-551ec0b2cf63</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b8fed585-2132-4c08-918a-7c41643ad825</record_id>
+            <name_string>Centre de recherches linguistiques sur l’Asie orientale</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b8709d89-bfdc-4b97-ba3e-2da0ea6ac58b</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b84ac335-81fc-4c0d-9f83-31fb4b775268</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b7e443c5-b5f3-4462-b662-0284e675b449</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b78119a7-06dd-4586-8bfa-dab9ae813f4d</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-b5e561f7-f137-4e1c-87f5-7a363e03a310</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b5b0eb9f-934f-4e44-bbd2-c147c23df88c</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-b4d85649-d3e1-4dd5-a74d-bf2cf7cea67b</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-b4d543f7-1efe-4baa-8a15-e225a52b196c</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b402249f-4227-48ad-abb2-474224dc8de3</record_id>
+            <name_string>Kexue mingci shenchahui 科學名詞審查會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b39cd0ff-5e45-4263-a477-6a69c0088a99</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b3823d4b-03b1-46ab-bf4d-f5f458172748</record_id>
+            <name_string>Beijing tushuguan 北京圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b3811373-d6d6-4c7a-8bb8-f4ab4c041429</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b3638d71-9e5c-4164-a2a4-7907027047da</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b3401cc5-64f1-4b68-89f7-72a287bd146a</record_id>
+            <name_string>Zhongguo shehui kexueyuan yuyan yanjiusuo 中國社會科學院語言研究所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b3135785-65dd-417b-a622-3d4a33664b5d</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b2530a5b-6f49-4f4e-9562-6bdd999d4903</record_id>
+            <name_string>Beijing daodeshe 北京道德社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-b1ac2c8b-fa9f-4fc6-9c30-080fb14d9be4</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-b04253b7-996e-40f3-aecf-ba39fb35395a</record_id>
+            <name_string>Wenxueshe 文學社 unbek</name_string>
+        </item>
+        <item>
+            <record_id>uuid-aff048c7-80cc-492a-b45d-98b40703c8f3</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-af2ca05f-755c-472c-a8b1-801049910567</record_id>
+            <name_string>National Bureau of Compilation and Translation</name_string>
+        </item>
+        <item>
+            <record_id>uuid-aefff49f-e1ff-4c05-a4da-2741aa059b9b</record_id>
+            <name_string>Anhui faxueshe 安徽法學社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-aef0dd11-f83b-40e8-acea-cb5f651416ac</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-aeebe6cf-0058-4014-94c4-1baa355b02ec</record_id>
+            <name_string>Guoli zhongyang yanjiuyuan qixiang yanjiusuo 國立中央研究院氣象研究所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-aea85f19-8368-4025-a9dc-a22fc023e9d3</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ae2f2af9-e68c-4b88-afa1-1fd9baee165d</record_id>
+            <name_string>Xinshijishe 新世紀社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ae0fbc23-967c-4303-bb44-94b64f8fe896</record_id>
+            <name_string>Beijing tushuguan 北京圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-adfa31b3-ff65-4a1d-bdba-da5a00f50244</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-adec9097-d252-413e-879e-626544afd4ef</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ad7b46b9-8b26-4f72-bef2-7fe06404d8d0</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ad5f29d5-e493-4f77-b562-dc6c0aa82bcf</record_id>
+            <name_string>Lujunsheng 陸軍省</name_string>
+        </item>
+        <item>
+            <record_id>uuid-acf0f4e9-c968-4761-ab37-7b93f8e39b06</record_id>
+            <name_string>Dongfang faxuehui 東方法學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ace14727-0e72-4a61-823b-88ab6c7a33b7</record_id>
+            <name_string>Zhili xuexiaosi 直隸學校司</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ac7e38d7-07a8-4de6-a537-2efdd9ed20f3</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ac365ccb-6581-4ac3-8072-a2ad7a467f2e</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ac0d1f7b-daa3-45f8-83a0-0622cb28ffc9</record_id>
+            <name_string>Jinghua shuju 競化書局</name_string>
+        </item>
+        <item>
+            <record_id>uuid-abf1bf41-d517-464b-88f7-5a0beb1d014a</record_id>
+            <name_string>Riben Lujun celiangbu 日本陸軍測量部 unbek</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ab11b88d-b53e-46ee-845e-f07e4e59ed74</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-aafe40c7-ab74-4276-98a8-71ec6c0c8db0</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-aae64733-7e3c-411a-bb8e-1604f5370cb4</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a8f8418b-ffba-4b9e-91d1-20b0f5051dfe</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a8a8962f-d47d-4959-a8cd-27aa0ed06301</record_id>
+            <name_string>Akademija Nauk CCC, Institut Vostokovedenija</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a8941ec1-d20b-4791-b271-74758f002a21</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-a880d4b9-a899-4bfa-9dee-d710669d4601</record_id>
+            <name_string>Junlingbu di siting 軍令部第四廳</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a87c8e5d-bd1c-4780-ae98-f473f9335195</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a86fb06d-8acc-4863-a2da-0d781d9f74c1</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a8681a41-e15c-47b7-a9dd-94dad77f89e5</record_id>
+            <name_string>Wuxi sandeng xuetang 無錫三等學堂</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a846571f-77be-4f85-ad23-fa40ae741768</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a746f783-2b04-4af9-8dc1-19a1761d968d</record_id>
+            <name_string>Zhongguo kexueyuan zhexue yanjiusuo Zhongguo zhexueshi zu
+                中國科學院哲學研究所中國哲學史組</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a6701d3b-2999-473c-9165-2a7f69dbd32d</record_id>
+            <name_string>Lingnan daxue zhexue yanjiu weiyuanhui 嶺南大學哲學研究委員會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a5888599-6c3d-4c06-972d-6af779171423</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a5853761-8467-4156-ba87-a44cbd4ed40b</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a51bf359-276d-45af-9883-f474e463acd8</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a4c9a8d9-8264-4e06-bfe8-76693db1e4c6</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a4726f61-e666-4461-ba43-3e25f7580021</record_id>
+            <name_string>Chuyang xuesheng bianyisuo 出洋學生編譯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a42c756d-bb20-48c8-a026-bd4393f3280f</record_id>
+            <name_string>Dongfang faxuehui 東方法學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a3deeeb9-2b88-4470-b239-56f9d7dfdeef</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a3549981-522c-414c-8e66-8b5c390bc2b7</record_id>
+            <name_string>Wenqiutang bianjiju 文求堂編輯局</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a33dbcdb-e5de-49b0-bd96-7118a078aaa2</record_id>
+            <name_string>Beijing tushuguan putong gujizu 北京圖書館普通古籍組</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a2e02a69-f5d5-4aac-aa03-ca735309d431</record_id>
+            <name_string>Bingchuan bu 兵船部 Englische Militärakademie</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a1eb66fd-32f7-4015-8356-11315fab9170</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a1a926c9-2ded-45ca-b962-8a9673e72337</record_id>
+            <name_string>Xuebu bianyichu 學部編譯處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a1571609-fdf0-4778-ad09-a117b412d0fb</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a143519f-9b45-4455-9b83-d7d0ae6f4229</record_id>
+            <name_string>Beiyang daxue -Tianjin daxue jiaoshi bianjishi 北洋大學﹣天津大學教史編輯室</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a0d3759b-ba48-4518-9675-297d4554761c</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a0ab665f-91cb-449e-883b-17935fc8803f</record_id>
+            <name_string>Xinqingnianshe 新青年社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-a0980dc1-5fa2-4ebe-97b9-e80ab12907ba</record_id>
+            <name_string>Mingci weiyuanhui 名詞委員會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9fa261e3-2e67-46bc-bbb9-9b93ef395ff0</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9ed1eeb1-3a09-4c6b-ab07-ded643e1ff44</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9ebd729d-5a84-4149-8364-1b836ae3fba8</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9ebac2a1-be06-4b96-91e0-290575c93483</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9e29d46f-3dad-4584-9041-7ab9230f142c</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9e26eee5-1ed5-4db3-b434-474f22e79b5c</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-9db0f2e3-ed02-4717-921d-bd5e8cbd6afe</record_id>
+            <name_string>Guoli bianyiguan 國立編譯館 National bureau for translation</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9d5660a1-a6d4-4320-bcf4-296bb1d2eb25</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9d501f77-8c85-4d38-a718-a3cc33e9c916</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-9d22b2f5-9904-4d1b-99bd-8a422ee31d97</record_id>
+            <name_string>Fazheng daxue 法政大學</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9cad8ea9-749f-4032-817f-24afe0144933</record_id>
+            <name_string>Qiu ziqiang zhai 求自強齋</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9c293b61-13bf-4f7e-b132-21ad67c2bd2e</record_id>
+            <name_string>Fanyi tongxun bianjibu 翻譯通訊編輯部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9c01700f-ee7b-43e6-8783-3ed99db7a24c</record_id>
+            <name_string>Zhongguo shixuehui 中國史學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9b802457-4ee0-4902-b4b4-87300f3a6376</record_id>
+            <name_string>Guoli bianyiguan 國立編譯館 National bureau for translation</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9b565b27-4654-457b-9c6a-f5d21842381e</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9b262b3d-0ac3-4f11-96a0-fc7299e7f460</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-99f56235-ebaf-4798-8357-349509fd854a</record_id>
+            <name_string>Riben zhengfu 日本政府</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9965445b-b319-4dd9-b75b-f29b1a1a43ee</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-994fd359-f046-4e07-95b8-4b75392ea9b7</record_id>
+            <name_string>Riben lujun jiaodaotuan 日本陸軍教導團 unbek</name_string>
+        </item>
+        <item>
+            <record_id>uuid-98a1ea0b-e70d-41df-b895-12a53291a152</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-985f0287-c0d6-4776-8e7a-67fe8d1778d1</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-985f0287-c0d6-4776-8e7a-67fe8d1778d1</record_id>
+            <name_string>Xinfadian jiangxihui 新法典講習會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-97310fc7-7d7c-43b7-8ba5-9d85ee782cc1</record_id>
+            <name_string>Renmin chubanshe 人民出版社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-971bffe3-dcd4-49a1-8658-153e144b4e4e</record_id>
+            <name_string>Riben zhengfu 日本政府</name_string>
+        </item>
+        <item>
+            <record_id>uuid-95febc1f-c2ff-4919-ae26-419d4c1eb021</record_id>
+            <name_string>Tōyō bunko kindai Chūgoku kenkyū i-inkai 東洋文庫近代中国研究委員会</name_string>
+        </item>
+        <item>
+            <record_id>uuid-95092817-4c77-4d03-b9d6-c7b900d5fa69</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-93d5051b-4961-42d1-a0a6-f947af78d2a6</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-92c3096d-9173-475f-a0f8-f7a8a9682623</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-92ae830f-f9a7-44bc-aa40-74f689272066</record_id>
+            <name_string>Meihua shuguan 美華書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9283b36f-dd00-407b-91f1-f7b8d89fc1bb</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9189773d-2ed9-4ab1-b4ae-b94a487d1f7c</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-90e633df-66f2-4411-a232-1fd73445ce3b</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-909941dd-69bf-4631-8dde-5e983fe89645</record_id>
+            <name_string>Duyi yishe 獨一譯社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-9033f2db-fed8-4f50-bed6-0befc60db2dc</record_id>
+            <name_string>Jingshi daxuetang 京師大學堂</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8fa07319-5c7c-4794-a869-d11d54a73ac8</record_id>
+            <name_string>Lujun shiguan xuexiao 陸軍士官學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8f7f35ed-b166-4ca7-867d-aa9f121f7502</record_id>
+            <name_string>Committee of the Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8f147ee1-cfdf-4aa5-b33c-d5de2413115c</record_id>
+            <name_string>Riben zhengfu 日本政府</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8ecbc93f-7152-4eac-988f-a11cedc434b1</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8eb0961f-b00d-4b53-bce8-0175833c2336</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8e88a089-9427-4080-8007-a10448435ea3</record_id>
+            <name_string>Czechoslovak Academy of Sciences</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8e140483-7a9f-41b3-8bb1-fd188b63330c</record_id>
+            <name_string>Jiaoyu pujishe 教育普及社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8ca5ec13-7e7b-476c-a73d-269d7be40564</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8be8a09d-0209-4167-bd02-803c0feeba95</record_id>
+            <name_string>Beiyang fazheng xuehui 北洋法政學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8b005963-d6a0-404a-aab8-3021240718a2</record_id>
+            <name_string>Xinshijishe 新世紀社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8a15084b-8d5e-40aa-b90c-73514111d4d2</record_id>
+            <name_string>Xinshijishe 新世紀社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8a090efb-de34-45d1-90be-9f2c3bc55167</record_id>
+            <name_string>Fujian renmin chubanshe 褔建人民出版社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-89eb1851-c589-46a1-93cc-6156c1d01282</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-897fcd99-6786-4448-84e9-3963292b44f8</record_id>
+            <name_string>Taiyang zazhishe 太陽雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-8947e72d-e5a8-4bf9-b788-98063d93145e</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-88987d47-494e-41b9-8836-406aad201885</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-87f72cb3-f6ec-4cc7-84c5-47e23cddc8e4</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-87b6e59f-c908-4b9f-9a9e-2bfca06e0bf4</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-87a2f947-e925-40bc-821a-a52580c283db</record_id>
+            <name_string>Fanyi tongxun bianjibu 翻譯通訊編輯部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-86cd7339-0de1-4be0-bf43-45394cd15acd</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-868be997-ff5e-4953-9dc3-e492d7b90eab</record_id>
+            <name_string>Dongwu daxue, Riben wenhua yanjiusuo 東吳大學,日本文化研究所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-85de84d9-7843-4ffd-8bf0-bebef5d6cfe5</record_id>
+            <name_string>Meiguo niujin tushu gongsi 美國牛津圖書公司</name_string>
+        </item>
+        <item>
+            <record_id>uuid-83bf0ea9-2b4b-4250-88ca-e89fbc04fffe</record_id>
+            <name_string>Nihon sanbōbu 日本參謀部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-82f565e5-3082-49f5-b5f4-8e7248246abc</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-82f3c8d5-8cb5-41c4-914b-d3593b128ddd</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-820a8a2d-0a62-4f69-b35d-9fe42e0c4b1d</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-81860b43-20c1-4314-9c2d-ec24fb2bd0eb</record_id>
+            <name_string>Zhongguo shixuehui 中國史學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-80b49021-7480-4705-9c66-95d8e0d4ca6b</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-801d0f13-8800-4de4-89a2-8c09f6429508</record_id>
+            <name_string>Chūgoku gogaku kenkyūkai 中国語学研究会</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7fa412a0-1894-4187-8e1a-ad6eca648e24</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7f70a69c-dff9-4803-9327-5b3705ef770c</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7e5c3e66-42c5-46df-9909-518ecb3a9ab6</record_id>
+            <name_string>Riben Junshi jiaoyuhui 日本軍事教育會 unbek</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7e5294be-7786-415d-b0e7-b0432050da48</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7ddb2cc4-e884-4576-be70-a58261f9fb33</record_id>
+            <name_string>Guoxue fulunshe 國學扶輪社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7dce92d6-cb1f-425e-8a40-5891cfc9f874</record_id>
+            <name_string>Huanan shifan xueyuan zhongwenxi 華南師笵學院中文系</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7d36de76-4cef-497d-8c0d-2760e658bdc8</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7d255044-41c4-429d-b888-7fa01576e3d2</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7ca86bf8-05cf-40bd-9c35-5106447f98cf</record_id>
+            <name_string>Zhongguo jiaoyuhui 中國教育會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7c5a0fc8-8be9-4afa-b878-8b3fea55f05a</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7bdcec38-9cd6-414c-8a73-2a1bf5124b24</record_id>
+            <name_string>Xinchaoshe 新潮社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7b5e7ed6-acf6-4d9e-91e4-6b3683ab2884</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7b4c8a1c-5585-46c0-9ec3-85325652b2db</record_id>
+            <name_string>Riben zhengfu 日本政府</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7a85c9fa-71de-4e52-bf31-ce8883a4967d</record_id>
+            <name_string>Beijing tushuguan 北京圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7a8375e4-ab53-4aa3-a5ac-b45a8a0093a7</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-79fc5c16-4d25-4f95-aa1a-590038d119a8</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-79cb611a-2aa2-49d8-b3f2-2361ec8a8dca</record_id>
+            <name_string>Xincishu bianyishe 新辭書編譯社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-79b5bc14-1161-4e83-9419-0d27f168e62c</record_id>
+            <name_string>Shanghai tushuguan 上海圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-79810e00-da56-4b23-b669-a4dc71ee114d</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-79712b8a-b921-45e8-8d5d-1a7a3d244431</record_id>
+            <name_string>Dongfang faxuehui 東方法學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-781aea76-8d6e-46d0-ac9c-e15f18763df4</record_id>
+            <name_string>Zhili xuexiaosi 直隸學校司</name_string>
+        </item>
+        <item>
+            <record_id>uuid-78093254-85a8-456d-b120-cdac394594bc</record_id>
+            <name_string>Nichiran Gakkai 日蘭学会 Nichiran gakkai (Hrsg.)</name_string>
+        </item>
+        <item>
+            <record_id>uuid-77cf7f2c-6c60-48dc-b18d-df130524a035</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-77a0b536-5fea-4e7d-b237-73d1b9c85666</record_id>
+            <name_string>Guoli bianyiguan 國立編譯館 National bureau for translation</name_string>
+        </item>
+        <item>
+            <record_id>uuid-778e2042-23ec-45e9-baf8-13c76f26415b</record_id>
+            <name_string>Dongfang faxuehui 東方法學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-76474502-3a8d-4fcf-bab3-33de7d6bda4e</record_id>
+            <name_string>Zhongguo Zhong Ri guanxishi yanjiuhui 中國中日關係史研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-74b4a7d8-d736-454e-8a3d-2654a790419b</record_id>
+            <name_string>Zidongji gongcheng xuehui 自動機工程學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-74a0372e-a9ea-4a46-8276-4385fbb4c564</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-74710748-988a-49f1-93af-99088bb62751</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-74564a0a-0537-421b-a6c3-61eb4aa1054f</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7438660a-7e3e-4983-aaf0-5d71b310f71c</record_id>
+            <name_string>Riben lujunsheng 日本陸軍省</name_string>
+        </item>
+        <item>
+            <record_id>uuid-740112dc-b05f-4065-879b-6e0c4b6db328</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-73c2befe-f326-4d00-a6c4-48de80575482</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-739f16d0-b84f-4a79-af4f-022a53dcbf86</record_id>
+            <name_string>Bingchuan bu 兵船部 Englische Militärakademie</name_string>
+        </item>
+        <item>
+            <record_id>uuid-73834652-be5c-402c-af6a-ede71c881c78</record_id>
+            <name_string>Fuerjian chang 伏耳鑑廠�HrK71 unbek</name_string>
+        </item>
+        <item>
+            <record_id>uuid-73813a12-e6b1-4f1a-9f77-4f836a5c5d7e</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-731a3662-f82a-4408-827d-d68a725691ef</record_id>
+            <name_string>Zhongguo yuwen xueshe 中國語文學社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-72b4c0b2-1bb7-4e8b-abc6-f7935f6c5c40</record_id>
+            <name_string>Sanmin gongsi 三民公司</name_string>
+        </item>
+        <item>
+            <record_id>uuid-718b972c-ff67-4903-a6c3-2116bdb21c94</record_id>
+            <name_string>Beijing tushuguan 北京圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-705d72d4-500c-4846-b674-e2e166b67eb4</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-7059bb62-79e2-4db6-b4b4-f51fd8525fff</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6f8c7850-7d0e-4771-b4e9-8d14b0b81643</record_id>
+            <name_string>Putong jiaoyu yanjiuhui 普通教育研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6f46d4fc-d674-417a-a54f-5480c5e5ae2b</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6ef46af2-de38-4f7c-9b78-3166e0e08b65</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6dc3c914-4d17-4c63-b618-c3ea9c84598c</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6da7f304-9866-412e-957d-63c185175f06</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-6da7f304-9866-412e-957d-63c185175f06</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6d81a170-a537-4e7d-bfcd-9f20c492968a</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6bc15e2e-f8e0-4937-a20d-82435c7716ab</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6b1a198c-c264-461d-8e6f-e449c1bed01c</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-69a3ede8-c2f2-4ed4-a5ef-a40e7435a72c</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6974d58e-963c-4275-bd12-a5ff118fcca9</record_id>
+            <name_string>Shangwu yinshuguan bianjibu 商務印書館編輯部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-690cea86-0053-4a44-8966-0e12ce5f7054</record_id>
+            <name_string>Waijiaobu tiaoyuesi 外交部條約司</name_string>
+        </item>
+        <item>
+            <record_id>uuid-68b0f946-6efb-477a-b98e-d229987a69cc</record_id>
+            <name_string>Dongya yishuhui 東亞譯書會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-682bd6b0-9818-4be2-9dbe-277802a23909</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-677d7872-73ee-49bd-867e-6df794778627</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-673f2b74-ae19-405f-846b-d0507d6347f3</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-66ae4ff2-c74c-4ff2-825b-0764f66f8dd7</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-65eddfec-02b9-4d69-86b8-40d156fe15ba</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-65beaeea-8359-44d0-a91f-19adbf017b08</record_id>
+            <name_string>Beijing tushuguan 北京圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6533fdb4-fb50-4256-a28c-f32ecc69aae8</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-64fab7ba-1ba3-43ce-a623-cf2f20ec4da0</record_id>
+            <name_string>Beijing tushuguan 北京圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-64c1b56e-0019-4724-a513-ff5b4199f922</record_id>
+            <name_string>Committee of the Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-63ffb06e-a721-4aaa-936f-2a0461a7a5a5</record_id>
+            <name_string>Zhili xuexiaosi bianyiju 直隸學校司編譯處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-63d423a2-bd77-41bb-97b4-ceed88093d44</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-62d61ff0-9be5-4c43-a379-699d1bea2f0b</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-62a0fc96-de97-4a9d-99d6-06a6852b930d</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-6284dd0a-eea3-4843-864d-97b6685918d2</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-626c1bc2-a503-4e89-9cb5-3a07ffdb8cb9</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-62563e94-a833-4884-b983-2c1a646d881d</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-61ee9264-8ee2-463e-a816-1c1bef523925</record_id>
+            <name_string>普魯士軍政局 Preussisches Militäramt (zw)</name_string>
+        </item>
+        <item>
+            <record_id>uuid-61c33a02-d762-4807-8187-e3ef4f7ad040</record_id>
+            <name_string>Zhongguo shehui kexueyuan chubanshe 中國社會科學院出版社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-60829564-03a4-4c30-80ae-af7b1a9c22b7</record_id>
+            <name_string>Centre of Non-Western Studies</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5f569952-485c-47b9-9158-6f7e8d9470fb</record_id>
+            <name_string>Mingci weiyuanhui 名詞委員會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5f547d94-1430-4633-9245-e52b03b5322d</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5eab5c88-58d3-4993-bd6d-7bb56813c2a1</record_id>
+            <name_string>Meiguo niujin tushu gongsi 美國牛津圖書公司</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5e7db3f4-510c-4f12-b812-1db600ccff32</record_id>
+            <name_string>Dongfang faxuehui 東方法學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5e1f6bee-e8a2-4162-9a0b-9719124ced6d</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5de46a16-35c7-4e7d-b96d-0f62e1dca1c3</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5d9c21c2-ebe5-4ff5-a4fe-f80574bf4cf3</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-5d8d5c1a-8b6a-4252-8ab8-33761dcca647</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5c6b5c1a-9ebd-4b4a-b831-c29339bf6b12</record_id>
+            <name_string>Zhonghua hanshou xuexiao 中華函授學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5c65e65a-0d31-43fb-a677-87afdf4aa570</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5c23e3f6-351f-49cc-8769-fd36fbed3243</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5bc4adb0-6d23-4b2c-9630-8733453c8330</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5b357aa6-dffe-4b99-8407-4fd168df52b3</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-5b279b1e-fd31-4fb7-9c44-c16bd2daf625</record_id>
+            <name_string>Riben zhengfu 日本政府</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5b25cc68-7d3e-49ac-b6ce-d7d2023f9cd6</record_id>
+            <name_string>Beijing daxue zhongwenxi yuyanxueluncong bianjibu
+                北京大學中文系語言學論叢編輯部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-593e1188-ba70-4257-b484-d2116a20d090</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5909436c-deeb-4f0e-b99d-3fc711195896</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-57cb6896-5e79-49f6-b15f-dc4dc8470cbb</record_id>
+            <name_string>Zhongguo xinling yanjiuhui 中國心靈研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-56dadd60-13b3-4eea-a944-7befc53da925</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-55cc85de-cd13-496c-876d-aad80d4604d0</record_id>
+            <name_string>Beijing tushuguan 北京圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-55b7bfec-7f32-4142-a966-48b02359a8d9</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-55b444e2-783c-46c9-a9f5-05e302a993e5</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-556d0100-296d-4c6d-a5f0-b1895d307382</record_id>
+            <name_string>Zhonghua shuju (Shanghai) 中華書局(上海)</name_string>
+        </item>
+        <item>
+            <record_id>uuid-54b2f22c-66f4-448d-af08-cf95dd8708f4</record_id>
+            <name_string>Qingying yishu 慶應義塾</name_string>
+        </item>
+        <item>
+            <record_id>uuid-547efb3c-9fcf-47a0-aa39-f47137989ad1</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-543864ae-f64b-4b62-ae29-dbf355eaff7a</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-53812d8a-7f2c-4f5e-be1a-181e9b7e7c99</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-5342ef44-107d-417f-8b60-2a23141819b1</record_id>
+            <name_string>Zhongyang yanjiuyuan jindaishi yanjiusuo 中央研究院近代史研究所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-52e0347a-d16d-4afb-91fe-eed2f849806a</record_id>
+            <name_string>Fanyi tongxun bianjibu 翻譯通訊編輯部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-52924bf2-0fc1-47a7-8bff-99e6a4a23320</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-50a2ca7c-502b-4f35-9d31-d9697ca1b1ee</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-50088dce-497f-4952-956d-8d78c92b87a5</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4f1b3f98-e5cc-481b-9ad5-90ecf4e1c6a3</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4e9db092-19a9-4afa-a4f3-78be0068a41d</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4da950de-008d-4ef6-8a44-608fe7527076</record_id>
+            <name_string>Mingci weiyuanhui 名詞委員會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4d9eb2a8-5f6d-4a66-82d4-80e89336dc2b</record_id>
+            <name_string>Shaonian Zhongguo xuehui 少年中國學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4d8b70dc-191c-444f-9564-5b49ab07dce6</record_id>
+            <name_string>Guoli bianyiguan 國立編譯館 National bureau for translation</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4d6451fa-f9cf-4981-a043-23cbf0425eb5</record_id>
+            <name_string>Riben Yuchenghui 日本育成會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4cb07f78-bcad-4600-8cd1-3ccd7b8d1264</record_id>
+            <name_string>Zhonghua shuju (Shanghai) 中華書局(上海)</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4ca85a10-f604-4147-83d9-779848c6db68</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4c999c80-f46a-4835-b925-4416e5da15e8</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4bbc7af6-56ba-4af0-92aa-5ef31b2963c3</record_id>
+            <name_string>Xinshijishe 新世紀社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4ba29238-6706-4b9c-a2c7-c215cf9d3fe3</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4ba1a34e-3dd8-49aa-8542-4b6190ebb6f8</record_id>
+            <name_string>Riben zhengfu 日本政府</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4b53e62c-0621-4e66-80ad-96fa85bb03c6</record_id>
+            <name_string>普魯士軍政局 Preussisches Militäramt (zw)</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4a65e56e-f7cc-491a-bfc0-dac7267eb31b</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-49a25f9a-b566-42e9-8569-517a7a104c42</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4978b63a-b7ef-4e3f-9d4f-98210a3dab9a</record_id>
+            <name_string>Shijie cuimianshu yanjiu hui 世界催眠術研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-49496ce8-8e32-4c41-88a0-5cf8aa3c2e82</record_id>
+            <name_string>Canmou benbu 參謀本部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-49356e44-9055-4db8-a1b0-825fdeb73d92</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-49055034-8048-4a0f-9a2f-57175dc21232</record_id>
+            <name_string>Beijing tushuguan 北京圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-48dee063-c1c4-478d-a88b-a25febe0a8eb</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-48aeee54-5a44-484c-90ef-900424360ae5</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4858feaa-5c7e-4d22-bb88-5477b1ca6868</record_id>
+            <name_string>Shaonian Zhongguo xuehui 少年中國學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-47814784-decd-487d-97ce-5085f638d7be</record_id>
+            <name_string>Zijing shushi 資敬書室</name_string>
+        </item>
+        <item>
+            <record_id>uuid-462ea6a6-49dd-47ac-a18a-5b48c8ca8bcb</record_id>
+            <name_string>Beijing tushuguan putong gujizu 北京圖書館普通古籍組</name_string>
+        </item>
+        <item>
+            <record_id>uuid-453b1aca-c3c3-4cdb-b4dd-244855a37a92</record_id>
+            <name_string>Zhonghua jiaoyu wenhua jijin dongshihui bianji weiyuanhui
+                中華教育文化基金董事會編輯委員會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-45278d8a-16cc-40ce-965d-5be405ca0176</record_id>
+            <name_string>Zhongguo kexueyuan bianyi chuban weiyuanhui mingcishi
+                中國科學院編譯出版委員會名詞室</name_string>
+        </item>
+        <item>
+            <record_id>uuid-ef38c3fb-4b8c-4828-90c8-a791b279dbfc</record_id>
+            <name_string>Dongjing gaodeng shifan xuexiao 東京高等師範學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4447955e-452f-4ce0-974d-d125909aeff3</record_id>
+            <name_string>Riben shifan xuexiao 日本師範學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-43c8c122-e930-447c-9c2b-aeeb797ec0d1</record_id>
+            <name_string>Zhongguo jiaoyuhui 中國教育會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-43a32e72-a27a-4959-ba88-e32d3a27c4b4</record_id>
+            <name_string>Suanxue yanjiuhui 算學研究會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-42c496b6-abee-4d46-ba6a-5cb2867219fe</record_id>
+            <name_string>Xunlian zongjianbu junxue bianyichu 訓練總監部 軍學編譯處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-426cf466-30f2-423c-bb70-f421eb2d0f7e</record_id>
+            <name_string>Tongzhou canxueguan 通洲蠶學館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-4264e402-5c89-4de1-85a9-507b4b151bd4</record_id>
+            <name_string>Zhonghua shuju (Beijing) 中華書局(北京)</name_string>
+        </item>
+        <item>
+            <record_id>uuid-415c6b50-22c8-4772-800d-1b91be6a7566</record_id>
+            <name_string>Ying Wubei gongchengke unbek</name_string>
+        </item>
+        <item>
+            <record_id>uuid-408e9a2c-f669-43b3-ac8c-254646f8a331</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-40846f24-fe9a-419d-b048-b4aeb5a3c4e5</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3fa400b2-52a0-43c3-81b8-7c864eecc66a</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3ebdd6f6-6358-4432-a001-3f4015b14b8f</record_id>
+            <name_string>Waiwusheng 外務省</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3e37a09c-6baf-44ac-b072-728bdef72af0</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3e20b17c-5565-4b1c-9b75-113dc859356d</record_id>
+            <name_string>Riben zhengfu 日本政府</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3dfa227a-3142-4a5e-8ab7-56aaa95bab89</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3d8d391c-6c34-4d81-a73d-3b8244d74bd1</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3d7c3734-ffde-4db8-a7d5-6409fa231730</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3d4c21fe-c9d1-48ba-a93f-b3f2fce55ecf</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3d4b331e-5d41-4567-8964-c02d80cfcff1</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3d117a9c-6271-4e5d-b348-9b2c3c2c158c</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3ca559bc-ec30-4cf4-99a7-7a1ee4f6d218</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3c35e06a-2e32-47df-8519-0e2e5434b0d2</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3a6cd812-1afa-41e7-926b-5382bad68798</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-39e9063a-2ff2-43dd-b6ec-7745c41c36d2</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-38d2ca0c-59f7-46a5-aa1a-572c2abd0521</record_id>
+            <name_string>Riben shifan xuexiao 日本師範學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-38c90148-7c67-4c17-815e-5c32d44fda55</record_id>
+            <name_string>National Bureau of Compilation and Translation</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3851d93a-75a6-4728-8bf7-522a08083164</record_id>
+            <name_string>Shanghai zhongxi yishu hui 上海中西譯書會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-36a8d6ae-ddc0-407d-8095-f524788ac2e1</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-369e64c6-ff71-41b1-893f-479fc7874be2</record_id>
+            <name_string>Zhongyang hangkong xuexiao jiaoyuchu 中央航空學校教育處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-35b75156-1c54-4622-90b4-5ef195df098d</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-359c6482-bd6e-4728-9058-963a6f8dc2fd</record_id>
+            <name_string>Riben shifan xuexiao 日本師範學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-352d65d8-d0f6-4caa-99a1-d317c786e63e</record_id>
+            <name_string>Shanghai kexue shuju bianjisuo 上海科學書局編輯所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-34c2cef6-d4c3-4e68-90be-e2b9c241e16f</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-33f8b3b0-a682-4fae-8912-ad56f9bf6709</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-33b214a4-f5e0-4ae7-91ab-24b2a8f55be0</record_id>
+            <name_string>Guoli bianyiguan 國立編譯館 National bureau for translation</name_string>
+        </item>
+        <item>
+            <record_id>uuid-336720a4-835c-4671-997c-b4480abb4b1f</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3331ed5c-ab71-48b5-8a80-a7fef330e5e2</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-33270eb4-6124-45fe-aae8-c3146dad5894</record_id>
+            <name_string>Xunlian zongjianbu junxue bianyichu 訓練總監部軍學編譯處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-318a0588-1d51-4901-9c48-14b623ed2e13</record_id>
+            <name_string>Xinshijishe 新世紀社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-315771a0-2565-4682-9a47-451c385ae4e6</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3152e010-8ba6-47a2-bfb0-598b663db7be</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-3142f7a2-f368-4616-a373-869ef6580d44</record_id>
+            <name_string>Fanyi tongxun bianjibu 翻譯通訊編輯部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-311f9cda-c51b-4d24-b895-8713eb0733f4</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-30cb05ba-0093-4be9-8a54-672460db7a1d</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-30c1e034-c421-4f94-b9c5-fe28f54cc045</record_id>
+            <name_string>Taiyang zazhishe 太陽雜誌社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-308497ca-5152-4df7-8055-132141e59367</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-301ff61e-f793-4fe4-815c-c866f9809a37</record_id>
+            <name_string>Haijun jiguan xuexiao 海軍機關學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2fb50472-a976-4a55-a655-3e9df132a1cd</record_id>
+            <name_string>Dongjing riri xinwenshe 東京日日新聞社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2e7d3fce-0cbc-4a69-9dae-cd16356a795a</record_id>
+            <name_string>Jiangxue she 講學社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2e14f400-dfda-46b5-8521-73625d71f561</record_id>
+            <name_string>Kexue mingci shenchahui 科學名詞審查會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2df6b802-df70-4340-9d03-ec05d8de3474</record_id>
+            <name_string>Chunming chubanshe 春明出版社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2d71ba38-1a84-43a8-8b8a-8aa91bd89a91</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-2c913892-35a1-4ab2-b9ff-0e05540376f5</record_id>
+            <name_string>Beijing tushuguan 北京圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2c85466e-9305-4b9c-8ec6-88c2e135037b</record_id>
+            <name_string>Fazheng daxue 法政大學</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2c80c66a-d3c7-4120-b5e1-254b3d184681</record_id>
+            <name_string>Zhengze yingyu xuexiao 正則英語學校</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2c007d78-9422-4244-8970-067e333cc03a</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2b57be60-c41c-46e2-87af-823545e45d41</record_id>
+            <name_string>Shanghai shehui kexueyuan lishi yanjiusuo 上海社會科學院歷史研究所</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2b169a60-c942-474b-b588-ae25e550473a</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-29f3030a-9644-4967-b13c-5b51be823564</record_id>
+            <name_string>Xinshijishe 新世紀社</name_string>
+        </item>
+        <item>
+            <record_id>uuid-29bfc082-c35d-4838-8f2e-f44200112cda</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-295584f6-99a4-44ff-b8f7-f6f5b91d8e80</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2941ac2a-92bc-4127-815f-0a1f02100344</record_id>
+            <name_string>Chūgoku gogaku kenkyūkai 中国語学研究会</name_string>
+        </item>
+        <item>
+            <record_id>uuid-28f897d2-8a33-407a-8f56-4a0700e05622</record_id>
+            <name_string>Meiguo niujin tushu gongsi 美國牛津圖書公司</name_string>
+        </item>
+        <item>
+            <record_id>uuid-27d5b8cc-47fa-4184-8061-47a2a6c67137</record_id>
+            <name_string/>
+        </item>
+        <item>
+            <record_id>uuid-27d5b8cc-47fa-4184-8061-47a2a6c67137</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-27aacec6-7667-4712-a43c-304e174a8ab8</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-27aacec6-7667-4712-a43c-304e174a8ab8</record_id>
+            <name_string>Riben zhengfu 日本政府</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2689beb2-9f0b-47a1-a8d4-b35ac3098787</record_id>
+            <name_string>Zaodaotian daxue hanwen jiangyilu bianjibu 早稻田大學漢文講義錄編輯部</name_string>
+        </item>
+        <item>
+            <record_id>uuid-267d82da-2e5f-435a-9a7b-08d2dbaea596</record_id>
+            <name_string>Guoli bianyiguan 國立編譯館 National bureau for translation</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2657053c-cb48-407a-92e6-0e72f898a47c</record_id>
+            <name_string>Xunlian zongjianbu junxue bianyichu 訓練總監部 軍學編譯處</name_string>
+        </item>
+        <item>
+            <record_id>uuid-25e3721c-4a69-4992-ac14-22e186187589</record_id>
+            <name_string>Zhonghua biantai xinlixuehui 中華變態心理學會</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2513f664-ea0f-48ec-865f-4d90bce22bb6</record_id>
+            <name_string>deng 等 et al.</name_string>
+        </item>
+        <item>
+            <record_id>uuid-24860ae4-1a30-4d7c-a5d4-e2743889bf09</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+        <item>
+            <record_id>uuid-247d8be0-e403-41cc-8405-bacba757d21b</record_id>
+            <name_string>Dongya tushuguan 東亞圖書館</name_string>
+        </item>
+        <item>
+            <record_id>uuid-2479c50e-3fac-4787-8ea5-9115ff9cb561</record_id>
+            <name_string>Yizhi shuhui 益智書會 Educational Association of China</name_string>
+        </item>
+    </list>
+</report>
