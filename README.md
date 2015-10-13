@@ -10,7 +10,6 @@ related databases linked to the bibliography, which will be prepared for online 
 will make the transmission of knowledge transparent and accessible by providing comprehensive information on the media, institutions, people, texts, terms, sites and images
 involved in diverse instances of distribution, adaptation and appropriation of knowledge from Euro-America and Japan in late Qing and early Republican China.
 
-### Building with maven
-N. B.  Maven 3.1.1+ is needed.
-  
-* Use "clean package".
+### Building with ant
+MCST is now a stand alone app package for eXist-db 2.2.
+Simply call ant in the wsc directory to create a .xar package for installations via package manager. 

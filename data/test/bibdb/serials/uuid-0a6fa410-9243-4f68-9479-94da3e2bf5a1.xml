@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0a6fa410-9243-4f68-9479-94da3e2bf5a1">
+    <titleInfo lang="eng">
+        <title>Comparative Criticism</title>
+    </titleInfo>
+    <language>
+        <languageTerm type="text">eng</languageTerm>
+    </language>
+    <originInfo lang="eng">
+        <place>
+            <placeTerm type="text"/>
+        </place>
+        <publisher lang="eng"/>
+        <dateIssued point="start">?</dateIssued>
+        <dateIssued point="end">?</dateIssued>
+    </originInfo>
+    <recordInfo>
+        <recordOrigin>exported from WSC FileMaker database, SerieDB LfdNr Z525, last updated on 2011-10-19</recordOrigin>
+    </recordInfo>
+    <identifier type="wsc">Z525</identifier>
+</mods>

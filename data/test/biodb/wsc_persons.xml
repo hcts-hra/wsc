@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="en">
+        <fileDesc>
+            <titleStmt>
+                <title>WSC person data in TEI</title>
+                <principal>Joachim Kurtz</principal>
+                <respStmt>
+                    <resp>xml modeling</resp>
+                    <persName>Jens Østergaard Petersen</persName>
+                    <persName>Kaja Müller-Wang</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI markup</resp>
+                    <persName>Duncan Paterson</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>data proofing</resp>
+                    <persName>Hong Liang</persName>
+                    <persName>Lee Kyonghee</persName>
+                    <persName>Qiu Zhiqiong</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Cluster of Excellence Asia and Europe in a Global Context</distributor>
+                <availability>
+                    <p>Yet unpublished data</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Export of person data from Filemaker database, Mar 03 2015</p>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="uuid" matchPattern="(.*)" replacementPattern="(../../bibdb/uuid-$1.xml)">
+                    <p> In the context of this project, private URIs with the prefix "uuid:" point to MODS records located in the 'bibdb' collection
+                    </p>
+                </prefixDef>
+            </listPrefixDef>
+            <projectDesc>
+                <p>This file is part of the online database HRA 5 "Modern Chinese Scientific Terminolgies / Wissenschaftsprache Chinesisch (WSC)" hosted by the Heidelberg Research Architecture (HRA)</p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="zh-Hant">Chinese traditional characters</language>
+                <language ident="zh-Latn-alalc97">pinyin transliteration of Chinese characters without tonal diacrits</language>
+                <language ident="ja-Jpan">Japanese written in Han + Hiragana + Katakana</language>
+                <language ident="ja-Latn-alalc97">romanized Japanese</language>
+                <language ident="mnc-Hant">Manchu written in Chinese traditional characters</language>
+                <language ident="mnc-Latn-alalc97">romanized Manchu written in Han</language>
+                <language ident="ko-Latn-alalc97">romanized Korean</language>
+                <language ident="de">German</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-09-25" who="DP">improved improved export</change>
+            <change when="2015-08-10" who="KMW">improved export scripts</change>
+            <change when="2015-06-28" who="DP">version 1.0</change>
+            <change when="2015-04-01" who="DP">corrections of note fields based on proofs</change>
+            <change when="2015-03-11" who="DP">added NER to note elements</change>
+            <change when="2015-03-09" who="DP">activated links</change>
+            <change when="2015-03-04" who="DP">trimmed empty elements</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="uuid-98df54df-9421-403f-8c33-497cf2ab8f1f" ana="historical">
+                    <persName type="unspecified" n="Bio2">
+                        <persName xml:lang="zh-Hant">奧斯彭</persName>
+                        <persName xml:lang="zh-Latn-alalc97">Aosipeng</persName>
+                    </persName>
+                    <sex value="0">n</sex>
+                    <note type="placeOfOrigin">
+                        <placeName>USA</placeName>
+                    </note>
+                    <note>
+                        <p>maybe <persName>Henry Fairfield Osborn</persName>,
+                            <date>1857-1935</date>, scientist (natural sciences, biology/zoology,
+                            vertebrate paleontology, pure sciences)</p>
+                        <p>professor at <orgName>Princeton University</orgName>, <orgName>Columbia University</orgName>, <orgName>American Museum of
+                     Natural History</orgName> (AMNH), see
+                     <ref target="http://people.wku.edu/charles.smith/chronob/OSBO1857.htm"/>
+                        </p>
+                        <p>biblio of Osborn: <ref target="http://www.archive.org/stream/cu31924029640426"/>; secondary
+                     literature Sterling, Biographical dictionary of American and Canadian
+                     naturalists and environmentalists, p. 592-596</p>
+                    </note>
+                    <listBibl type="referenceWorks">
+                        <bibl>
+                            <ref target="uuid:18e35dd4-ee2f-494d-8374-dc5bb42fcc03"/>
+                            <biblScope unit="pp">12344</biblScope>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:61c33a02-d762-4807-8187-e3ef4f7ad040"/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl type="participatedWorks">
+                        <bibl>
+                            <ref target="uuid:61c33a02-d762-4807-8187-e3ef4f7ad040"/>
+                            <author>
+                                <ref target="#uuid-98df54df-9421-403f-8c33-497cf2ab8f1f"/>
+                            </author>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:646fecd8-d40e-4a93-b8cf-030da3662144"/>
+                            <author>
+                                <ref target="#uuid-98df54df-9421-403f-8c33-497cf2ab8f1f"/>
+                            </author>
+                            <editor role="translator">
+                                <ref target="#uuid-21f7d442-33e7-4359-801c-132a52fbf1fd"/>
+                            </editor>
+                            <editor role="translator">
+                                <ref target="#uuid-4a6dcd54-25b5-4827-a4d1-3cef09e18699"/>
+                            </editor>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="uuid-8434c013-16f9-47b7-b930-27af0996d1ed" ana="historical">
+                    <persName type="unspecified" n="Bio3">
+                        <persName xml:lang="zh-Hant">勒羅阿</persName>
+                        <persName xml:lang="zh-Latn-alalc97">Leluo'a</persName>
+                    </persName>
+                    <sex value="0">n</sex>
+                    <listBibl type="participatedWorks">
+                        <bibl>
+                            <ref target="uuid:b19b6ced-c415-4d58-8e07-3de8af58b65c"/>
+                            <author>
+                                <ref target="#uuid-8434c013-16f9-47b7-b930-27af0996d1ed"/>
+                            </author>
+                            <editor role="translator">
+                                <ref target="#uuid-428fb348-2cbf-4945-ab01-aff603d8c88e"/>
+                            </editor>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="uuid-7fa0851c-f686-4db2-87db-2d6bea724217" ana="historical">
+                    <persName type="unspecified" n="Bio5">
+                        <persName xml:lang="zh-Hant">奧斯敦<surname>奧斯敦</surname>
+                        </persName>
+                        <persName xml:lang="zh-Latn-alalc97">Aosidun<surname>Aosidun</surname>
+                        </persName>
+                        <persName xml:lang="en">Austen<surname>Austen</surname>
+                        </persName>
+                    </persName>
+                    <sex value="0">n</sex>
+                    <listBibl type="participatedWorks">
+                        <bibl>
+                            <ref target="uuid:8ff26fd5-9b9e-49ac-a716-8e79325a56db"/>
+                            <author>
+                                <ref target="#uuid-7fa0851c-f686-4db2-87db-2d6bea724217"/>
+                            </author>
+                            <editor role="translator">
+                                <ref target="#uuid-21f7d442-33e7-4359-801c-132a52fbf1fd"/>
+                            </editor>
+                            <editor role="translator">
+                                <ref target="#uuid-d507e3a9-ff2d-40b9-85d1-c407d9764adc"/>
+                            </editor>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="uuid-73f3a6da-2860-4892-8ce9-0fb878bf1591" ana="historical">
+                    <persName type="Original_name" n="Bio6">
+                        <persName xml:lang="zh-Hant">蔡綬綵<surname>蔡</surname>
+                            <forename>綬綵</forename>
+                        </persName>
+                        <persName xml:lang="zh-Latn-alalc97">Cai Shoucai<surname>Cai</surname>
+                            <forename>Shoucai</forename>
+                        </persName>
+                    </persName>
+                    <sex value="1">m</sex>
+                    <socecStatus>
+                        <state>
+                            <label>1 title</label>
+                        </state>
+                        <state>
+                            <label>scientist (astronomy)</label>
+                        </state>
+                    </socecStatus>
+                    <listBibl type="participatedWorks">
+                        <bibl>
+                            <ref target="uuid:5b4cde0c-326e-4268-b8fd-2c58e95de53e"/>
+                            <author>
+                                <ref target="#uuid-73f3a6da-2860-4892-8ce9-0fb878bf1591"/>
+                            </author>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689" ana="historical">
+                    <persName type="Original_name" n="Bio7">
+                        <persName xml:lang="zh-Hant">蔡元培<surname>蔡</surname>
+                            <forename>元培</forename>
+                        </persName>
+                        <persName xml:lang="zh-Latn-alalc97">Cai Yuanpei<surname>Cai</surname>
+                            <forename>Yuanpei</forename>
+                        </persName>
+                    </persName>
+                    <persName type="alias" subtype="Alternative_transcription" n="Bio4690">
+                        <persName xml:lang="zh-Hant">蔡鶴廎<surname>蔡</surname>
+                            <forename>鶴廎</forename>
+                        </persName>
+                        <persName xml:lang="zh-Latn-alalc97">Cai Heqing<surname>Cai</surname>
+                            <forename>Heqing</forename>
+                        </persName>
+                    </persName>
+                    <persName type="unspecified" n="Bio3065">
+                        <persName xml:lang="zh-Hant">蔡孑民<surname>蔡</surname>
+                            <forename>孑民</forename>
+                        </persName>
+                        <persName xml:lang="zh-Latn-alalc97">Cai Jiemin<surname>Cai</surname>
+                            <forename>Jiemin</forename>
+                        </persName>
+                    </persName>
+                    <persName type="alias" subtype="Bieming" n="Bio1104">
+                        <persName xml:lang="zh-Hant">蔡振<surname>蔡</surname>
+                            <forename>振</forename>
+                        </persName>
+                        <persName xml:lang="zh-Latn-alalc97">Cai Zhen<surname>Cai</surname>
+                            <forename>Zhen</forename>
+                        </persName>
+                    </persName>
+                    <sex value="1">m</sex>
+                    <birth>
+                        <date>1867/8</date>
+                    </birth>
+                    <death>
+                        <date>1940</date>
+                    </death>
+                    <socecStatus>
+                        <state>
+                            <label>jinshi</label>
+                        </state>
+                        <state>
+                            <label>official</label>
+                        </state>
+                        <state>
+                            <label>educator, journalist, politics</label>
+                        </state>
+                        <state>
+                            <label>14 titles</label>
+                        </state>
+                        <state>
+                            <label>scientist (philosophy), translator</label>
+                        </state>
+                        <state>
+                            <label>Germany, France abroad</label>
+                        </state>
+                    </socecStatus>
+                    <listBibl type="referenceWorks">
+                        <bibl>
+                            <ref target="uuid:18e35dd4-ee2f-494d-8374-dc5bb42fcc03"/>
+                            <note>in <orgName>Hanlin academy</orgName>, after failure of <date>1898</date> back to <placeName>Shaoxing</placeName>, director of
+                                <orgName>Zhongxi xuetang</orgName>, <date>1901</date> to <orgName>SH</orgName>, <orgName>Nanyang xuetang</orgName>. <date>1905</date> TMH. Study in <placeName>Germany</placeName> and
+                        <placeName>France</placeName>
+                                <orgName>Zhongguo jiaoyu hui</orgName> with <persName>Zhang Taiyan</persName>. <orgName>Guoxueshe</orgName>. Cofounder of Eshi
+                        jingwen. </note>
+                            <biblScope unit="pp">929</biblScope>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:fd89b427-b9d1-4b15-961b-fd35fb62ff70"/>
+                            <biblScope unit="pp">441</biblScope>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:c6bd6f91-d47b-4aa1-a1a1-5533a86bf3f1"/>
+                            <biblScope unit="pp">697</biblScope>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:c5a1fdd3-1b6b-4ff3-8156-16dbb119f9d4"/>
+                            <note>vol <date>1, 1983</date>
+                            </note>
+                            <biblScope unit="pp">572</biblScope>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:71e5c212-4774-47c3-b999-e2e05b18153c"/>
+                            <note>from <placeName>Shaoxing</placeName>, <placeName>Zhejiang province</placeName>; the last of the <orgName>Hanlin</orgName> scholars;
+                        leading liberal educator of early republican <placeName>China</placeName> who brought great
+                        influence on the Chinese education system during the early <date>20th century</date> and
+                        was an important synthesizer of Chinese and Western intellectual patterns;
+                        served as minister of education <date>(1912-1913)</date> after the overthrow of the Qing
+                        dynasty; chancellor of <orgName>Beijing University</orgName>
+                                <date>(1916-1926)</date>; founder and president
+                        of the <orgName>Academia Sinica</orgName>. </note>
+                            <biblScope unit="pp">III: 295b-
+                            299b</biblScope>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:d40a4c41-9270-49fd-bc63-2514a41f4cdc"/>
+                            <biblScope unit="pp">714</biblScope>
+                        </bibl>
+                    </listBibl>
+                    <listBibl type="participatedWorks">
+                        <bibl>
+                            <ref target="uuid:71e5c212-4774-47c3-b999-e2e05b18153c"/>
+                            <author>
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </author>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:937edc95-824e-4770-9d89-eccf0502be69"/>
+                            <author>
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </author>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:cdeed343-82d3-4514-a89a-8eb23e9c9124"/>
+                            <author>
+                                <ref target="#uuid-937896db-4363-48e8-b41a-55f8094d08cf"/>
+                            </author>
+                            <editor role="translator">
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </editor>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:9d142661-3cdf-4f32-a61f-c87a208cd623"/>
+                            <author>
+                                <ref target="#uuid-e01dfc3b-6f0c-4901-8ba2-06988127c0f1"/>
+                            </author>
+                            <editor role="translator">
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </editor>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:bb154a17-ae68-40cd-a7f9-a54c62d7449c"/>
+                            <author>
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </author>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:3d32d616-d233-449d-8865-6e6af83c5a19"/>
+                            <author>
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </author>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:9751a85f-7cce-43d1-bba3-ed6d6eb85a9a"/>
+                            <author>
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </author>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:54513444-e7cf-4d72-a0f6-7c723409768c"/>
+                            <author>
+                                <ref target="#uuid-e88fc369-a460-4b87-99be-1e4540d7689d"/>
+                            </author>
+                            <editor role="translator">
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </editor>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:fe22740f-01fb-4926-b0f4-618f09dd3503"/>
+                            <author>
+                                <ref target="#uuid-e88fc369-a460-4b87-99be-1e4540d7689d"/>
+                            </author>
+                            <editor role="translator">
+                                <ref target="#uuid-471e0372-55d9-4a5e-bda4-8e61ade35da5"/>
+                            </editor>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:82514441-236d-4e6b-8587-9acbc19851c1"/>
+                            <author>
+                                <ref target="#uuid-937896db-4363-48e8-b41a-55f8094d08cf"/>
+                            </author>
+                            <editor role="translator">
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </editor>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:6e903e08-bc17-4a70-bfb0-d2c5258c475e"/>
+                            <author>
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </author>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:2de3a91a-f3c5-4820-bfaf-5db741b64840"/>
+                            <author>
+                                <ref target="#uuid-937896db-4363-48e8-b41a-55f8094d08cf"/>
+                            </author>
+                            <editor role="translator">
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </editor>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:ddd050cd-bc4a-43f1-a1e6-18e060124749"/>
+                            <author>
+                                <ref target="#uuid-e01dfc3b-6f0c-4901-8ba2-06988127c0f1"/>
+                            </author>
+                            <editor role="translator">
+                                <ref target="#uuid-30c3ae6a-8150-4d8a-9dfe-e303a730195a"/>
+                            </editor>
+                            <editor role="translator">
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </editor>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:7e8ca85c-0bba-4e65-ae53-064741576787"/>
+                            <author>
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </author>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:bfa19cef-b236-4226-8986-a4cbb5210c9d"/>
+                            <author>
+                                <ref target="#uuid-471e0372-55d9-4a5e-bda4-8e61ade35da5"/>
+                            </author>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:fe5cf665-34af-4cae-bb16-03efc4dba392"/>
+                            <author>
+                                <ref target="#uuid-471e0372-55d9-4a5e-bda4-8e61ade35da5"/>
+                            </author>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:37e260e6-33bd-4946-84d7-f05e8a055ddf"/>
+                            <author>
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </author>
+                            <editor>
+                                <ref target="#uuid-6e37b2ae-6e94-41a2-8907-8f2e74a71494"/>
+                            </editor>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:7ecfc9e8-e89e-4ecd-b19f-da706b8080a4"/>
+                            <author>
+                                <ref target="#uuid-a96aecb7-b295-41ee-8a82-51d997752380"/>
+                            </author>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:7724bcd4-5217-482f-a7cd-5d52561cab56"/>
+                            <author>
+                                <ref target="#uuid-a96aecb7-b295-41ee-8a82-51d997752380"/>
+                            </author>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:5b7ed93c-5f7b-4491-b561-bb031ffaf344"/>
+                            <author>
+                                <ref target="#uuid-a96aecb7-b295-41ee-8a82-51d997752380"/>
+                            </author>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:4aeb292e-e9fc-48eb-af94-0e2c369336ca"/>
+                            <author>
+                                <ref target="#uuid-e01dfc3b-6f0c-4901-8ba2-06988127c0f1"/>
+                            </author>
+                            <editor role="translator">
+                                <ref target="#uuid-30c3ae6a-8150-4d8a-9dfe-e303a730195a"/>
+                            </editor>
+                            <editor role="translator">
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </editor>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:0275d496-6928-4067-91e9-5724a264ac1c"/>
+                            <author>
+                                <ref target="#uuid-937896db-4363-48e8-b41a-55f8094d08cf"/>
+                            </author>
+                            <editor role="translator">
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </editor>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:9b69abdd-0544-4a46-a9b7-f4a11e8aa2bb"/>
+                            <author>
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </author>
+                            <author>
+                                <ref target="#uuid-cbb10c07-2b1c-4a03-800b-4879082a8c86"/>
+                            </author>
+                            <author>
+                                <ref target="#uuid-1c0ecacc-528c-4856-8e0f-a6e58c63c1bd"/>
+                            </author>
+                            <author>
+                                <ref target="#uuid-851f8c43-bf21-4201-8799-c0bf804e7fca"/>
+                            </author>
+                            <author>
+                                <ref target="#uuid-b45fd587-9729-425c-a802-28517f1a4073"/>
+                            </author>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:d828c787-c571-4409-a9b3-568e74358d17"/>
+                            <author>
+                                <ref target="#uuid-3ff4ff2e-a91b-4ffe-a03e-06c0fcaed689"/>
+                            </author>
+                            <author>
+                                <ref target="#uuid-cbb10c07-2b1c-4a03-800b-4879082a8c86"/>
+                            </author>
+                            <author>
+                                <ref target="#uuid-1c0ecacc-528c-4856-8e0f-a6e58c63c1bd"/>
+                            </author>
+                            <author>
+                                <ref target="#uuid-851f8c43-bf21-4201-8799-c0bf804e7fca"/>
+                            </author>
+                            <author>
+                                <ref target="#uuid-b45fd587-9729-425c-a802-28517f1a4073"/>
+                            </author>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="uuid-be7d6789-5d1f-4028-bd79-1b2a7db67c64" ana="historical">
+                    <persName type="unspecified" n="Bio8">
+                        <persName xml:lang="zh-Hant">曹念明<surname>曹</surname>
+                            <forename>念明</forename>
+                        </persName>
+                        <persName xml:lang="zh-Latn-alalc97">Cao Nianming<surname>Cao</surname>
+                            <forename>Nianming</forename>
+                        </persName>
+                    </persName>
+                    <sex value="0">n</sex>
+                    <note>
+                        <p>secondary source</p>
+                    </note>
+                    <listBibl type="participatedWorks">
+                        <bibl>
+                            <ref target="uuid:a8bdafdf-43b5-4ad6-9db7-032a112f9c4b"/>
+                            <author>
+                                <ref target="#uuid-be7d6789-5d1f-4028-bd79-1b2a7db67c64"/>
+                            </author>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:a6fc3763-759a-4b2b-8f89-e4880ca452c4"/>
+                            <author>
+                                <ref target="#uuid-be7d6789-5d1f-4028-bd79-1b2a7db67c64"/>
+                            </author>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="uuid-491e2ffe-a8ac-4966-9f56-8f52799f9741" ana="historical">
+                    <persName type="unspecified" n="Bio9">
+                        <persName xml:lang="zh-Hant">曹先擢<surname>曹</surname>
+                            <forename>先擢</forename>
+                        </persName>
+                        <persName xml:lang="zh-Latn-alalc97">Cao Xianzhuo<surname>Cao</surname>
+                            <forename>Xianzhuo</forename>
+                        </persName>
+                    </persName>
+                    <sex value="1">m</sex>
+                    <birth>
+                        <date>1932</date>
+                    </birth>
+                    <death>
+                        <date>?</date>
+                    </death>
+                    <note>
+                        <p>secondary source</p>
+                        <p>
+                            <ref target="http://baike.baidu.com/view/2721485.htm"/>
+                        </p>
+                    </note>
+                    <listBibl type="participatedWorks">
+                        <bibl>
+                            <ref target="uuid:d20d2b99-983b-4813-a4e2-a1671554ecb5"/>
+                            <author>
+                                <ref target="#uuid-491e2ffe-a8ac-4966-9f56-8f52799f9741"/>
+                            </author>
+                            <author>
+                                <ref target="#uuid-4a4ac806-e0c9-4cb4-9ae3-4db173a22eab"/>
+                            </author>
+                        </bibl>
+                        <bibl>
+                            <ref target="uuid:42d55ce7-1384-4c09-a4b2-75b6945689f8"/>
+                            <author>
+                                <ref target="#uuid-491e2ffe-a8ac-4966-9f56-8f52799f9741"/>
+                            </author>
+                            <author>
+                                <ref target="#uuid-4a4ac806-e0c9-4cb4-9ae3-4db173a22eab"/>
+                            </author>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="uuid-811830bf-5d0a-4e2b-ace4-5896f0a29e04" ana="historical">
+                    <persName type="unspecified" n="Bio10">
+                        <persName xml:lang="zh-Hant">持平<surname>持</surname>
+                            <forename>平</forename>
+                        </persName>
+                        <persName xml:lang="zh-Latn-alalc97">Chi Ping<surname>Chi</surname>
+                            <forename>Ping</forename>
+                        </persName>
+                    </persName>
+                    <sex value="0">n</sex>
+                    <note>
+                        <p>secondary source</p>
+                    </note>
+                    <listBibl type="participatedWorks">
+                        <bibl>
+                            <ref target="uuid:48763964-53c2-4eb0-962c-ff33ebe8255c"/>
+                            <author>
+                                <ref target="#uuid-811830bf-5d0a-4e2b-ace4-5896f0a29e04"/>
+                            </author>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="uuid-67ff674a-5e1a-41ec-8bd2-34f9447b802a" ana="historical">
+                    <persName type="unspecified" n="Bio12">
+                        <persName xml:lang="zh-Hant">哈來</persName>
+                        <persName xml:lang="zh-Latn-alalc97">Halai</persName>
+                        <persName xml:lang="en">Harley, J.<surname>Harley</surname>
+                            <forename>J.</forename>
+                        </persName>
+                    </persName>
+                    <sex value="0">n</sex>
+                    <listBibl type="participatedWorks">
+                        <bibl>
+                            <ref target="uuid:6073392c-df8c-47ea-9cb6-8657c1c88244"/>
+                            <author>
+                                <ref target="#uuid-67ff674a-5e1a-41ec-8bd2-34f9447b802a"/>
+                            </author>
+                            <editor role="translator">
+                                <ref target="#uuid-c118ba53-1823-45c3-b029-85279e06dca7"/>
+                            </editor>
+                            <editor role="translator">
+                                <ref target="#uuid-3038b036-c3d1-4cf9-beba-7dbf25913566"/>
+                            </editor>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="uuid-5ac31078-0463-4d1b-8a12-c1588c1bb542" ana="historical">
+                    <persName type="unspecified" n="Bio13">
+                        <persName xml:lang="zh-Hant">黃漢平<surname>黃</surname>
+                            <forename>漢平</forename>
+                        </persName>
+                        <persName xml:lang="zh-Latn-alalc97">Huang Hanping<surname>Huang</surname>
+                            <forename>Hanping</forename>
+                        </persName>
+                    </persName>
+                    <sex value="0">n</sex>
+                    <note>
+                        <p>secondary source</p>
+                    </note>
+                    <listBibl type="participatedWorks">
+                        <bibl>
+                            <ref target="uuid:e170d98b-3ae2-4dcd-8d12-4a08466468ae"/>
+                            <author>
+                                <ref target="#uuid-5ac31078-0463-4d1b-8a12-c1588c1bb542"/>
+                            </author>
+                        </bibl>
+                    </listBibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -15,7 +15,7 @@ declare variable $bib := collection('/db/resources/commons/WSC/bibdb');
 (:adjust as necessary:)
 declare variable $creator := "Duncan Paterson";
 declare variable $person := $bio/tei:TEI/tei:text/tei:body/tei:listPerson/tei:person;
-declare variable $work := $bio/tei:TEI/tei:text/tei:body/tei:listPerson/tei:person//tei:listBibl[@type='participatedWorks'];
+declare variable $work := $person/tei:listBibl[@type='participatedWorks']/tei:bibl;
 
 (:!!!don't forget to explicitely stop sigma's rendering process on the page where graphs are to be displayed!!!:)
 
@@ -25,7 +25,7 @@ declare function local:bipart($n1 as node()*, $n2 as node()*) as item()* {
     The color scheme is colorblind friendly:)
 
 
-<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.2draft/viz"
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd"
     version="1.2">
@@ -40,26 +40,28 @@ declare function local:bipart($n1 as node()*, $n2 as node()*) as item()* {
             (:grab persons and displays their first recorded name:)
             return 
                 <node id="{data($a/@xml:id)}"
-                    label="{$a/tei:persName/tei:persName[1]/text()}">
+                    label="{$a/tei:persName[1]/tei:persName[1]/text()}">
                     <viz:color r="216" g="179" b="101" a="1.0"/>
                     <viz:shape value="square"/>
                 </node>}
+        
+            {
+            let $titles := for $book in distinct-values($work/tei:ref/@target/string()) 
+                        return <title>{$book}</title>       
+            for $b at $pos in $titles
             
-            { 
-            for $b at $pos in distinct-values($n2//tei:title)
-            (:unfortunatly not all works have an idno element hence the $pos statement substituting for idno:)
-            (:furthermore 
-                count(//listBibl[@type="participatedWorks"]) - count(//listBibl[@type="participatedWorks"]/bibl//title[@xml:lang="zh-Hant"]) 
-            returns 673 items without a chinese title. So lets grab unique works by title:)
+            (:grab the unique values of work uuids :)
+            (:to-do Replace label with title from biodb:)
             return
-                <node id="{element counter {$pos}}" label="{$b/tei:bibl/tei:title/tei:title[2]/text()}">
+                <node id="{element counter {$pos}}" label="{$b/@target/string()}">
                     <viz:color r="90" g="180" b="172" a="1.0"/>
                     <viz:shape value="triangle"/>
-                </node>} 
+                </node>
+            } 
         </nodes>
         <edges> 
             {for $b at $pos in $n2
-            (:there are as many edges as there are works, hence the overlap with the target's node ids shouldn't matter.  The sources UUIDs should be well unique :)
+            (:draw an edge from every work to its person parent item :)
             return 
                 <edge id="{element counter {$pos}}" source="{$b/ancestor::tei:person/@xml:id}" target="{element counter {$pos}}"/>}
         </edges>
@@ -67,9 +69,23 @@ declare function local:bipart($n1 as node()*, $n2 as node()*) as item()* {
 </gexf>
 };
 
+(:<report>:)
+(:    <nodes_total>{count(distinct-values($work/tei:ref/@target/string())) + count($person)}</nodes_total>:)
+(:    <edges_total>{count($work)}</edges_total>:)
+(:    <unique_works>{count(distinct-values($work/tei:ref/@target/string()))}</unique_works>:)
+(:{:)
+(:    let $titles := for $book in distinct-values($work/tei:ref/@target/string()) :)
+(:            return <title>{$book}</title>:)
+(:    for $b at $pos in $titles:)
+(:    return:)
+(:        $b:)
+(:}:)
+(:</report>:)
 
 
-xmldb:store ('/db/apps/WSC/graphs/', 'full_bio2work.gexf', local:bipart($person, $work))
+
+
+xmldb:store ('/db/apps/MCST/data/graphs/', 'biodb_bipart.gexf', local:bipart($person, $work))
 
 (:let $data :=:)
 (::)

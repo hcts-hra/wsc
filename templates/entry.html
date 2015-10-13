@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title data-template="config:app-title">App Title</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <meta data-template="config:app-meta"/>
+        <link rel="shortcut icon" href="$shared/resources/images/exist_icon_16x16.ico"/>
+        <link rel="stylesheet" type="text/css" href="resources/css/exist-2.2.css"/>
+        <link rel="stylesheet" type="text/css" href="resources/css/style.css"/>
+        <script type="text/javascript" src="resources/scripts/jquery/jquery-1.11.3.min.js"/>
+        <script type="text/javascript" src="resources/scripts/bootstrap.min.js"/>
+        <script type="text/javascript" src="$shared/resources/scripts/loadsource.js"/>
+    </head>
+    <body id="grey-top">
+        <div class="grey-bot">
+            <div class="container" id="main-container">
+                <div class="row">
+                    <div class="col-md-12" id="header">
+                        <a href="index.html" title="Home" id="logo">WSC</a>
+                    </div>
+                </div>
+                <div role="navigation" class="navbar navbar-default nav-animate">
+                    <div class="container">
+                        <div class="navbar-header">
+                            <button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle" type="button">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="fa fa-bars"/>
+                            </button>
+                            <a href="index.html" class="navbar-brand">
+                                <img src="resources/images/wsc-icon-white-sm.png" class="logo"/>
+                            </a>
+                        </div>
+                        <div class="navbar-collapse collapse">
+                            <ul class="nav navbar-nav">
+                                <li class="dropdown">
+                                    <a href="about.html" class="dropdown-toggle" data-toggle="dropdown">About
+                                <span class="caret"/>
+                                    </a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li>
+                                            <a href="about.html" data-toggle="collapse" data-target=".navbar-collapse">About us</a>
+                                        </li>
+                                        <li>
+                                            <a href="about.html#public" data-toggle="collapse" data-target=".navbar-collapse">Publications</a>
+                                        </li>
+                                        <li>
+                                            <a href="activities.html">Activities</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav">
+                                    <div class="btn-group" role="group" aria-label="...">
+                                        <button type="button" class="btn btn-default">Left</button>
+                                        <button type="button" class="btn btn-default">Middle</button>
+                                        <button type="button" class="btn btn-default">Right</button>
+                                    </div>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Model
+                                <span class="caret"/>
+                                    </a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li>
+                                            <a href="data-model.html" data-toggle="collapse" data-target=".navbar-collapse">Introduction</a>
+                                        </li>
+                                        <li>
+                                            <a href="data-model.html" data-toggle="collapse" data-target=".navbar-collapse">Data Dictionary</a>
+                                        </li>
+                                        <li>
+                                            <a href="data-model.html" data-toggle="collapse" data-target=".navbar-collapse">Contributing</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <div class="nav navbar-nav navbar-right hidden-sm">
+                                <a href="https://github.com/exc-asia-and-europe/wsc" title="Github" data-toggle="collapse" data-target=".navbar-collapse">
+                                    <img src="resources/images/GitHub-Mark-Light-32px.png"/>
+                                </a>
+                                <a href="https://heidata.uni-heidelberg.de/dvn/" title="heiData" data-toggle="collapse" data-target=".navbar-collapse">
+                                    <img src="resources/images/logo_dataverse.png"/>
+                                </a>
+                                <a href="http://www.asia-europe.uni-heidelberg.de/en/" title="Cluster" data-toggle="collapse" data-target=".navbar-collapse">
+                                    <img src="resources/images/cluster-32px.gif"/>
+                                </a>
+                                <a href="mailto:hra@asia-europe.uni-heidelberg.de" title="Mail" data-toggle="collapse" data-target=".navbar-collapse">
+                                    <button type="button" class="btn btn-default" aria-label="Left Align">
+                                        <span class="glyphicon glyphicon-envelope" aria-hidden="true"/>
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="nav navbar-nav navbar-right hidden-xs hidden-md hidden-lg">
+                    <a href="https://github.com/exc-asia-and-europe/wsc" title="Github" data-toggle="collapse" data-target=".navbar-collapse">
+                        <img src="resources/images/GitHub-Mark-Light-32px.png"/>
+                    </a>
+                    <a href="https://heidata.uni-heidelberg.de/dvn/" title="heiData" data-toggle="collapse" data-target=".navbar-collapse">
+                        <img src="resources/images/logo_dataverse.png"/>
+                    </a>
+                    <a href="http://www.asia-europe.uni-heidelberg.de/en/" title="Cluster" data-toggle="collapse" data-target=".navbar-collapse">
+                        <img src="resources/images/cluster-32px.gif"/>
+                    </a>
+                    <a href="mailto:hra@asia-europe.uni-heidelberg.de" title="Mail" data-toggle="collapse" data-target=".navbar-collapse">
+                        <button type="button" class="btn btn-default" aria-label="Left Align">
+                            <span class="glyphicon glyphicon-envelope" aria-hidden="true"/>
+                        </button>
+                    </a>
+                </div>
+                <div id="bibsearch" class="well">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Search for..."/>
+                                <span class="input-group-btn">
+                                    <button class="btn btn-default" type="button">Go!</button>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="content" class="row"/>
+            </div>
+        </div>
+        <a id="poweredby" href="http://exist-db.org"/>
+        <div id="footer">
+            <div class="container">
+                <ul>
+                    <li>
+                        <a href="http://exist-db.org">eXist-db.org</a>
+                    </li>
+                </ul>
+                <div id="copyright">
+                    <p>Copyright eXist-db Project 2015</p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

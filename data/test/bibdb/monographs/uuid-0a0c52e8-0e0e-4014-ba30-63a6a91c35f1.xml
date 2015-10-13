@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0a0c52e8-0e0e-4014-ba30-63a6a91c35f1">
+    <name type="personal" xlink:href="uuid-41dbaaac-e9b4-4e1d-9f0e-7abea50d827d">
+        <namePart type="given" lang="chi" transliteration="chinese/ala-lc">Gakuji</namePart>
+        <namePart type="family" lang="chi" transliteration="chinese/ala-lc">Kikuchi</namePart>
+        <namePart type="given" lang="chi" script="Hant">學而</namePart>
+        <namePart type="family" lang="chi" script="Hant">菊池</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal" xlink:href="uuid-e01f5251-7365-4d9d-97cd-af561b47eee2">
+        <namePart lang="chi" transliteration="chinese/ala-lc">Fan Diji</namePart>
+        <namePart lang="chi" script="Hant">范迪吉</namePart>
+        <namePart type="date">not known</namePart>
+        <role>
+            <roleTerm type="text">translator</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart lang="chi" transliteration="chinese/ala-lc">deng</namePart>
+        <namePart lang="chi" script="Hant">等</namePart>
+        <namePart>et al.</namePart>
+        <role>
+            <roleTerm type="text">translator</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>議會及政黨論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yihui ji zhengdang lun</title>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>Discussions about the parliament and political parties</title>
+    </titleInfo>
+    <originInfo lang="chi">
+        <place>
+            <placeTerm type="text" script="Hant">上海</placeTerm>
+            <placeTerm type="text" transliteration="chinese/ala-lc">Shanghai</placeTerm>
+        </place>
+        <publisher script="Hant">會文學社</publisher>
+        <publisher transliteration="chinese/ala-lc">Huiwen xueshe</publisher>
+    </originInfo>
+    <genre type="PrimSec">Primary Source</genre>
+    <subject authority="lcsh">
+        <topic>Social sciences</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Political science</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Philosophy</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Political science--Philosophy</topic>
+    </subject>
+    <relatedItem type="host" xlink:href="#uuid-14cbb136-7088-4ffa-b056-f8534c2c250c">
+        <part>
+            <date>1903</date>
+        </part>
+    </relatedItem>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from WSC FileMaker database, BiblioDB LfdNr Bib3564, FileMaker record last updated on 2013-04-26</recordOrigin>
+    </recordInfo>
+    <identifier type="wsc">Bib3564</identifier>
+    <note type="Bibliographical data derived from" xlink:href="#uuid-ba205bcd-a241-4964-9b25-751e2891c868">Record ID: uuid-ba205bcd-a241-4964-9b25-751e2891c868, entitled: Zhongguo yi Riben shu zonghe mulu 中國譯日本書綜合目錄. Notes: §570.310</note>
+    <relatedItem type="isTranslationOf" displayLabel="is translation of" xlink:href="#uuid-d9b6721d-aa49-4514-bd86-fd89861c1bff"/>
+    <typeOfResource>text</typeOfResource>
+</mods>
