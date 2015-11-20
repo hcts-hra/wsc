@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0a0ff23e-e57a-4910-bfbe-dd2a8ad7f05e">
+    <name type="personal" xlink:href="uuid-2003b310-3a09-4275-8948-ef2377c4bc0c">
+        <namePart type="given" lang="chi" transliteration="chinese/ala-lc">Han</namePart>
+        <namePart type="family" lang="chi" transliteration="chinese/ala-lc">Ye</namePart>
+        <namePart type="given" lang="chi" script="Hant">瀚</namePart>
+        <namePart type="family" lang="chi" script="Hant">葉</namePart>
+        <namePart type="date">1861 (1863?)-1933</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>初學讀書要略</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Chuxue dushu yaolüe</title>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>Essentials for the learning of reading</title>
+    </titleInfo>
+    <originInfo lang="chi">
+        <place>
+            <placeTerm type="text"/>
+        </place>
+        <publisher script="Hant">自刻本</publisher>
+        <publisher transliteration="chinese/ala-lc">Zikeben</publisher>
+        <dateIssued>1897</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>1</extent>
+    </physicalDescription>
+    <genre type="PrimSec">Primary Source</genre>
+    <subject authority="lcsh">
+        <topic>Education</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Education</topic>
+    </subject>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from WSC FileMaker database, BiblioDB LfdNr Bib4431, FileMaker record last updated on 2013-04-26</recordOrigin>
+    </recordInfo>
+    <identifier type="wsc">Bib4431</identifier>
+    <typeOfResource>text</typeOfResource>
+    <location>
+        <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib4431.pdf</url>
+    </location>
+</mods>

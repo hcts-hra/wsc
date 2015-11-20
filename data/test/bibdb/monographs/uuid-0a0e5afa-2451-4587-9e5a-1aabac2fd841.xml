@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0a0e5afa-2451-4587-9e5a-1aabac2fd841">
+    <name type="personal" xlink:href="uuid-1a481a30-9871-409d-80ed-9217799163dc">
+        <namePart type="given" lang="chi" transliteration="chinese/ala-lc">Huaxing</namePart>
+        <namePart type="family" lang="chi" transliteration="chinese/ala-lc">Pei</namePart>
+        <namePart type="given" lang="chi" script="Hant">化行</namePart>
+        <namePart type="family" lang="chi" script="Hant">裴</namePart>
+        <namePart type="given">Henri</namePart>
+        <namePart type="family">Bernard-Maître</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="fre">
+        <title>Les adaptations chinoises d'ouvrages européens</title>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>Chinese adaptations of European works</title>
+    </titleInfo>
+    <originInfo lang="fre">
+        <place>
+            <placeTerm type="text"/>
+        </place>
+        <publisher lang="fre"/>
+    </originInfo>
+    <genre type="TextClass">Bibliography</genre>
+    <genre type="PrimSec">Secondary Source</genre>
+    <subject authority="lcsh">
+        <topic>History</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Bibliography</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Missions--History</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Linguistics</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Translating and interpreting</topic>
+    </subject>
+    <relatedItem type="host" xlink:href="#uuid-7e7ac49e-3d80-464b-9340-d0f9650c3d85">
+        <part>
+            <detail type="volume">
+                <number>X</number>
+            </detail>
+            <extent unit="page">
+                <start>1</start>
+                <end>57</end>
+            </extent>
+            <date>1945</date>
+        </part>
+        <part>
+            <detail type="volume">
+                <number>X</number>
+            </detail>
+            <extent unit="page">
+                <start>309</start>
+                <end>387</end>
+            </extent>
+            <date>1945</date>
+        </part>
+    </relatedItem>
+    <location>
+        <physicalLocation type="text">BlnStab</physicalLocation>
+        <holdingSimple>
+            <copyInformation>
+                <shelfLocator>Zsn 8107</shelfLocator>
+            </copyInformation>
+        </holdingSimple>
+    </location>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from WSC FileMaker database, BiblioDB LfdNr Bib489, FileMaker record last updated on 2013-04-26</recordOrigin>
+    </recordInfo>
+    <identifier type="wsc">Bib489</identifier>
+    <typeOfResource>text</typeOfResource>
+</mods>

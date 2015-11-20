@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0a0d48ba-2ddd-43bf-874c-8fabe5a8fa3c">
+    <name type="personal" xlink:href="uuid-bf4fb671-cffa-40fc-b891-1862ea6fa07d">
+        <namePart lang="chi" transliteration="chinese/ala-lc">Situhuo</namePart>
+        <namePart lang="chi" script="Hant">斯土活</namePart>
+        <namePart type="given">Harriet</namePart>
+        <namePart type="family">Beecher-Stowe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal" xlink:href="uuid-efa8c5e5-6bf7-4008-be58-4cdd49f75ef3">
+        <namePart lang="chi" transliteration="chinese/ala-lc">Lin Shu</namePart>
+        <namePart lang="chi" script="Hant">林紓</namePart>
+        <namePart type="date">1852-1924</namePart>
+        <role>
+            <roleTerm type="text">translator</roleTerm>
+        </role>
+    </name>
+    <name type="personal" xlink:href="uuid-eaaab2b3-2029-4fcd-8a5b-0524cfa525f1">
+        <namePart lang="chi" transliteration="chinese/ala-lc">Wei Yi</namePart>
+        <namePart lang="chi" script="Hant">魏易</namePart>
+        <namePart type="date">1880-1930</namePart>
+        <role>
+            <roleTerm type="text">translator</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>黑奴籲天錄　</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Heinu yutianlu</title>
+    </titleInfo>
+    <relatedItem type="original">
+        <titleInfo lang="eng">
+            <title>Uncle Tom’s Cabin</title>
+        </titleInfo>
+    </relatedItem>
+    <originInfo lang="chi">
+        <place>
+            <placeTerm type="text" script="Hant">北京</placeTerm>
+            <placeTerm type="text" transliteration="chinese/ala-lc">Beijing</placeTerm>
+        </place>
+        <publisher script="Hant">商務印書館</publisher>
+        <publisher transliteration="chinese/ala-lc">Shangwu yinshuguan</publisher>
+        <dateIssued>1981</dateIssued>
+    </originInfo>
+    <genre type="PrimSec">Primary Source</genre>
+    <subject authority="lcsh">
+        <topic>Art</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Literature</topic>
+    </subject>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from WSC FileMaker database, BiblioDB LfdNr Bib472, FileMaker record last updated on 2013-04-26</recordOrigin>
+    </recordInfo>
+    <identifier type="wsc">Bib472</identifier>
+    <note>Das Werk erschien 1899 als Holzdruck, im gleichen Jahr auch im Shanghai changyan baoguan; spätere Publikation auch im Yuqing yaoyuanguan, Wenming shuju, Guangzhi shuju und 1981 im Shangwu yinshuguan.</note>
+    <typeOfResource>text</typeOfResource>
+</mods>

@@ -379,12 +379,12 @@ let $att :=
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib2521.pdf</url>
            </location>
         </row>
-        (:<row>
+        <row>
            <id>bib2648</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib2648.pdf</url>
            </location>
-        </row>:)
+        </row>
         <row>
            <id>bib2695</id>
            <location>
@@ -403,12 +403,12 @@ let $att :=
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib2871.pdf</url>
            </location>
         </row>
-        (:<row>
+        <row>
            <id>bib2894</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib2894.pdf</url>
            </location>
-        </row>:)
+        </row>
         <row>
            <id>bib2903</id>
            <location>
@@ -439,12 +439,12 @@ let $att :=
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib3293.pdf</url>
            </location>
         </row>
-       (: <row>
+       <row>
            <id>bib3317</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib3317.pdf</url>
            </location>
-        </row>:)
+        </row>
         <row>
            <id>bib3414</id>
            <location>
@@ -637,7 +637,7 @@ let $att :=
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib6358/</url>
            </location>
         </row>
-        (:<row>
+        <row>
            <id>bib6387</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib6387/</url>
@@ -648,7 +648,7 @@ let $att :=
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib6393/</url>
            </location>
-        </row>:)
+        </row>
         <row>
            <id>bib6394</id>
            <location>
@@ -787,36 +787,36 @@ let $att :=
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib8016.pdf</url>
            </location>
         </row>
-       (: <row>
+       <row>
            <id>bib8038</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib8038/</url>
            </location>
-        </row>:)
+        </row>
         <row>
            <id>bib8125</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib8125.pdf</url>
            </location>
         </row>
-       (: <row>
+       <row>
            <id>bib8126</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib8126.pdf</url>
            </location>
-        </row>:)
+        </row>
         <row>
            <id>bib8196</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib8196.pdf</url>
            </location>
         </row>
-        (:<row>
+        <row>
            <id>bib8260</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib8260.pdf</url>
            </location>
-        </row>:)
+        </row>
         <row>
            <id>bib8349</id>
            <location>
@@ -829,12 +829,12 @@ let $att :=
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib8352.pdf</url>
            </location>
         </row>
-        (:<row>
+        <row>
            <id>bib8362</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib8362.pdf</url>
            </location>
-        </row>:)
+        </row>
         <row>
            <id>bib8364</id>
            <location>
@@ -883,30 +883,30 @@ let $att :=
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib8547.pdf</url>
            </location>
         </row>
-        (:<row>
+        <row>
            <id>bib8743</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib8743.pdf</url>
            </location>
-        </row>:)
-        (:<row>
+        </row>
+        <row>
            <id>bib8753</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib8753.pdf</url>
            </location>
-        </row>:)
+        </row>
         <row>
            <id>bib8754</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib8754/</url>
            </location>
         </row>
-        (:<row>
+        <row>
            <id>bib8758</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib8758.pdf</url>
            </location>
-        </row>:)
+        </row>
         <row>
            <id>bib8827</id>
            <location>
@@ -943,12 +943,12 @@ let $att :=
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib9744.pdf</url>
            </location>
         </row>
-       (: <row>
+       <row>
            <id>bib9745</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib9745.pdf</url>
            </location>
-        </row>:)
+        </row>
         <row>
            <id>bib9748</id>
            <location>
@@ -1539,6 +1539,9 @@ let $att :=
         </row>
         <row>
            <id>bib10407</id>
+           <location>
+              <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib10407.pdf</url>
+           </location>
         </row>
         <row>
            <id>bib10413</id>
@@ -1618,12 +1621,12 @@ let $att :=
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib10521.pdf</url>
            </location>
         </row>
-        (:<row>
+        <row>
            <id>bib10527</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib10527.pdf</url>
            </location>
-        </row>:)
+        </row>
         <row>
            <id>bib10531</id>
            <location>
@@ -1642,17 +1645,17 @@ let $att :=
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib10569.pdf</url>
            </location>
         </row>
-        (:<row>
-           <id>bib10586</id>
-           <location>
-              <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib10586.pdf</url>
-           </location>
-        </row>
         <row>
            <id>bib10628</id>
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib10628.pdf</url>
            </location>
+        </row>
+        <row>
+            <id>bib10709</id>
+            <location>
+                <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib10709.pdf</url>
+            </location>
         </row>
         <row>
            <id>bib10849</id>
@@ -1665,18 +1668,21 @@ let $att :=
            <location>
               <url access="raw object" displayLabel="link">http://kjc-sv013.kjc.uni-heidelberg.de/WSC_pdf/WSC.monographs/bib10884.pdf</url>
            </location>
-        </row>:)
+        </row>
     </root>
 
 
 
 (:There are 3447 records with a location elements and 165 with location/url
- this will add a new <location><url/><location> block to those records where we have pdf attachments 
+ this will add a new <location><url/></location> block to those records where we have pdf attachments 
   this query uses exist-db update syntax:)
   
 (:fun fact: not all WSC mods records have an indentifier, sooooo we'll add it here for those that also need attachments   #48
 rows which are inide comments point to missing FM records # 50:)
+
+(:version1.1  bib10586 doesn't exist, the attachment belongs to bib10709:)
  
+
 
 for $url in $att//id,
     $rec in $bibdb//mods:identifier[@type="wsc"]

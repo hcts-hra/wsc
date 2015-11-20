@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0a7fd48a-199f-4ded-bf5d-ce6406ac8d9b">
+    <name type="personal" xlink:href="uuid-a05a922b-641e-4039-b307-b9504f88657c">
+        <namePart lang="chi" transliteration="chinese/ala-lc">Bin Bucheng</namePart>
+        <namePart lang="chi" script="Hant">賓步程</namePart>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>理工</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ligong</title>
+    </titleInfo>
+    <language>
+        <languageTerm type="text">chi</languageTerm>
+    </language>
+    <originInfo lang="chi">
+        <place>
+            <placeTerm type="text"/>
+        </place>
+        <publisher lang="chi"/>
+        <dateIssued point="start">1907</dateIssued>
+    </originInfo>
+    <recordInfo>
+        <recordOrigin>exported from WSC FileMaker database, SerieDB LfdNr Z1353, last updated on 2011-10-19</recordOrigin>
+    </recordInfo>
+    <identifier type="wsc">Z1353</identifier>
+</mods>

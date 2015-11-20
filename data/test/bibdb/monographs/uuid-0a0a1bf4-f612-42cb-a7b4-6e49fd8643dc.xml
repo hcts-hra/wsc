@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0a0a1bf4-f612-42cb-a7b4-6e49fd8643dc">
+    <name type="personal" xlink:href="uuid-83b02825-85a8-4413-bf7f-825418e6616c">
+        <namePart type="given" lang="chi" transliteration="chinese/ala-lc">Xi</namePart>
+        <namePart type="family" lang="chi" transliteration="chinese/ala-lc">Zhou</namePart>
+        <namePart type="given" lang="chi" script="Hant">熙</namePart>
+        <namePart type="family" lang="chi" script="Hant">周</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>旅杭測量日記</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Luhang celiang riji</title>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>Diary of the geodetic survey on a journey to Hangzhou</title>
+    </titleInfo>
+    <originInfo lang="chi">
+        <place>
+            <placeTerm type="text"/>
+        </place>
+        <publisher lang="chi"/>
+        <dateIssued>unknown</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>1</extent>
+    </physicalDescription>
+    <genre type="PrimSec">Primary Source</genre>
+    <subject authority="lcsh">
+        <topic>Social sciences</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Geography</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Public administration</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Physical geography</topic>
+    </subject>
+    <location>
+        <physicalLocation type="text">Beitu</physicalLocation>
+        <holdingSimple>
+            <copyInformation>
+                <shelfLocator>科 240/916</shelfLocator>
+            </copyInformation>
+        </holdingSimple>
+    </location>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from WSC FileMaker database, BiblioDB LfdNr Bib1860, FileMaker record last updated on 2013-04-26</recordOrigin>
+    </recordInfo>
+    <identifier type="wsc">Bib1860</identifier>
+    <note type="Notes on derivation of bibliographical data">Putong guji zongmu 13, S. 57, §0666</note>
+    <typeOfResource>text</typeOfResource>
+</mods>

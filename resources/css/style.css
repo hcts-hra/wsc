@@ -1,0 +1,22 @@
+/* Application styles could go here */
+#header a#logo {
+    background: url(../images/wsc-icon.png) center left no-repeat;
+    display: block;
+    width: 128px;
+    height: 75px;
+    text-indent: -999em;
+    outline: 0;
+    margin: 10px 0;
+  }
+
+ 
+#header a{
+  float:left;
+  margin-right:5px;
+}
+
+/*#navbar a#navbar-brand { */
+/*    height: 32px; */
+/*    width: 32px;*/
+/*    padding-top: 0px;*/
+/*}*/

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0a1a10ac-1699-45c5-9cb1-864c17344eb9">
+    <name type="personal" xlink:href="uuid-803fe3f5-73a1-459c-b2cd-853b01aaa5cc">
+        <namePart type="given" lang="chi" transliteration="chinese/ala-lc"/>
+        <namePart type="family" lang="chi" transliteration="chinese/ala-lc">Imaizumi</namePart>
+        <namePart type="given" lang="chi" script="Hant">秀大郎</namePart>
+        <namePart type="family" lang="chi" script="Hant">今泉</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>極東地圖</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jidong ditu</title>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>Maps of the Far East</title>
+    </titleInfo>
+    <originInfo lang="chi">
+        <place>
+            <placeTerm type="text" script="Hant">日本</placeTerm>
+            <placeTerm type="text" transliteration="chinese/ala-lc">Japan</placeTerm>
+        </place>
+        <publisher script="Hant">信陽堂</publisher>
+        <publisher transliteration="chinese/ala-lc">Xinyangtang</publisher>
+        <dateIssued>1902</dateIssued>
+        <edition>R</edition>
+    </originInfo>
+    <genre type="PrimSec">Primary Source</genre>
+    <subject authority="lcsh">
+        <topic>Social sciences</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Geography</topic>
+    </subject>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from WSC FileMaker database, BiblioDB LfdNr Bib8815, FileMaker record last updated on 2013-04-26</recordOrigin>
+    </recordInfo>
+    <identifier type="wsc">Bib8815</identifier>
+    <note type="Bibliographical data derived from" xlink:href="#uuid-e6c59ad5-2451-4c13-a29c-2cd36c594ddb">Record ID: uuid-e6c59ad5-2451-4c13-a29c-2cd36c594ddb, entitled: Yishu jingyanlu 譯書經眼錄. Notes: S. V-9a</note>
+    <typeOfResource>text</typeOfResource>
+</mods>
