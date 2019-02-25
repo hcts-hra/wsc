@@ -9,27 +9,14 @@ related databases linked to the bibliography, which will be prepared for online 
 involved in diverse instances of distribution, adaptation and appropriation of knowledge from Euro-America and Japan in late Qing and early Republican China.
 
 ### Developing
-WSC runs on [eXist-db 2.2] (https://github.com/eXist-db/exist)
+WSC runs in [eXist-db 4.4.0+] (https://github.com/eXist-db/exist)
 WSC consists of an application and a separate data package. 
 
-### Building with ant
-Make sure ant is up to date (>1.8).
-
-To build this application package clone or fork this respository, then go into the folder for this repo.
-````shell
-$ cd wsc
-````
- calling ant in the wsc directory. 
-````shell
-$ ant
-````
-This creates a .xar file in ````/wsc/build````
-You can install the app by selecting this file via package manager > add a package in eXist.
+### Building with maven
+Run "mv clean package".
+You can install the app in eXist by selecting this file via Package manager > Add a package in eXist.
 
 The data package by default resides in 
 ````
-/db/resources/commons/WSC
+/db/data/commons/WSC
 ````
-
-We are in the processes of revising the data for our next release. 
-A stable link will be added soon.
