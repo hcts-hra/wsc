@@ -35,7 +35,7 @@
         </fileDesc>
         <encodingDesc>
             <listPrefixDef> <!--the resolver should be working for test-server, but we should push tamboti ticket for better stable URIs -->
-                <prefixDef ident="uuid" xml:base="http://kjc-ws2.kjc.uni-heidelberg.de:8900/Name /db/resources/commons/WSC/bibdb/" matchPattern="(.*)" replacementPattern="($1)">
+                <prefixDef ident="uuid" xml:base="http://kjc-ws2.kjc.uni-heidelberg.de:8900/Name /db/data/commons/WSC/bibdb/" matchPattern="(.*)" replacementPattern="($1)">
                     <p>Directs source links to www.tamboti.uni-hd.de (test)</p>
                 </prefixDef>
             </listPrefixDef>

@@ -10,8 +10,8 @@ declare default element namespace "http://www.gexf.net/1.2draft";
 
 
 (:these should be changed to '/db/apps/WSC/biodb | bibdb/' once WSC is fully appified:)
-declare variable $bio := doc('/db/resources/commons/WSC/biodb/wsc_persons.xml');
-declare variable $bib := collection('/db/resources/commons/WSC/bibdb');
+declare variable $bio := doc('/db/data/commons/WSC/biodb/wsc_persons.xml');
+declare variable $bib := collection('/db/data/commons/WSC/bibdb');
 (:adjust as necessary:)
 declare variable $creator := "Duncan Paterson";
 declare variable $person := $bio/tei:TEI/tei:text/tei:body/tei:listPerson/tei:person;

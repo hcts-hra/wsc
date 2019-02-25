@@ -14,6 +14,7 @@ WSC consists of an application and a separate data package.
 
 ### Building with maven
 Run "mv clean package".
+
 You can install the app in eXist by selecting this file via Package manager > Add a package in eXist.
 
 The data package by default resides in 
