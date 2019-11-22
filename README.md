@@ -9,7 +9,7 @@ related databases linked to the bibliography, which will be prepared for online 
 involved in diverse instances of distribution, adaptation and appropriation of knowledge from Euro-America and Japan in late Qing and early Republican China.
 
 ### Developing
-WSC runs in [eXist-db 4.4.0+] (https://github.com/eXist-db/exist)
+WSC runs in [eXist-db 4.4.0+](https://github.com/eXist-db/exist)
 WSC consists of an application and a separate data package. 
 
 ### Building with maven
